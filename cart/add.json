@@ -1,18 +1,4 @@
 {
   result: 1,
-  basket : [
-     {
-         id_product : 1,
-         price : 100
-     },
-     {
-         id_product : 2,
-         price : 200
-     },
-     {
-         id_product : 3,
-         price : 400
-     }
-  ],
-  amount: 3
+  full_price : 400
 }
