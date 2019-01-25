@@ -1,13 +1,13 @@
 {
   result: 1,
-  basket : [
+  basket: [
      {
-         id_product : 1,
-         price : 100
+         id_product: 1,
+         price: 100
      },
      {
-         id_product : 2,
-         price : 200
+         id_product: 2,
+         price: 200
      }
   ],
   amount: 100
