@@ -1,0 +1,1510 @@
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+Exhibit 10.2 
+
+COLLABORATION, DEVELOPMENT AND LICENSE AGREEMENT 
+
+THIS COLLABORATION, DEVELOPMENT AND LICENSE AGREEMENT (the “Agreement”) is made and entered into as of September 28, 2016 (the “Effective Date”), by and between TESARO, Inc., a Delaware corporation with a place of business at 1000 Winter Street, Suite 3300, Waltham, Massachusetts, United States of America, 02451 (“TESARO Inc.”), TESARO Development Ltd., a Bermuda corporation with a place of business at Clarendon House, 2 Church Street, Hamilton HM 11 Bermuda (“TSRO Ltd.”, and together with “TESARO Inc.”, “TESARO”) and Zai Lab (Shanghai) Co., Ltd. having its principal office at 1043 Halei Road, Building 8, Suite 502, Pudong, Shanghai, P.R. China, 201203 (“ZAI”). TESARO and ZAI are sometimes referred to herein individually as a “Party” and collectively as the “Parties.” 
+
+RECITALS 
+
+WHEREAS, TESARO is developing a proprietary PARP inhibitor, Niraparib, and owns or controls certain patents, know-how and other intellectual property rights with respect to such compound; and 
+
+WHEREAS, ZAI is a company focusing on the development of innovative drug candidates, including immuno-oncology-focused drug-candidates, primarily in China; and 
+
+WHEREAS, ZAI desires to obtain an exclusive license from TESARO to develop and commercialize niraparib in China, and TESARO is willing to grant such a license to ZAI, all on the terms and conditions set forth herein; 
+
+WHEREAS, the parties desire to potentially co-market niraparib in China and to provide TESARO the right to exercise such co-marketing rights on the terms and conditions set forth herein; and 
+
+WHEREAS, TESARO desires to obtain an option to obtain an exclusive license from ZAI to research, develop, manufacture, and commercialize certain immune-oncology assets being developed by ZAI outside of China, and ZAI is willing to grant such an option on TESARO, all on the terms and conditions set forth herein. 
+
+NOW, THEREFORE in consideration of the foregoing and the mutual agreements set forth below, the Parties agree as follows. 
+
+ 
+
+1. 
+
+
+
+
+1. DEFINITIONS 
+
+The terms in this Agreement with initial letters capitalized, whether used in the singular or the plural, shall have the meaning set forth below or, if not listed below, the meaning designated in places throughout this Agreement. 
+
+1.1 “Affiliate” of a Person means any other Person which (directly or indirectly) is controlled by, controls or is under common control with such Person, for so long as such control exists. For the purposes of this definition, the term “control” (including, with correlative meanings, the terms “controlled by” and “under common control with”) as used with respect to a Person means (a) direct or indirect ownership of voting securities entitled to cast more than fifty percent (50%) (or, if less than 50%, the maximum ownership interest permitted by Applicable Law) of the votes in the election of directors of such entity, or (b) the possession, directly or indirectly, of the power to direct the management and policies of such entity, whether through ownership of voting securities, by contract or otherwise. 
+
+1.2 “Applicable Law” means all applicable laws, statutes, rules, regulations, ordinances and other pronouncements having the effect of law of any federal, national, multinational, state, provincial, county, city or other political subdivision, agency or other body, domestic or foreign. 
+
+1.3 “AZ Agreements” means the following agreements between TESARO and AstraZeneca UK Limited (“AZ”): the Patent License Agreement dated October 4, 2012, between AZ (the Institute of Cancer Research) and TESARO; and the Patent License Agreement dated October 4, 2012, between AZ (University of Sheffield) and TESARO. 
+
+1.4 “Business Day” or “business day” means a day other than Saturday, Sunday or any day on which commercial banks located in Shanghai, China or New York City, New York, U.S. (as applicable) are authorized or obligated by Applicable Law to close. 
+
+1.5 “Calendar Quarter” means the respective periods of three (3) consecutive calendar months ending on March 31, June 30, September 30 and December 31. 
+
+1.6 “Calendar Year” means each successive period of twelve (12) months commencing on January 1 and ending on December 31. 
+
+1.7 “CDE” means the Chinese Center for Drug Evaluation. 
+
+1.8 “CFDA” means the China Food and Drug Administration, or any successor agency with a similar scope of responsibility regarding the regulation of human pharmaceutical products in China. 
+
+1.9 “China” means mainland China, Hong Kong and Macau. 
+
+ 
+
+2. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+1.10 “Commercialization” or “Commercialize” means all activities directed to marketing, distributing, detailing or selling a Licensed Product (as well as importing and exporting activities in connection therewith), including all activities directed to obtaining pricing approvals. 
+
+1.11 “Commercially Reasonable Efforts” means the performance of obligations or tasks in a manner consistent with the reasonable practices of companies in the biopharmaceutical industry having similar financial resources for the Development or Commercialization (as applicable) of a product having similar technical and regulatory factors and similar market potential, profit potential and strategic value, and that is at a similar stage in its Development or product life cycle as the Licensed Product, in each case based on conditions then prevailing and without regard to any competitive internal program of Licensee. Commercially Reasonable Efforts requires that the Party (a) promptly assign responsibility for such obligations to specific employees who are held accountable for progress and monitoring such progress on an ongoing basis, (b) set and consistently seek to achieve specific and meaningful objectives for carrying out such obligations, and (c) consistently make and implement decisions and allocate adequate resources designed to advance progress with respect to such obligations. 
+
+1.12 “Confidential Information” means all information, including trade secrets, processes, formulae, Data, know-how, improvements, inventions, chemical or biological materials, assays, techniques, marketing plans, strategies, customer lists, or other information that has been disclosed by or on behalf of one Party to the other Party under this Agreement, regardless of whether any of the foregoing are marked “confidential” or “proprietary” or communicated in oral, written, graphic, or electronic form, or by visual inspection. 
+
+1.13 “Controlled” or “Controls”, when used in reference to any particular subject matter including Patents, know-how, tangible materials or other intellectual property rights, means the legal authority or right of a Party to grant a license or sublicense to such subject matter to another Party, or to otherwise provide such other Party the right to access and use such subject matter, whether arising by ownership, license, or other authorization, without breaching the terms of any written agreement with a Third Party under which such Party first acquired rights to such subject matter, or misappropriating the proprietary or trade secret information of a Third Party. 
+
+1.14 “Cover,” “Covered” or “Covering” means, with respect to a Patent, that, but for rights granted to a Person under such Patent, the practice by such Person of an invention claimed in such Patent would infringe a Valid Claim included in such Patent, or in the case of a Patent that is a patent application, would infringe a Valid Claim in such patent application if such claim were to issue in a patent as then prosecuted. 
+
+1.15 “Data” means pre-clinical, clinical, chemical, manufacturing and analytical data and any other data and information generated or resulted from the Development or Commercialization of the Licensed Compounds or Licensed Products. 
+
+1.16 “Development” means, with respect to a Licensed Product, all processes and activities that are reasonably required to obtain Regulatory Approval of such Licensed Product, including, without limitation, toxicology, pharmacology and other pre-clinical efforts, test method development and stability testing, statistical analysis, clinical studies and regulatory activities. When used as a verb, “Develop” means to engage in Development. 
+
+ 
+
+3. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+1.17 “Dollar(s)” or “$” means the lawful currency of the United States. 
+
+1.18 “Executive Officer” means, (a) in the case of TESARO, TESARO’s Chief Executive Officer; and (b) in the case of ZAI, ZAI’s Chief Executive Officer. 
+
+1.19 “FDA” means the U.S. Food and Drug Administration, or any successor agency of the U.S. government with a similar scope of responsibility regarding the regulation of human pharmaceutical products. 
+
+1.20 “Field” means the treatment, diagnosis and prevention of any diseases or conditions in humans, other than the treatment, diagnosis and prevention of prostate cancer. 
+
+1.21 “First Commercial Sale” means, with respect to any Licensed Product, the first sale of such Licensed Product by ZAI or its Affiliates or sublicensees to an unrelated Third Party in the ZAI Territory after Regulatory Approval of such Licensed Product has been granted in the ZAI Territory. For clarity, First Commercial Sale does not include the supply or transfer of Licensed Product to an Affiliate or sublicensee or for clinical trials, compassionate use or sales made on a named-patient basis. 
+
+1.22 “Follow-on Compound” means a Licensed Compound other than Niraparib. 
+
+1.23 “GCP” means the Good Clinical Practice for Drugs (i.e.  ) promulgated by CFDA effective as of September 1, 2003, together with any guidelines and/or implementation rules issued by CFDA in connection thereto, in each case as amended from time to time. 
+
+1.24 “Government Official” means: (a) any officer or employee of a government or any department, agency or instrument of a government; (b) any person acting in an official capacity for or on behalf of a government or any department, agency, or instrument of a government; (c) any officer or employee of a company or business owned in whole or part by a government; (d) any officer or employee of a public international organization such as the World Bank or United Nations; (e) any officer or employee of a political party or any person acting in an official capacity on behalf of a political party; and/or (f) any candidate for political office; who, when such Government Official is acting in an official capacity, or in an official decision-making role, has responsibility for performing regulatory inspections, government authorizations or licenses, or otherwise has the capacity to make decisions with the potential to affect the business of either of the Parties. 
+
+1.25 “Indication” means, with respect to a Licensed Compound or Licensed Product, the use of that Licensed Compound or Licensed Product for the treatment, prevention, mitigation or cure of any cancer with a particular organ of origin. Indications will be deemed the same for purposes of this Agreement if the subject cancers have the same organ of origin even if 
+
+ 
+
+4. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+they are, for example, of a different histologic or genetic subtype or line of therapy (e.g., breast cancer, 1st line and 2nd line therapies for ovarian cancer), and will be deemed different if the subject cancers have different organs of origin (e.g., breast cancer and ovarian cancer). Among non-solid tumor cancers, Indications for leukemia, lymphoma and multiple myeloma, but not their subtypes or lines of therapy, shall be considered different Indications. 
+
+1.26 “Invention” means any and all inventions and improvements, whether or not patentable, that are conceived or reduced to practice or otherwise made or discovered by or on behalf of a Party (and/or its Affiliates) (whether alone or jointly) in the performance of its obligations, or the exercise of its rights, under this Agreement, including but not limited to, processes, methods, compositions of matter, formula, formulations, articles of manufacture, discoveries or findings, compounds, products, biological materials, cell lines, samples of assay components, media, designs, ideas, programs, software models, algorithms, developments, experimental works, compilations of data, in each case relating to Licensed Compound and Licensed Products. 
+
+1.27 “Joint Invention” means any Invention invented, made or discovered jointly by both Parties. 
+
+1.28 “Licensed Compound” means TESARO’s proprietary PARP inhibitor known as Niraparib, having chemical structure set forth in Exhibit A, and any pharmaceutically acceptable salt, polymorph, crystal form, prodrug or solvate thereof. 
+
+1.29 “Licensed Product” means any pharmaceutical product containing the Licensed Compound, in all forms, presentations, formulations and dosage forms, for use in the Field. 
+
+1.30 “Merck Agreement” means that certain License Agreement between TESARO and Merck, Sharp & Dohme Corp. (“Merck”), dated May 22, 2012, as amended from time to time. 
+
+1.31 “NDA” means a new drug application or marketing authorization application filed with the applicable Regulatory Authority in a country or jurisdiction, which application is required for marketing approval for a Licensed Product in the Field in such country or jurisdiction. 
+
+1.32 “Net Sales” means, with respect to any Licensed Product, the amount invoiced by ZAI, its Affiliates or sublicensees for the sales of such Licensed Product to a Third Party in the ZAI Territory less: 
+
+(a) trade and quantity discounts other than early payment cash discounts; 
+
+(b) returns, rebates, chargebacks and other allowances; 
+
+(c) retroactive price reductions that are actually allowed or granted; 
+
+ 
+
+5. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(d) sales commissions paid to Third Party distributors and/or selling agents; 
+
+(e) deductions to gross invoice price of Product imposed by Regulatory Authorities or other governmental entities; 
+
+(f) a fixed amount equal to three percent (3%) of the amount invoiced to cover bad debt, early payment cash discounts, transportation and insurance and custom duties; and 
+
+(g) the standard inventory cost of devices or delivery systems used for dispensing or administering Product. 
+
+If a Licensed Product is sold as part of a combination that (i) contains the Licensed Compound and at least one additional therapeutically active ingredient that is not a Licensed Compound; or (ii) is product consisting of one or more separate drugs, devices, tests, kits or biological products and sold together with a Licensed Product in a single package or as a unit (a “Combination Product”), the Net Sales of such Licensed Product for the purpose of calculating royalties owed under this Agreement for sales of such Licensed Product, shall be determined as follows: first, determine the actual Net Sales of such Combination Product (using the above provisions) and then such amount shall be multiplied by the fraction A/(A+B), where A is the average gross selling price in the applicable country of the Licensed Compound sold separately, if sold separately, in the same formulation and dosage, and B is the sum of the average gross selling prices in the applicable country of each other active ingredient, drug, device, test, kit or biological product in the Combination Product sold separately, if sold separately, in the same formulation, dosage or unit quantity. If any active ingredient, drug, device, test, kit or biological product in the Combination Product is not sold separately in the relevant formulation, dosage or unit quantity, Net Sales shall be calculated by multiplying actual Net Sales of such Combination Product by the fraction A/C where A is the average gross selling price in the applicable country of such Licensed Compound sold separately in the same formulation and dosage and C is the average gross selling price in the applicable country of such Combination Product. If neither the Licensed Compound nor any other active ingredient, drug, device, test, kit or biological product in the Combination Product is sold separately in the relevant formulation, dosage or unit quantity, the adjustment to Net Sales shall be determined by the Parties in good faith to reasonably reflect the fair market value of the contribution of the Licensed Compound in the Combination Product to the total fair market value of such Combination Product. 
+
+1.33 “Patents” means all of the following, whether existing as of the Effective Date or during the Term, anywhere in the world: (a) patents and patent applications, (b) all priority applications, provisionals, divisionals, continuations, and continuations-in-part of any of the foregoing, and (c) all patents issuing on any of the foregoing patent applications, together with all inventor’s certificates, substitutions, validations, registrations, reissues, renewals, reexaminations, confirmations, supplementary protection certificates, and extensions of any of (a), (b) or (c). 
+
+1.34 “Person” means any individual, firm, corporation, partnership, limited liability company, trust, business trust, joint venture company, governmental authority, association or other entity. 
+
+ 
+
+6. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+1.35 “Phase 3 Clinical Trial” means a clinical trial of a Licensed Product in human patients with a defined dose or a set of defined doses designed to ascertain efficacy and safety of such Licensed Product for the purpose of enabling the preparation and submission of NDA to the competent Regulatory Authorities, as further defined in 21 C.F.R. 312.21(c), as amended from time to time, or the corresponding foreign regulations. 
+
+1.36 “Regulatory Approval” means all approvals, including if required by Applicable Law, pricing approvals, necessary for the manufacture, marketing, importation, exportation and sale of a Licensed Product in the ZAI Territory, which may include, without limitation, satisfaction of all applicable regulatory and notification requirements. 
+
+1.37 “Regulatory Authority” means any federal, national, supranational, state, provincial or local regulatory agency, department, bureau or other governmental authority, including, without limitation, the CDE and the CFDA, that has authority over the manufacture, Development, Commercialization or other use or exploitation (including the granting of Regulatory Approval) of any Licensed Product in any applicable regulatory jurisdiction. 
+
+1.38 “Regulatory Materials” means materials developed or compiled in preparation for Regulatory Authority meetings, regulatory applications, submissions, dossiers, notifications, registrations, Regulatory Approvals and/or other filings made to or with, or other approvals granted by, a Regulatory Authority that are necessary or reasonably desirable for the Development, manufacture, market, sale, or Commercialization of a Licensed Product in a particular regulatory jurisdiction. 
+
+1.39 “Sole Invention” means any Invention invented or discovered solely by or on behalf of a Party following the Effective Date, including by its employees, contractors and/or agents. 
+
+1.40 “Subcontractor” means a Third Party engaged by ZAI for the purpose of conducting clinical Development for Licensed Products, contract manufacturing, toxicology testing and other related Development Activities, solely at the direction, and on behalf of, ZAI. 
+
+1.41 “TESARO IP” means TESARO Know-How and TESARO Patents. 
+
+1.42 “TESARO Know-How” means all technical information, data and know- how Controlled by TESARO or its Affiliates as of the Effective Date or during the Term (including, without limitation, all biological, chemical, pharmacological, toxicological or clinical know-how, Data and trade secrets) that are reasonably necessary for the Development, manufacture or Commercialization of the Licensed Compound or Licensed Product in the ZAI Territory. TESARO Know-How shall also include the (a) intangible knowledge and information conveyed to ZAI as set forth in Section 4.1 and (b) TESARO’s right and interest in and to any Joint Inventions. TESARO Know-How does not include TESARO Patents. 
+
+1.43 “TESARO Patents” means all Patents Controlled by TESARO or its Affiliates as of the Effective Date or during the Term that relate to the ZAI Territory and that Covers (a) the compositions of matter of the Licensed Compound or Licensed Product; (b) methods or processes directed to the manufacture of the Licensed Compound or Licensed Product; or (c) methods of use, administration or formulation of the Licensed Compound or Licensed Product, including without limitation, the Patents that are listed in Exhibit B hereto. TESARO Patents shall also include TESARO’s rights and interest in and to any Joint Patents. 
+
+ 
+
+7. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+1.44 “TESARO Territory” means all countries and territories in the world other than those countries and territories included in the ZAI Territory. 
+
+1.45 “Territory” means (a) with respect to TESARO, the TESARO Territory and (b) with respect to ZAI, the ZAI Territory. 
+
+1.46 “Third Party” means any Person other than: ZAI, TESARO, and their respective Affiliates. 
+
+1.47 “United States” or “U.S.” means the United States of America and its territories and possessions (including, without limitation, Puerto Rico). 
+
+1.48 “Upstream Agreements” means the AZ Agreements and the Merck Agreement. 
+
+1.49 “Upstream Licensors” means Astra Zeneca and Merck. 
+
+1.50 “Valid Claim” means a claim of (a) an issued and unexpired patent, which claim has not been held invalid or unenforceable by a court or other government agency of competent jurisdiction from which no appeal can be or has been taken and has not been held or admitted to be invalid or unenforceable through re-examination or disclaimer, opposition procedure, nullity suit or otherwise, or (b) a pending patent application; provided, however, that if a claim of a pending patent application shall not have issued within seven (7) years after the earliest filing date from which such claim takes priority, such claim shall no longer constitute a Valid Claim for the purposes of this Agreement unless and until a patent issues with such claim. 
+
+1.51 “ZAI Territory” means China. 
+
+1.52 Additional Definitions. The following table identifies the location of definitions set forth in various Sections of the Agreement: 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Defined Terms
+
+  
+
+Section
+
+ 
+
+Alliance Managers
+
+  
+
+ 
+
+3.7
+
+ 
+
+Claim
+
+  
+
+ 
+
+12.1
+
+ 
+
+Development Plan
+
+  
+
+ 
+
+5.2
+
+ 
+
+Disclosing Party
+
+  
+
+ 
+
+11.1
+
+ 
+
+Excluded Claim
+
+  
+
+ 
+
+14.3
+
+ 
+
+Force Majeure
+
+  
+
+ 
+
+15.3
+
+ 
+
+ICC
+
+  
+
+ 
+
+14.2
+
+ 
+
+Infringement
+
+  
+
+ 
+
+10.3
+
+(a) 
+
+Joint Patents
+
+  
+
+ 
+
+10.1
+
+(a) 
+
+Joint Steering Committee or JSC
+
+  
+
+ 
+
+3.1
+
+ 
+
+ 
+
+8. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pharmacovigilance Agreement
+
+  
+
+ 
+
+5.7
+
+ 
+
+Prior CDA
+
+  
+
+ 
+
+11.6
+
+ 
+
+Receiving Party
+
+  
+
+ 
+
+11.1
+
+ 
+
+Remedial Action
+
+  
+
+ 
+
+5.8
+
+ 
+
+Royalty Term
+
+  
+
+ 
+
+8.3
+
+(b) 
+
+Term
+
+  
+
+ 
+
+13.1
+
+ 
+
+Working Team
+
+  
+
+ 
+
+3.7
+
+ 
+
+2. LICENSE GRANT 
+
+2.1 License to ZAI. TESARO hereby grants to ZAI an exclusive (but subject to TESARO’s retained right under Section 2.2 below), royalty bearing and sublicenseable (in accordance with Section 2.3 below) license under the TESARO IP to Develop, make, have made, use, offer for sale, sell, have sold, import and otherwise Commercialize the Licensed Compound and Licensed Products in the Field in the ZAI Territory. 
+
+2.2 Retained Rights. Subject to the terms and conditions of this Agreement, TESARO retains: (a) the right to practice the TESARO IP within the scope of the license granted to ZAI under Section 2.1 to perform TESARO’s obligations under this Agreement; (b) the right to practice and license the TESARO IP outside the scope of the license granted to ZAI under Section 2.1. 
+
+2.3 Sublicense. ZAI shall have the right to grant sublicenses, under the license granted by TESARO to ZAI under Section 2.1 to its Affiliates, subcontractors and other Third Parties; provided, that TESARO provides its prior written consent to such sublicense granted to any Third Parties, such consent not to be unreasonably withheld, conditioned or delayed; and provided further, that a sublicense to an Affiliate shall not require TESARO’s consent only for so long as such Affiliate remains an Affiliate of ZAI. Each sublicense agreement shall be consistent with, and shall be subject to, the terms and conditions of this Agreement, and ZAI shall remain responsible for the performance of its obligations under this Agreement, regardless of whether ZAI may have delegated those obligations to its sublicensees. ZAI shall, within thirty (30) days after granting any sublicense, notify TESARO of the grant of such sublicense and provide TESARO with a copy of such sublicense, which may be redacted to remove any sensitive information not necessary for TESARO to verify its compliance with the terms of this Agreement. 
+
+2.4 No Implied Licenses, Negative Covenant. Except as expressly set forth herein, neither Party shall acquire any license or other right or interest, by implication or otherwise, under any know-how, patents, trademarks, copyrights, or any other intellectual property of the other Party. ZAI covenants that it will not, and it will not permit any of its Affiliates or sublicensees to, use or practice any TESARO IP outside the scope of the license granted to it under Section 2.1 above. 
+
+ 
+
+9. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+2.5 Subcontracting. Notwithstanding Section 2.3, ZAI shall have the right to engage Subcontractors to perform Development and manufacturing activities hereunder, without the prior written consent of TESARO, subject to the provisions of this Section 2.5. ZAI shall enter into an appropriate written agreement with any subcontractor such that (i) such contractor shall be bound by provisions that are consistent with all applicable provisions of this Agreement to the same extent as ZAI, (ii) any such contractor to whom ZAI discloses Confidential Information of TESARO shall enter into an appropriate written agreement obligating such contractor to be bound by obligations of confidentiality and restrictions on use of such TESARO Confidential Information that are no less restrictive than the obligations in this Agreement, and (iii) such contractor agrees to assign or license (with the right to grant sublicenses) to ZAI any inventions related to the Licensed Compound or Licensed Product(s) (and any Patent covering such inventions) made by such contractor in performing such Development or manufacturing work for ZAI. ZAI shall not use as a Subcontractor any Third Party identified by TESARO to ZAI in writing, as a prohibited Subcontractor, provided that if ZAI obtains TESARO’s written approval to engage any particular Subcontractor(s), then TESARO shall not have the right to subsequently designate such Subcontractor(s) as prohibited Subcontractor(s). 
+
+2.6 Right of First Negotiation. On the condition that ZAI is in compliance with the terms and conditions of this Agreement, TESARO hereby grants ZAI the right of first negotiation to obtain a license to Develop and Commercialize in the Field in the ZAI Territory any Follow-on Compound; provided, that TESARO is also Developing such follow-on compound and TESARO has dosed the first patient in a Phase 1 Clinical Trial with such Follow-on Compound. With respect to each Follow-on Compound, TESARO shall provide written notice to ZAI before filing any IND for such compound, which notice shall include a reasonably detailed summary of the pre-clinical data generated during the research and development of such compound. If ZAI notifies TESARO within thirty (30) days after the receipt of such notice that it is interested in obtaining a license to develop and commercialize such compound in the Field in the Territory, then TESARO shall negotiate in good faith and exclusively with ZAI for a period of sixty (60) days the terms and conditions of such license. If the parties fail to reach agreement on the terms and conditions of such a license within such ninety (90) days, TESARO may enter into discussion with and grant such a license to any Third Party and/or develop and commercialize such compound in the Field in the Territory by itself. 
+
+2.7 PARP Inhibitor Exclusivity. As partial consideration for TESARO granting to ZAI the license set forth in Section 2.1, during the Term, ZAI shall not, and shall cause its Affiliates to not, itself or in cooperation with or through others, discover, research, develop, manufacture or commercialize any PARP Inhibitor other than the Licensed Compounds and Licensed Product hereunder. In the event ZAI wishes to obtain the right (by licensing, merger or acquisition or otherwise) to discover, research, develop, manufacture or commercialize any PARP Inhibitor other than the Licensed Compounds and Licensed Products, ZAI shall notify TESARO in writing, and TESARO may determine, in its sole discretion, [*]. 
+
+2.8 Co-Marketing Right. (a) Notwithstanding anything in this Agreement to the contrary, TESARO shall have an exclusive right to co-promote each Licensed Product in the Field in the ZAI Territory (the “Co-Promote Right”) on the terms set forth in this Section 2.8. TESARO shall provide written notice to ZAI of its intent to exercise the foregoing Co-Promote Right with respect to a Licensed Product no later than twelve months prior to the First Commercial Sale of such Licensed Product in the ZAI Territory (the “Co-Promote Notice”). The Co-Promote Notice shall include TESARO’s written commitment to the following [*]. 
+
+ 
+
+10. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(b) For a period of ninety (90) days following ZAI’s receipt of a Co-Promote Notice, TESARO and ZAI will negotiate in good faith commercially reasonable terms [*] upon which the parties would co-promote the applicable Licensed Product in the ZAI Territory. If TESARO does not deliver a Co-Promote Notice for a Licensed Product to ZAI within the applicable twelve-month period prior to First Commercial Sale of such Licensed Product, then TESARO shall be deemed to have waived its rights under this Section 2.8 solely with respect to the applicable Licensed Product. If TESARO and ZAI do not mutually agree on the terms upon which the parties would co-promote the applicable Licensed Product in the ZAI Territory within the ninety (90) day negotiation period described above, then the matter shall be referred to the Parties’ Executive Officers, who shall meet promptly (either in person or via teleconference) and negotiate in good faith in an attempt to come to an agreement. If the Executive Officers cannot come to an agreement within fifteen (15) days, then the final terms of the co-promote shall be determined in accordance with the binding arbitration procedure set forth in Section 14.2, except that the arbitrator’s decision will be limited to selecting either the terms proposed by TESARO or the terms proposed by ZAI, and such determination shall be final and binding on, and non-appealable by, the Parties. 
+
+3. GOVERNANCE 
+
+3.1 Establishment of JSC. The Parties will establish a joint steering committee to review and oversee the Development and Commercialization of the Licensed Compounds and Licensed Products and to coordinate the Parties’ activities under this Agreement (the “Joint Steering Committee” or “JSC”). Within thirty (30) days after the Effective Date, each Party shall appoint two (2) representatives to the JSC, each of which shall have sufficient seniority and relevant expertise to make decisions within the scope of the JSC’s responsibilities. The JSC may change its size from time to time by mutual consent of the Parties; provided, that the JSC will consist at all times of an equal number of representatives of each of ZAI and TESARO. Each Party may at any time replace its JSC representatives upon written notice to the other Party. 
+
+3.2 Co-Chairpersons of JSC. Each of ZAI and TESARO will select from their representatives a co-chairperson for the JSC, and each Party may change its designated co- chairperson from time to time upon written notice to the other Party. The co-chairpersons of the JSC will be responsible for calling meetings, preparing and circulating an agenda and relevant materials (including drafts of, updates to, or any proposed changes to a Development Plan) to the other Party at least ten (10) business days in advance of each meeting, and preparing and issuing minutes of each meeting within ten (10) business days thereafter. 
+
+3.3 JSC Responsibilities. The JSC shall be responsible for: 
+
+(a) coordinating the activities of the Parties under this Agreement and providing a forum for and facilitate communications between the Parties under this Agreement; 
+
+(b) reviewing, discussing and approving changes to the Development Plan, overseeing the implementation of the Development Plan, and reviewing and discussing the data and results of the Development activities under the Development Plan, in each case, subject to the provisions of Section 3.5, below, 
+
+ 
+
+11. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(c) reviewing and discussing the Commercialization Plan and Commercialization of the Licensed Products in the ZAI Territory; 
+
+(d) reviewing, discussing and coordinating scientific presentations and publication plans with respect to the Licensed Compound, Licensed Product and any results arising therefrom during the course of the Development Plan in the ZAI Territory, and 
+
+(e) performing such other functions as appropriate to further the purposes of this Agreement, as expressly set forth in this Agreement or allocated to it by the Parties in writing by mutual agreement. 
+
+3.4 JSC Meetings. The JSC will hold meetings (either in-person or by teleconference or videoconference) at such times and places as the co-chairpersons may reasonably determine, provided that, unless the Parties agree otherwise, the JSC will meet quarterly and only by teleconference, videoconference or some other electronic means. Each Party will bear its own costs associated with attending meetings. Each Party may from time to time invite a reasonable number of participants, in addition to its representatives, to attend the JSC meetings in a non-voting capacity. Each individual attending any JSC meeting hereunder (whether as a JSC member or invitee) shall be bound by written non-use, non-disclosure terms and conditions at least as restrictive as those set forth in this Agreement with respect to the Confidential Information of the other Party (for clarity, this may be through employment agreements with such individuals). 
+
+3.5 JSC Authority; Limitations. Day-to-day operational level decisions concerning the Development, manufacture and Commercialization of the Licensed Compounds and Licensed Products in the ZAI Territory shall be made by ZAI. Material updates or changes to the Development Plan, including (for clarity) any new clinical protocols or material changes to an approved clinical protocol or material changes to strategy with respect to regulatory activities in the ZAI Territory, shall require approval of the JSC. The members of each Party on the JSC shall collectively have one vote. Except as otherwise provided in this Section 3.5, decisions of the JSC shall be made by unanimous vote, provided that at least one (1) representative from each Party participates in such vote. If the JSC does not reach unanimity with respect to a particular matter, and the JSC is unable to resolve the dispute after endeavoring for fifteen (15) business days to do so, then either Party may, by written notice to the other, have such matter referred to the Parties’ Executive Officers, who shall meet promptly (either in person or via teleconference) and negotiate in good faith to resolve the dispute. If the Executive Officers cannot resolve on such dispute within fifteen (15) days, then ZAI shall have the final decision making authority on such matter to the extent the matter that is the subject of the dispute relates solely to the Development, manufacture or Commercialization of the Licensed Compounds or the Licensed Products in the ZAI Territory and does not impact the Development, manufacture or Commercialization of the Licensed Compounds or the Licensed Products in the TESARO Territory. 
+
+3.6 Limitations on authority of JSC. The JSC will have sole authority with respect to the responsibilities assigned to such committees in Section 3.3 and elsewhere in this Agreement. The JSC shall not have any authority to amend, modify or waive compliance with this Agreement. For clarity, neither TESARO nor ZAI will have any right to unilaterally modify, amend or waive its own compliance with the terms of this Agreement. 
+
+ 
+
+12. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+3.7 Alliance Managers. Each Party shall appoint a single individual to act as the primary point of contact between the Parties in connection with the Development and Commercialization of the Licensed Compound and Licensed Product(s) (the “Alliance Managers”). Each Party may at any time appoint a different Alliance Manager by written notice to the other Party and may elect, upon mutual agreement by the Parties, to eliminate the responsibilities of the Alliance Managers. The Alliance Managers will (i) use good faith efforts to attend all meetings of the JSC, any may also serve as voting members of the JSC, and (ii) be the first point of referral for all matters of conflict resolution, and bring disputes to the attention of the JSC in a timely manner. 
+
+4. TECHNOLOGY TRANSFER 
+
+4.1 Know-How. Promptly after the Effective Date, TESARO shall, to the extent not already delivered to ZAI, deliver to ZAI an electronic copy (either a CD-ROM or access to a secured electronic database) of all material TESARO Know-How relating the Licensed Compound or Licensed Products in the ZAI Territory existing as of the Effective Date. If any additional material TESARO Know-How relating the Licensed Compound or Licensed Products in the ZAI Territory comes into TESARO’s Control during the Term of this Agreement (including any Data resulting from the Development of the Licensed Compounds and Licensed Products in TESARO Territory), TESARO shall promptly notify ZAI and deliver an electronic copy thereof to ZAI. In addition, if at any time during the Term of this Agreement, ZAI identifies particular documents, data or information that are within the TESARO Know-How, but were not previously delivered to ZAI, including without limitation materials requested in connection with an audit or other inquiry by a Regulatory Authority relating to the Development, manufacture and/or Commercialization of the Licensed Compounds and Licensed Products, TESARO shall use reasonable efforts to promptly provide such material to ZAI upon request. 
+
+4.2 Materials. As soon as practicable after the Effective Date but in no event later than the applicable deadline set forth in Exhibit C, TESARO shall provide to ZAI [*] the quantities of Licensed Compounds, Licensed Products and other materials as listed in Exhibit C to this Agreement. Exhibit C shall also set forth the cost to be paid by ZAI for the materials provided by TESARO. In connection with the supply of such Licensed Compounds, Licensed Products and materials, TESARO shall also provide ZAI with relevant documents, including batch records, certificate of analysis and certificate of compliance. All such materials provided by TESARO hereunder shall not be used by ZAI for any purpose other than Development, manufacture or Commercialization of the Licensed Compound and Licensed Product(s) in the ZAI Territory in accordance with this Agreement. 
+
+4.3 Technical Assistance. For a period of six (6) months after the Effective Date, TESARO shall provide ZAI with reasonable technical assistance to help ZAI to understand and use the TESARO Know-How to Develop and manufacture the Licensed Compounds and Licensed Products. Such technical assistance shall include reasonable access, by teleconference or in-person at TESARO’s facilities (subject to TESARO’s customary rules and restrictions with respect to site visits by non-TESARO personnel), to TESARO personnel familiar with research, development and manufacture of the Licensed Compounds and Licensed Products, including CMC expertise in connection with the manufacture of the Licensed Compounds and Licensed Products. 
+
+ 
+
+13. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+4.4 Costs. [*]. 
+
+5. DEVELOPMENT 
+
+5.1 General. ZAI shall be solely responsible for the Development of the Licensed Products in the Field throughout the Territory, at its own cost and expense. ZAI shall use Commercially Reasonable Efforts to Develop the Licensed Products to obtain Regulatory Approval in the ZAI Territory, including but not limited to, using Commercially Reasonable Efforts to carry out Development (including regulatory activities as set forth in Section 5.5) of the Licensed Products in accordance with the Development Plan and in compliance with Applicable Law, including GCP. 
+
+5.2 Development Plan. The Development of the Licensed Product(s) in the ZAI Territory shall be conducted by ZAI pursuant to a Development plan that will include a description of the Development activities to be performed in support of the Regulatory Approval of the Licensed Product(s) in the ZAI Territory, including projected timelines for completion of such activities (the “Development Plan”). The initial Development Plan agreed to by the Parties is attached hereto as Exhibit D. Any material changes to the Development Plan shall be drafted by ZAI and shared with TESARO, including the addition of any clinical trial protocols or any material changes thereto, and shall require the approval of TESARO (such approval not to be unreasonably withheld). In the event of any proposed change to the Development Plan as a result of any interaction with any Regulatory Authority, the JSC shall meet as promptly as practicable to review and discuss any such proposed changes and determine an appropriate revision (if any) to the Development Plan. 
+
+5.3 Development Records and Reporting. 
+
+(a) Records. ZAI shall maintain complete and accurate records of all work conducted by or on behalf of ZAI in furtherance of the Development of Licensed Product(s) and all material results, Data and developments made in conducting such activities. Such records shall be maintained in sufficient detail and in good scientific manner appropriate for patent and regulatory purposes and in accordance with Applicable Law. 
+
+(b) Reporting. ZAI will provide to TESARO, a written report at least once each calendar quarter, in English, describing in reasonable detail ZAI’s activities and progress related to the Development of the Licensed Products in the ZAI Territory pursuant to the Development Plan. ZAI shall promptly respond to TESARO’s reasonable questions or requests for additional information relating to such Development activities. 
+
+ 
+
+14. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+5.4 Data Sharing and Use. 
+
+(a) Data Sharing. In addition to the adverse event and safety report reporting obligations under Section 5.7 below, each Party shall promptly provide the other Party with copies of all material Data and results generated from its (including its Affiliates’, licensees’ and sublicensees’) Development of the Licensed Compounds and Licensed Products in its Territory to the extent necessary for the Development of the Licensed Compounds and Licensed Products in the other Party’s Territory. 
+
+(b) Use by ZAI. ZAI shall have the right to use and reference any material Data (including related Regulatory Materials) generated from the Development of the Licensed Compounds and Licensed Products in the TESARO Territory (which shall be automatically included in TESARO IP) in support of obtaining Regulatory Approvals for the Licensed Product(s) in the ZAI Territory. ZAI may use and reference all such material Data to Develop, manufacture and Commercialize the Licensed Compounds and Licensed Products in the ZAI Territory, without additional payment or compensation to TESARO. 
+
+(c) Use by TESARO. ZAI shall, as part of the license to TESARO under ZAI Inventions pursuant to Section 10.1(b), provide the right for TESARO to use and reference the material Data generated from the Development of the Licensed Compounds and Licensed Products in the ZAI Territory in support of obtaining Regulatory Approvals for the Licensed Product(s) in the TESARO Territory. 
+
+5.5 Regulatory Activities. ZAI shall apply for (and maintain), at ZAI’s cost and expense, all Regulatory Approvals of Licensed Products in the ZAI Territory. ZAI shall be responsible for the preparation of all Regulatory Materials and all communications and interactions with Regulatory Authorities with respect to the Licensed Products in the ZAI Territory, both prior to and subsequent to Regulatory Approval. ZAI shall file all required regulatory dossiers to obtain (and maintain) Regulatory Approvals of the Licensed Products in the ZAI Territory, and will be the holder of such Regulatory Approvals. 
+
+5.6 Regulatory Materials and Meetings. ZAI shall promptly provide TESARO with an electronic copy of all Regulatory Materials and correspondence with Regulatory Authorities by ZAI with respect to the Development of the Licensed Products in the ZAI Territory. During the time period that ZAI is conducting the Development Plan, to the extent legally permissible and practicable, ZAI shall provide TESARO prior notice with respect to all meetings, conferences and discussions with Regulatory Authorities (including advisory committee meetings and any other meeting of experts convened by a Regulatory Authority) regarding the Licensed Product(s), provided however, ZAI is not obligated to provide TESARO prior notice for meetings, conferences or discussions with Regulatory Authorities that are informal or not previously scheduled. ZAI shall provide such notice within five (5) Business Days after ZAI receives notice of the scheduling of such meeting, conference, or discussion. TESARO shall be entitled to be present at (but not to participate in, unless requested by ZAI or the Regulatory Authority) all such meetings, conferences or discussions with Regulatory Authorities to the extent permitted under Applicable Laws, provided, however, in the event that, in ZAI’s reasonable judgment, TESARO’s presence in any such meeting, conference or discussion will negatively affect the outcome of such meeting, conference or discussion, TESARO shall defer to ZAI’s reasonable judgment. 
+
+ 
+
+15. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+5.7 Pharmacovigilance. Within ninety (90) days after the Effective Date, the Parties shall define and finalize the actions that the Parties shall employ with respect to the Licensed Compounds and Licensed Products to protect patients and promote their well-being in a written pharmacovigilance agreement (the “Pharmacovigilance Agreement”). These responsibilities shall include mutually acceptable guidelines and procedures for the receipt, investigation, recordation, communication, and exchange (as between the Parties) of adverse event reports, pregnancy reports, and any other information concerning the safety of any Licensed Product. Such guidelines and procedures shall be in accordance with, and enable the Parties to fulfill, local and national regulatory reporting obligations under Applicable Laws. Furthermore, such agreed procedure shall be consistent with relevant ICH guidelines, except where said guidelines may conflict with existing local regulatory reporting safety reporting requirements, in which case local reporting requirement shall prevail. Each Party shall be responsible for reporting quality complaints, adverse events and safety data related to a Licensed Product to applicable Regulatory Authorities in its Territory, as well as responding to safety issues and to all requests of Regulatory Authorities relating to a Licensed Product in its Territory. The Pharmacovigilance Agreement shall also provide for a worldwide safety database to be maintained by TESARO at its cost. Each Party hereby agrees to comply with its respective obligations under such Pharmacovigilance Agreement and to cause its Affiliates and permitted sublicensees to comply with such obligations. 
+
+5.8 Remedial Actions. Each Party will notify the other Parties immediately, and promptly confirm such notice in writing, if it obtains information indicating that any Licensed Product may be subject to any recall, corrective action or other regulatory action with respect to such product taken by virtue of Applicable Law (a “Remedial Action”). The Parties will assist each other in gathering and evaluating such information as is necessary to determine the necessity of conducting a Remedial Action. Each Party shall, and shall ensure that its Affiliates and sublicensees will, maintain adequate records to permit the Parties to trace the manufacture, distribution and use (to the extent possible) of the Licensed Products. As between the Parties, ZAI shall have sole discretion with respect to any matters relating to any Remedial Action for the Licensed Product in the ZAI Territory and TESARO shall have sole discretion with respect to any matters relating to any Remedial Action for the Licensed Product in the TESARO Territory. In the event that a Party determines that any Remedial Action with respect to the Licensed Product in its Territory should be commenced, or if Remedial Action is required by any Regulatory Authority having jurisdiction over the matter in its Territory, such Party will control and coordinate all efforts necessary to conduct such Remedial Action and shall be responsible for all cost and expense of such Remedial Action in its territory. 
+
+6. COMMERCIALIZATION 
+
+6.1 General. ZAI shall have the sole right to and responsibility for the Commercialization of Licensed Products in the ZAI Territory, including manufacturing, selling, distributing and invoicing Licensed Products and would book one hundred percent (100%) of the sales, in the ZAI Territory. ZAI shall use Commercially Reasonable Efforts to Commercialize the Licensed Products in the ZAI Territory after Regulatory Approval has been obtained, and shall conduct its Commercialization activities with respect to the Licensed Products in accordance with Applicable Law. 
+
+ 
+
+16. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+6.2 Coordination of Commercialization Activities. 
+
+(a) General. The Parties recognize that they may benefit from the coordination of certain activities in support of the Commercialization of the Licensed Products in the ZAI Territory. As such, the Parties will coordinate such activities where appropriate and as such coordination may be mutually agreed by the Parties. ZAI shall update TESARO in writing on a quarterly basis, through the JSC, of the expected timing of the commercial launch and First Commercial Sale of each Licensed Product in the ZAI Territory. 
+
+(b) Pricing. Each Party shall have the right to determine the price of the Licensed Product sold in its Territory and no Party shall have the right to direct, control or approve the pricing of the Licensed Product in the other Party’s Territory. 
+
+(c) Global Brand Elements. The Parties, through their respective Alliance Managers, may endeavor to develop and adopt the key distinctive colors, logos, images, symbols, and trademarks to be used in both Territories in connection with the Commercialization of the Licensed Products. Each Party shall own the rights in such global brand elements in its Territory and shall Commercialize the Licensed Products in its Territory in a manner consistent with the applicable global brand elements. 
+
+(d) Market Research and Materials. At each regularly scheduled JSC meeting, each Party shall update the other Party regarding the material market research that it is performing with respect to the Licensed Products, and shall provide the other Party with a copy of such research upon request if such material market research is necessary for the other Party to commercialize the Licensed Products in its Territory. The Parties shall also share copies of all marketing and promotional materials with respect to the Commercialization of the Licensed Products with each other. 
+
+6.3 Diversion. Each Party hereby covenants and agrees that it and its Affiliates shall not, and it shall contractually obligate (and use Commercially Reasonable Efforts to enforce such contractual obligation) its licensees and sublicensees not to, directly or indirectly, actively promote, market, distribute, import, sell or have sold any Licensed Product, including via the Internet or mail order, to any Third Party or to any address or Internet Protocol address or the like in the other Party’s Territory. Neither Party shall engage, nor permit its Affiliates and sublicensees to engage, in any advertising or promotional activities relating to any Licensed Product for use directed primarily to customers or other buyers or users of such product located in any country or jurisdiction in the other Party’s Territory, or solicit orders from any prospective purchaser located in any country or jurisdiction in the other Party’s Territory. If a Party or its Affiliates or sublicensees receives any order for a Licensed Product for use from a prospective purchaser located in a country or jurisdiction in the other Party’s Territory, such Party shall immediately refer that order to such other Party and shall not accept any such orders. Neither Party shall deliver or tender (or cause to be delivered or tendered), nor permit its Affiliates and sublicensees to, deliver or tender (or cause to be delivered or tendered) any Licensed Product for use in the other Party’s Territory. 
+
+ 
+
+17. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+6.4 Trademark. Subject to Section 6.2(c), ZAI shall have the right to brand the Licensed Products in the ZAI Territory using ZAI related trademarks and any other trademarks and trade names it determines appropriate for the Licensed Products, which may vary by country or within a country. ZAI shall own all rights in such trademarks and register and maintain such trademarks in the countries and regions within the ZAI territory, where it determines appropriate. 
+
+7. MANUFACTURE AND SUPPLY 
+
+7.1 Product Manufacture and Supply. Except for the initial supply set forth in Section 4.2 above, ZAI shall be solely responsible for, either by itself or through its Affiliates or Third Party contact manufactures, the manufacture and supply of all necessary clinical and commercial supply of the Licensed Compounds and Licensed Products, in conformance with the applicable specifications thereof and all Applicable Laws, for both Development and Commercialization of the Licensed Compounds and Licensed Products in the ZAI Territory. To the extent necessary for the Development of the Licensed Compounds and Licensed Products in the ZAI Territory in accordance with this Agreement, ZAI shall obtain all other clinical supplies, and acknowledges and agrees that (a) such clinical supplies shall be manufactured and supplied in accordance with the Good Manufacturing Practice for Drugs  promulgated by CFDA, and (b) ZAI shall be responsible for labeling of such supplies and distribution to clinical sites. Notwithstanding the foregoing, ZAI shall not use any contract manufacturer or materials supplier listed on Schedule 7.1, for the purposes of manufacturing Licensed Compounds or Licensed Products, without the prior written consent of TESARO. 
+
+7.2 Manufacturing Technology Transfer. Without limiting Article 4, upon ZAI’s reasonable request, TESARO shall transfer to ZAI or its designated Third Party contract manufacturer all material TESARO Know-How necessary to manufacture the Licensed Compound and Licensed Product. In connection with such technology transfer, TESARO shall provide reasonable technical assistance, at ZAI’s cost, to enable ZAI or its designated Third Party contract manufacturer to manufacture the Licensed Compound and Licensed Product. 
+
+7.3 Supply by TESARO. At any time during the Term, upon ZAI’s written request, TESARO and ZAI may negotiate in good faith terms and conditions of a separate supply agreement, pursuant to which TESARO would manufacture and supply Licensed Compound and/or Licensed Product to ZAI; provided, neither party is obligated to enter into any such supply agreement. Notwithstanding the foregoing, in the event ZAI is required by the CFDA to Commercialize the Licensed Product as an imported product, and the Parties have not entered into the supply agreement referred to above, then (a) TESARO will use Commercially Reasonable Efforts to manufacture and supply the Licensed Compound and/or Licensed Product to ZAI for such Commercialization purposes pursuant to the terms of a supply agreement to be negotiated in good faith between the parties, which terms shall include [*]. 
+
+ 
+
+18. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+8. FINANCIAL TERMS 
+
+8.1 License Fee Consideration. 
+
+(a) Upfront Payment. As partial consideration to TESARO for the rights and licenses granted to ZAI hereunder, ZAI shall pay to TESARO fifteen million Dollars ($15,000,000) non-refundable, non-creditable upfront payment, due thirty (30) business days after the Effective Date. 
+
+(b) Right of First Refusal. As partial consideration to TESARO for the rights and licenses granted to ZAI hereunder, ZAI hereby grants TESARO the right to enter into a license described in this Section 8.1(b) with respect to each of the first two Immuno-oncology assets [*] (each, an “Immuno-Oncology Asset”) developed by ZAI during the Term. If, at any time during the Term, ZAI develops and intends to advance any such Immuno-Oncology Asset into human clinical trials in the ZAI Territory, then at least six months prior to the initiation of any human clinical trial of such Immuno-Oncology Asset in the ZAI Territory, ZAI will notify TESARO in writing of such intent and provide TESARO with a confidential written summary of the Immuno-Oncology Asset, including all material clinical, pre-clinical and other relevant data that TESARO may reasonably request which would be necessary for TESARO to determine whether to exercise its right to license such Immuno-Oncology Asset under this Section 8.1(b) (a “Transaction Notice”), which Transaction Notice shall be deemed to be Confidential Information of ZAI under this Agreement. TESARO will notify ZAI within [*] of its receipt of the Transaction Notice whether TESARO would like to exercise its right under this Section 8.1(b) to obtain an exclusive, worldwide (excluding China), sub-licensable, royalty- bearing license to research, develop, manufacture and commercialize the applicable Immuno- Oncology Asset for all uses (an “Option Notice”). For a period of [*] following ZAI’s receipt of an Option Notice, TESARO and ZAI will negotiate in good faith commercially reasonable terms for the foregoing license of the applicable Immuno-Oncology Asset to TESARO. If TESARO does not deliver an Option Notice to ZAI within the applicable [*] period, or declines in writing its option to take a license to the applicable Immuno-Oncology Asset after review of the Transaction Notice, then TESARO shall be deemed to have waived its rights under this Section 8.1(b) solely with respect to the applicable Immuno-Oncology Asset, and ZAI will be free to enter into a license for such Immuno-Oncology Asset with any Third Party thereafter. If TESARO exercises its option by providing the Option Notice with respect to the applicable Immuno-Oncology Asset, but TESARO and ZAI do not mutually agree on the terms of a license to TESARO within the [*] negotiation period described above, ZAI may not enter into any license transaction for such Immuno-Oncology Asset outside of the ZAI Territory with any Third Party for a period of [*] following the end of such [*] negotiation period (the “Restricted Period”). After the end of the Restricted Period, ZAI is permitted to negotiate a license for the applicable Immuno-Oncology Asset with a Third Party; provided, however, that ZAI may not enter into a license for the applicable Immuno-Oncology Asset with a Third Party on financial terms that are materially less favorable, in the aggregate, to ZAI than those offered by TESARO (collectively, the “Third Party Terms”). [*] For the sake of clarity, nothing in this Section 8.1(b) shall be deemed to restrict ZAI’s ability to grant of a license to a service provider or to a Third Party distributor selling finished Immuno-Oncology Product purchased from ZAI. 
+
+ 
+
+19. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+8.2 Milestone Payments. 
+
+(a) Development Milestone. ZAI shall pay to TESARO the following one-time milestone payments within [*] following the first achievement of the corresponding milestone events set forth below by ZAI, its Affiliates or sublicensees for any Licensed Compound or Licensed Product. For purposes of clarity, the milestone payment set forth below shall be payable only upon the first achievement of such milestone, and shall not be payable more than once, regardless of whether more than one Licensed Compound or Licensed Product achieves such milestone. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Development Milestone Event
+
+  
+
+Milestone Payment
+
+ 
+
+[*]
+
+  
+
+$
+
+[
+
+*] 
+
+Notwithstanding the foregoing, if ZAI’s Development activities cause TESARO to owe Merck a milestone payment under the “Development Milestone” section of Section 7.02 of the Merck Agreement and TESARO has not received from ZAI a corresponding milestone payment under this Section 8.2(a), then ZAI shall pay to TESARO, in accordance with the terms of this Agreement the amount of the milestone payment owed by TESARO to Merck. 
+
+(b) Sales-Based Milestones. ZAI shall pay to TESARO the following one time milestone payments upon reaching the following specific Net Sales milestones for the Licensed Product(s) within [*] following the end of the Calendar Year during which the Net Sales milestone set forth below is first reached: 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annual Net Sale of all Licensed Products in the Territory
+
+  
+
+ 
+
+ 
+
+  
+
+Milestone Payments
+
+ 
+
+Equal or exceed
+
+  
+
+$[*]
+
+  
+
+
+
+
+
+
+
+  
+
+$
+
+[
+
+*] 
+
+Equal or exceed
+
+  
+
+$[*]
+
+  
+
+
+
+
+
+
+
+  
+
+$
+
+[
+
+*] 
+
+Equal or exceed
+
+  
+
+$[*]
+
+  
+
+
+
+
+
+
+
+  
+
+$
+
+[
+
+*] 
+
+8.3 Royalties. 
+
+(a) Generally. Subject to the remainder of this Section 8.3, ZAI shall pay to TESARO a running royalty on Net Sales of each Licensed Product sold by ZAI, its Affiliates and Sublicensees in the Field in the ZAI Territory, as calculated by multiplying the applicable royalty rate set forth below by the corresponding amount of incremental, aggregated annual Net Sales of the Licensed Product sold in the Territory in the applicable Calendar Year: 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portion of Annual Net Sales of the Licensed Product in the Territory
+
+ 
+
+  
+
+Royalty Rate
+
+Less than or equal to
+
+  
+
+$[*]
+
+  
+
+
+
+
+
+
+
+  
+
+[*]%
+
+Greater than
+
+but less than or equal to
+
+  
+
+$[*]
+
+$[*]
+
+  
+
+
+
+
+
+
+
+  
+
+[*]%
+
+Greater than
+
+  
+
+$[*]
+
+  
+
+
+
+
+
+
+
+  
+
+[*]%
+
+ 
+
+20. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(b) Royalty Term. Subject to subsection (d) below, royalties shall be payable on a country-by-country and Licensed Product-by-Licensed Product basis from the First Commercial Sale of a Licensed Product in a country until the last to occur of: (i) expiration of the last to expire TESARO Patents that contains a Valid Claim Covering such Licensed Product in such country or administrative region; (ii) expiration of any market or data exclusivity for the sale of such Licensed Product in such country or administrative region; or (iii) ten (10) years from the First Commercial Sale of such Licensed Product in such country or administrative region (the “Royalty Term”). 
+
+(c) Royalty Reductions. 
+
+(i) If a Licensed Product is generating Net Sales in a country or administrative region during the Royalty Term in such country at a time when there is no TESARO Patent that contains a Valid Claim Covering the composition of matter of such Licensed Product in such country or administrative region, then the royalty rate for such Licensed Product in such country or administrative region shall be reduced by [*]. 
+
+(ii) If it is necessary for ZAI to obtain a license from a Third Party under any Patents in order to manufacture, import or sell the Licensed Product in a country or administrative region in the ZAI Territory and ZAI obtains such a license, then ZAI shall have the right to deduct, from the royalty payment that would otherwise have been due pursuant to this Section 8.3 with respect to Net Sales of such Licensed Product in such country or administrative region, an amount equal to [*] of the amount paid by ZAI to such Third Party pursuant to such patent license on account of the sale of such Licensed Product in such country during such Calendar Quarter; provided however, that in no event shall the royalties paid to TESARO with respect to such Net Sales by operation of this Section 8.3(c)(ii) be reduced to less than [*] of the amount that would otherwise due with respect to such Net Sales. 
+
+(d) Minimum Royalties. Notwithstanding the foregoing, the royalties due from ZAI to TESARO under this Agreement with respect to the Net Sales of the Licensed Product in the Territory in a particular Calendar Quarter shall be no less than the royalties owed by TESARO to Upstream Licensors under the Upstream Agreements with respect to such Net Sales plus [*] of such Net Sales. 
+
+(e) Upstream Royalties. TESARO shall be solely responsible for the payment of royalties and other payments owed by TESARO to Upstream Licensors and any other Third Parties on account of the Development and Commercialization of the Licensed Product by ZAI in the Territory. 
+
+(f) Royalty Conditions. The royalties under Section 8.3 shall be subject to the following conditions: 
+
+(i) only one (1) royalty shall be due with respect to each unit of Licensed Product, without regard to whether there is more than one Valid Claim Covering such Licensed Product; 
+
+ 
+
+21. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(ii) no royalties shall be due upon the sale or other transfer of the Licensed Products among ZAI, its Affiliates and sublicensees, but in such cases the royalty shall be due and calculated upon ZAI’s or its Affiliate’s or sublicensee’s Net Sales of Licensed Product to the first independent Third Party; and 
+
+(iii) no royalties shall accrue on the disposition of Licensed Product in reasonable quantities by ZAI, its Affiliates or sublicensees as part of an expanded access program, for use in clinical trials, as free samples, or as donations to non-profit institutions or government agencies for non-commercial purposes, provided, in each case, that neither ZAI, its Affiliate nor sublicensees receive any payment (in excess of its actual costs) for such Licensed Product. 
+
+8.4 Manner of Payment. All payments to be made by ZAI hereunder shall be made in U.S. Dollars by wire transfer of immediately available funds to such bank account as shall be designated by TESARO. Except as otherwise provided in this Agreement, all payments to be made by ZAI under this Agreement shall be due within [*] of the date of invoice. Late payments shall bear interest at the rate provided in Section 8.10. 
+
+8.5 Sales Reports and Royalty Payments. Any royalty payments due under this Agreement will be calculated and reported for each Calendar Quarter, and will be paid within [*] of the end of each Calendar Quarter in which the applicable Net Sales were recorded. Each royalty payment will be accompanied by a report stating on a Licensed Product- by-Licensed Product: (a) Net Sales of the Licensed Product in the applicable Calendar Quarter, (b) a calculation of the amount of the royalty payment due on such Net Sales during the applicable Calendar Quarter, and (c) the amount of withholding taxes, if any, required by Applicable Law to be deducted with respect to such royalties. 
+
+8.6 Financial Records. ZAI will maintain records as are required to determine, in accordance with this Agreement, Net Sales and royalties due under this Agreement. ZAI will maintain such records until the later of (a) three (3) years after the end of the period to which such records pertain, (b) the expiration of the applicable tax statute of limitations (or any extensions thereof), or (c) such longer period as may be required by Applicable Law. 
+
+8.7 Financial Audit. On thirty (30) days prior written notice, TESARO will have the right to have an independent certified public accountant inspect the financial records of ZAI and its Affiliates and their Sublicensees relating to the sale of the Licensed Products in the ZAI Territory, no more than once per Calendar Year, during usual business hours, at a time and a place mutually agreed to, for the sole purpose of verifying the completeness and accuracy of Net Sales and royalties due under this Agreement for the period of time three (3) years preceding the date of the notice. The notice must identify the period of time subject to inspection. Records from a period of time already subject to an inspection pursuant to this Section 8.7 may not be inspected again. Such accountant must have agreed in writing to maintain the confidentiality of all information learned in confidence, except as necessary to disclose any discrepancy to TESARO. TESARO shall pay for such inspections, unless such inspection and audit discloses for the period examined that there is an underpayment to TESARO of greater than [*] of the amounts actually due in any given year, in which case ZAI will be responsible for the payment of the reasonable cost of such inspection and audit. TESARO and its independent accounting firm agree that all information concerning such payments and reports will be Confidential Information of ZAI as provided for in this Agreement. ZAI will pay to TESARO within sixty (60) days any underpayment identified pursuant to this Section 8.7. 
+
+ 
+
+22. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+8.8 Currency Exchange. With respect to Net Sales invoiced in a currency other than Dollars, the Net Sales shall be expressed in the domestic currency of the entity making the sale, together with the Dollar equivalent (as applicable), calculated using the rate of exchange to be used in computing the amount of currency equivalent in Dollars by ZAI for its own financial reporting purposes in connection with its other products. 
+
+8.9 Taxes. (a) In the event that Applicable Law requires ZAI to deduct or withhold taxes with respect to any payment to be made by ZAI pursuant to this Agreement, ZAI will notify TESARO of such requirement prior to making the payment to TESARO and provide such assistance to TESARO, including the provision of such documentation as may be required by a tax authority, as may be reasonably necessary in TESARO’s efforts to claim an exemption from or reduction of such taxes. ZAI will, in accordance with Applicable Law, deduct or withhold taxes from the amount due, remit such taxes to the appropriate tax authority when due, and furnish TESARO with proof of payment of such taxes within thirty (30) days following the payment. If taxes are paid to a tax authority, ZAI shall provide reasonable assistance to TESARO to obtain a refund of taxes withheld, or obtain a credit with respect to taxes paid. To the extent such amounts are paid to the appropriate tax authority, such amounts shall be treated for all purposes of this Agreement as having been paid to TESARO. 
+
+(b) All payments due to TESARO from ZAI pursuant to this Agreement shall be paid net of any value-added tax or other tax (“VAT”) required to be paid by ZAI to tax authorities in the Territory (which, if applicable, shall be payable by ZAI upon receipt of a valid VAT invoice); provided, that ZAI shall use commercially reasonable efforts to assist TESARO to minimize and obtain all available exemptions from such VAT or other taxes. If ZAI is required to withhold and/or TESARO is required to report any such tax, ZAI shall promptly provide TESARO with applicable receipts evidencing payment of such tax and other documentation reasonably requested by TESARO. 
+
+8.10 Interest on Late Payment. Interest shall be payable on any payments that are not paid on or before the date thirty (30) days after the date such payments are due under this Agreement at the per-annum rate of prime (as reported in The Wall Street Journal (U.S., Eastern Edition)) plus two percentage points or the maximum rate allowable by applicable Law, whichever is less. 
+
+9. REPRESENTATIONS AND WARRANTIES; COVENANTS 
+
+9.1 Mutual Representations and Warranties. Each Party represents and warrants to the other Party that: 
+
+(a) It is duly organized, validly existing and in good standing under the laws of the jurisdiction in which it is incorporated; 
+
+(b) It has all requisite corporate power and authority to enter into this Agreement and to perform its obligations under this Agreement; 
+
+ 
+
+23. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(c) The execution of this Agreement and the performance by such Party of its obligations hereunder have been duly authorized; 
+
+(d) This Agreement is legally binding and enforceable on such Party in accordance with its terms; and 
+
+(e) The performance of this Agreement by it does not create a material breach or material default under any other agreement to which it is a Party. 
+
+9.2 Representations and Warranties of TESARO. TESARO represents and warrants that as of the Effective Date: 
+
+(a) TESARO is the sole owner or exclusive licensee of the TESARO IP, free and clear of all liens, and has the right to grant to ZAI the rights and licenses as purported to be granted hereunder; 
+
+(b) there is no pending or, to its knowledge, threatened, litigation or arbitration which alleges, or any written communication alleging, that TESARO’s activities with respect to the TESARO IP or the Licensed Compounds have infringed or misappropriated any of the intellectual property rights of any Third Party; 
+
+(c) there is no pending or, to its knowledge, threatened re- examination, opposition, interference or litigation, or any written communication alleging that any TESARO Patent is invalid or unenforceable anywhere in the world; 
+
+(d) subject to the terms and conditions of the Upstream Agreements, to its knowledge, the manufacture, Development or Commercialization of the Licensed Compounds and Licensed Products does not and will not infringe with any Patent rights of any Third Party in the ZAI Territory; 
+
+(e) it is not aware of any infringement or misappropriation of any TESARO IP by any Third Party; 
+
+(f) it (and, to its knowledge, any Third Party acting under its authority) has complied in all material respects with all Applicable Laws in connection with its development of the Licensed Compounds (including information and data provided to Regulatory Authorities), and has not used any employee, consultant or contractor who has been debarred by any Regulatory Authority, or to its knowledge, is the subject of a debarment proceeding by any Regulatory Authority; 
+
+(g) it has not granted any rights in the TESARO IP that are inconsistent with the rights granted to ZAI under this Agreement; 
+
+(h) other than the Patents set forth in Exhibit B, TESARO does not Control any Patent that is reasonably necessary for the Development, manufacture or Commercialization of the Licensed Compound or Licensed Product or that Covers (i) the composition of matter of the Licensed Compound or Licensed Product, or (ii) a method of 
+
+ 
+
+24. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+manufacture or use of the Licensed Compound or Licensed Product. If TESARO identifies any Patent that it Controls after the Effective Date which is reasonably necessary for the Development, manufacture or Commercialization of the Licensed Compound or Licensed Product in the ZAI Territory or that Covers (A) the composition of matter of the Licensed Compound or Licensed Product, or (B) a method of manufacture or use of the Licensed Compound or Licensed Product, then such Patent shall automatically be added to the list of TESARO Patents; 
+
+(i) the Licensed Compounds and Licensed Products provided by TESARO as part of the technology transfer under Section 4.2 have been manufactured, handled and stored in accordance with all Applicable Laws, including the current Good Manufacturing Practice set forth in 21 C.F.R. Parts 11, 210 and 211; and 
+
+(j) TESARO has disclosed to ZAI and made available to ZAI for review, to the extent in TESARO’s possession and control, all material non-clinical and clinical data for the Licensed Compound and Licensed Product, and all other material information (including relevant correspondence with Regulatory Authorities) relating to the Licensed Compound and Licensed Product, in each case that would be material to TESARO to assess the safety and efficacy of the Licensed Compound and Licensed Product. 
+
+9.3 Upstream Agreements. TESARO represents, warrants and covenants (as applicable) to ZAI that: 
+
+(a) as of the Effective Date, except for the Upstream Agreements, there is no agreement between TESARO or its Affiliates with any Third Party pursuant to which TESARO or its Affiliates has in-licensed any TESARO IP; 
+
+(b) as of the Effective Date, it has provided ZAI with a true and complete copy of each Upstream Agreement, and each Upstream Agreement is in full force and effect, and the (sub)licenses it obtained under the AZ Agreements encompass the right to make, use and sell the Licensed Compound and Licensed Product in the Field in the ZAI Territory in accordance with the terms of the AZ Agreements, and during the Term, TESARO shall not modify or terminate either of the AZ Agreements in a manner that would diminish the right of ZAI under this Agreement to make, use and sell the Licensed Compound and Licensed Product in the Field in the ZAI Territory; 
+
+(c) as of the Effective Date, no written notice of default or termination has been received or given under any Upstream Agreement, and to its knowledge, there is no act or omission by TESARO that would provide a right to terminate any Upstream Agreement; 
+
+(d) during the Term of this Agreement, it shall maintain each Upstream Agreement in full force and effect and shall not terminate, amend, waive or otherwise modify (or consent to any of the foregoing) its rights under any Upstream Agreement in any manner that materially diminishes the rights or licenses granted to ZAI hereunder or increase or generate any new payment obligation under any Upstream Agreement that would apply to ZAI (such as any milestone payment under Section 7.02 of the Merck Agreement that would apply to ZAI’s Development activities), without ZAI’s express written consent; and 
+
+ 
+
+25. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(e) in the event of any notice of breach of any Upstream Agreement by TESARO, TESARO shall promptly notify ZAI in writing, and if TESARO fails to cure such breach, ZAI shall have the right, but not the obligation, to cure such breach on behalf of TESARO and to offset any reasonable amounts incurred or paid by ZAI in connection with the cure of such breach against any amounts otherwise payable by to TESARO under this Agreement. In the event of any notice of breach of any Upstream Agreement by the applicable Upstream Licensor in a manner that will or is likely to materially adversely affect ZAI’s rights or obligations under this Agreement, TESARO shall immediately notify ZAI in writing, and TESARO shall take such actions as reasonably requested by ZAI to enforce such Upstream Agreement. 
+
+9.4 ZAI Compliance with Upstream Agreements. ZAI acknowledges and agrees that the rights and licenses granted by TESARO to ZAI under this Agreement are subject to the terms of the Upstream Agreements. ZAI agrees to take any action (or omission, to the extent applicable to ZAI) reasonably requested by TESARO that is necessary or advisable to maintain compliance with the terms and conditions of the Upstream Agreements. 
+
+9.5 Anti-Corruption. 
+
+(a) In performing their respective obligations hereunder, the Parties acknowledge that the corporate policies of TESARO and ZAI and their respective Affiliates require that each Party’s business be conducted within the letter and spirit of the law. By signing this Agreement, each Party agrees to conduct the business contemplated herein in a manner which is consistent with all Applicable Law, including the U.S. Foreign Corrupt Practices Act, good business ethics, and its ethics and other corporate policies, and to abide by the spirit of the other Party’s applicable ethics and compliance guidelines which may be provided by such other Party from time to time. Specifically, each Party agrees that it has not, and covenants that it, its Affiliates, and its and its Affiliates’ directors, employees, officers, and anyone acting on its behalf, will not, in connection with the performance of this Agreement, directly or indirectly, make, promise, authorize, ratify or offer to make, or take any action in furtherance of, any payment or transfer of anything of value for the purpose or intent of influencing, inducing or rewarding any act, omission or decision to secure an improper advantage; or improperly assisting it in obtaining or retaining business for it or the other Party, or in any way with the purpose or effect of public or commercial bribery. 
+
+(b) Each Party shall not contact, or otherwise knowingly meet with, any Government Official for the purpose of discussing activities arising out of or in connection with this Agreement, without the prior written approval of the other Party, except where such meeting is consistent with the purpose and terms of this Agreement and in compliance with Applicable Law, it being agreed and acknowledged that ZAI has the right under this Agreement to meet with any Government Official with respect to the lawful conduct of any clinical study for the Licensed Product. 
+
+ 
+
+26. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+9.6 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO ANY PATENTS, CONFIDENTIAL INFORMATION OR KNOW-HOW OF SUCH PARTY OR ANY LICENSE GRANTED BY SUCH PARTY HEREUNDER, OR WITH RESPECT TO ANY COMPOUNDS, INCLUDING BUT NOT LIMITED TO THE TRANSFERRED MATERIALS. FURTHERMORE, EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES THAT ANY PATENT, PATENT APPLICATION, OR OTHER PROPRIETARY RIGHTS INCLUDED IN PATENTS, CONFIDENTIAL INFORMATION OR KNOW-HOW LICENSED BY SUCH PARTY TO THE OTHER PARTY HEREUNDER ARE VALID OR ENFORCEABLE OR THAT USE OF SUCH PATENTS, CONFIDENTIAL INFORMATION OR KNOW-HOW CONTEMPLATED HEREUNDER DOES NOT INFRINGE ANY PATENTS OR OTHER INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY. 
+
+9.7 Limitation of Liability. NOTWITHSTANDING ANYTHING IN THIS AGREEMENT OR OTHERWISE, NEITHER PARTY SHALL BE LIABLE TO THE OTHER WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT, WHETHER UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY, FOR ANY INCIDENTAL, INDIRECT, SPECIAL, EXEMPLARY, PUNITIVE, MULTIPLE, OR CONSEQUENTIAL DAMAGES PROVIDED, HOWEVER, THAT THE FOREGOING SHALL NOT APPLY TO OR LIMIT (I) DAMAGES AVAILABLE FOR ANY BREACH BY EITHER PARTY OF THE CONFIDENTIALITY OBLIGATIONS SET FORTH IN ARTICLE 11; (B) A PARTY’S INDEMNIFICATION OBLIGATIONS SET FORTH IN ARTICLE 12. 
+
+10. INTELLECTUAL PROPERTY 
+
+10.1 Inventions. 
+
+(a) Ownership of Inventions. The inventorship of all Inventions shall be determined under the U.S. patent laws. Each Party shall solely own its Sole Inventions and the Parties shall jointly own all Joint Inventions. All Patents Covering patentable Joint Inventions shall be referred to herein as “Joint Patents.” Except to the extent restricted by the licenses granted to other Party under this Agreement or any other agreement between the Parties, each joint owner shall be entitled to practice, license, assign and otherwise exploit the Joint Inventions and Joint Patents without the duty of accounting or seeking consent from the other owners 
+
+(b) License of Inventions. TESARO’s Sole Inventions and TESARO’s right and interest in and to any Joint Inventions shall be included in TESARO IP and automatically licensed to ZAI under this Agreement. Further, ZAI hereby grants to TESARO an exclusive, perpetual and freely sublicensable license under ZAI’s Sole Inventions and ZAI’s right and interest in and to any Joint Inventions, including the Data generated by ZAI from the Development of the Licensed Compounds and Licensed Products in the ZAI Territory, for use by TESARO to Develop, manufacture and Commercialize the Licensed Compounds and Licensed Products in the TESARO Territory. 
+
+ 
+
+27. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(c) Disclosure of Inventions. Each Party shall promptly disclose to the other Party all Sole Inventions of such Party and also Joint Invention, including any invention disclosures, or other similar documents, submitted to it by its employees, agents or independent contractors describing such Inventions, and shall promptly respond to reasonable request from the other Parties for additional information relating to such Inventions. 
+
+10.2 Patent Prosecution. 
+
+(a) TESARO Patents. As between the Parties, TESARO shall have the first right to file, prosecute and maintain, at its own cost and expense, all TESARO Patents that are not Joint Patents. TESARO shall consult with ZAI and keep ZAI reasonably informed of the status of such TESARO Patents in the ZAI Territory and shall promptly provide ZAI with all material correspondence received from any patent authority in connection therewith. In addition, TESARO shall promptly provide ZAI with drafts of all proposed material filings and correspondence to any patent authority with respect to such TESARO Patents in the ZAI Territory for review and comment prior to the submission of such proposed filings and correspondences. TESARO shall confer with ZAI and consider in good faith ZAI’s comments prior to submitting such filings and correspondences. TESARO shall notify ZAI of any decision to cease prosecution and/or maintenance of any such TESARO Patents in the ZAI Territory at least thirty (30) days prior to any filing deadline or payment due date. In such event, TESARO shall permit ZAI, at its discretion and at its sole expense, to continue prosecution or maintenance of such TESARO Patent. 
+
+(b) Joint Patents. Each Party shall have the first right to file, prosecute and maintain, at its own cost and expense, all Joint Patents in its Territory. Each Party shall consult with the other Party and keep the other Party reasonably informed of the status of the Joint Patents in its Territory and shall promptly provide the other Party with all material correspondence received from any patent authority in connection therewith. In addition, each Party shall promptly provide the other Party with drafts of all proposed material filings and correspondence to any patent authority with respect to the Joint Patents in its Territory for review and comment prior to the submission of such proposed filings and correspondences. Each Party shall confer with the other Party and consider in good faith the other Party’s comments prior to submitting such filings and correspondences. Each Party shall notify the other Party of any decision to cease prosecution and/or maintenance of any Joint Patents in its Territory at least thirty (30) days prior to any filing deadline or payment due date. In such event, such Party shall permit the other Party, at its discretion and at its sole expense, to continue prosecution or maintenance of such Joint Patent. 
+
+(c) ZAI Patents. Unless otherwise agreed by the Parties in a separate license agreement pursuant to Section 10.1(b), as between the Parties, ZAI shall have the sole right to file, prosecute and maintain, at its own cost and expense, all Patents Covering its Sole Inventions. 
+
+ 
+
+28. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(d) Cooperation. Each Party shall provide the other Party all reasonable coordination, assistance and cooperation in the patent prosecution efforts under this Agreement, including providing any necessary powers of attorney and executing any other required documents or instruments for such prosecution. 
+
+10.3 Patent Enforcement. 
+
+(a) Notice and Enforcement by ZAI. In the event that either Party becomes aware of a suspected infringement by a Third Party of any TESARO Patents in the Field within the ZAI Territory, or any declaratory judgment, opposition, or similar action alleging the invalidity, unenforceability or non-infringement of any of TESARO Patents in the ZAI Territory (collectively, “Infringement”), such Party shall notify the other Party promptly. ZAI shall have the first right, but not the obligation, to bring and control any legal action in connection with any Infringement of TESARO Patents in the ZAI Territory at its own expense and as it reasonably determines appropriate. TESARO shall have the right to be represented in any such action by counsel of its choice at its own expense. 
+
+(b) Enforcement by TESARO. If ZAI does not to bring a legal action or otherwise take reasonable measure to stop the Infringement of TESARO Patents in ZAI Territory within ninety (90) days after the notice provided pursuant to Section 10.3(a), TESARO shall have the right to bring and control any legal action in connection with such Infringement in the ZAI Territory at its own expense as it reasonably determines appropriate after consultation with ZAI. 
+
+(c) Cooperation. At the request and expense of the Party bringing the action under Section 10.3(a) or (b) above, the other Party shall provide reasonable assistance in connection therewith, including by executing reasonably appropriate documents, cooperating in discovery and joining as a party to the action if required. In connection with any such proceeding, the enforcing Party shall keep the other Party reasonably informed on the status of such action and shall not enter into any settlement admitting the invalidity of, or otherwise impairing the other Party’s rights in, the relevant TESARO Patents without the prior written consent of the other Party. 
+
+(d) Cost and Recovery. The enforcing Party under Section 10.3(a) or (b) shall be responsible for the cost and expense incurred with the enforcement action. Any recoveries resulting from such enforcement action shall be first applied to reimburse each Party’s cost and expenses in connection therewith. Any such recoveries in excess of such cost and expense shall be retained by the enforcing Party; provided that if ZAI is the enforcing Party, then such recovery shall be deemed Net Sales and subject to royalty payment to TESARO under Section 8.3. 
+
+10.4 Defense of Third Party Claims. Subject to Article 12, if a claim is brought by a Third Party alleging infringement of a Patent of such Third Party by the Development, manufacture or Commercialization of the Licensed Compounds and Licensed Products in the ZAI Territory, the Party first having notice of the claim or assertion shall promptly notify the other Parties, the Parties shall agree on and enter into an “common interest agreement” wherein 
+
+ 
+
+29. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+such Parties agree to their shared, mutual interest in the outcome of such potential dispute, and thereafter, the Parties shall promptly meet to consider the claim or assertion and the appropriate course of action. Each Party shall be entitled to represent itself in any litigation to which it is a party, at its own expense, unless otherwise agreed upon by the Parties or as otherwise set forth in this Agreement. 
+
+10.5 Bankruptcy Protection. All licenses granted by a Party to the other Party under this Agreement are and shall otherwise be deemed to be for purposes of Section 365(n) of Title 11, United States Code or foreign equivalent laws (the “Bankruptcy Code”) licenses of rights to “intellectual property” as defined in Section 101(56) of the Bankruptcy Code. The Parties shall retain and may fully exercise all of their respective rights and elections under the Bankruptcy Code. Upon the bankruptcy of a Party, the non-bankrupt Party shall further be entitled to a complete duplicate of, or complete access to, any such intellectual property, and such, if not already in its possession, shall be promptly delivered to the non-bankrupt Party, unless the bankrupt Party elects to continue, and continues, to perform all of its obligations under this Agreement. Nothing in this Section 10.5 shall be interpreted as giving any Party greater rights to the other Party’s intellectual property after the bankruptcy of the other Party than such Party had prior to such bankruptcy. 
+
+11. CONFIDENTIALITY 
+
+11.1 Nondisclosure and Non-Use. Each Party agrees that, for so long as this Agreement is in effect and for a period of [*] years thereafter, a Party (the “Receiving Party”) receiving or possessing Confidential Information of the other Party (the “Disclosing Party”) shall, and shall cause its employees, representatives, Affiliates, consultants, contractors, agents and Sublicensees to, (a) maintain in confidence such Confidential Information using not less than the efforts such Receiving Party uses to maintain in confidence its own proprietary industrial information of similar kind and value (but no less than reasonable care), (b) not disclose such Confidential Information to any Third Party without the prior written consent of the Disclosing Party, except for disclosures expressly permitted below, and (c) not use such Confidential Information for any purpose except those permitted by this Agreement, including in connection with exercising its rights or fulfilling its obligations under this Agreement (it being understood that this clause (c) shall not create or imply any rights or licenses not expressly granted under Article 2 hereof). Each Receiving Party shall be responsible for any breach of these obligations by any of its employees, representatives, Affiliates, consultants, contractors, agents and Sublicensees to which it discloses or provides access to any Confidential Information of the Disclosing Party. Each Receiving Party shall take all reasonable action under Applicable Law to enforce the confidentiality obligations hereunder against any employees, representatives, Affiliates, consultants, contractors, agents and Sublicensees to which it discloses or provides access to any Confidential Information of the Disclosing Party. 
+
+11.2 Confidentiality of TESARO Know-How. During such time as the license to ZAI under the TESARO Know-How granted under Section 2.1 is in effect, solely for disclosure purposes to Third Parties, the TESARO Know-How shall be deemed to be Confidential Information of both TESARO and ZAI under Article 11, both TESARO and ZAI shall be deemed to be a Disclosing Party of the TESARO Know-How under Article 11, and TESARO and its Affiliates shall be deemed not to have known such TESARO Know-How prior to disclosure for the purposes of Section 11.3(a). 
+
+ 
+
+30. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+11.3 Exceptions. The obligations in Section 11.1 shall not apply with respect to any portion of the Confidential Information that the Receiving Party can show by competent proof: 
+
+(a) was known to the Receiving Party or any of its Affiliates, without any obligation to keep it confidential or any restriction on its use, prior to disclosure by the Disclosing Party; or 
+
+(b) was generally available to the public or otherwise part of the public domain at the time of its disclosure to the Receiving Party; 
+
+(c) became generally available to the public or otherwise part of the public domain after its disclosure and other than through any act or omission of the Receiving Party in breach of this Agreement; or 
+
+(d) is subsequently disclosed to the Receiving Party or any of its Affiliates by a Third Party lawfully in possession thereof and without any obligation to keep it confidential or any restriction on its use; or 
+
+(e) has been independently developed by employees or contractors of the Receiving Party or any of its Affiliates without the aid, application or use of Confidential Information of the Disclosing Party as demonstrated by documented evidence prepared contemporaneously with such independent development. 
+
+11.4 Authorized Disclosure. The Receiving Party may disclose Confidential Information belonging to the Disclosing Party to the extent (and only to the extent) such disclosure is reasonably necessary in the following instances: 
+
+(a) preparing, filing or prosecuting Patents; preparing, filing or prosecuting Regulatory Materials with respect to obtaining and maintaining Regulatory Approval of the Licensed Products; and prosecuting or defending litigation; 
+
+(b) subject to Section 11.7, complying with Applicable Law (including, without limitation, the rules and regulations of any national securities exchange, regulations of the State Administration of Foreign Exchange of the People’s Republic of China, and the State Intellectual Property Office of the People’s Republic of China) and with judicial process, if in the reasonable opinion of the Receiving Party’s counsel, such disclosure is necessary for such compliance, provided that the Receiving Party shall promptly notify the other Party of such required disclosure so that the Disclosing Party can seek a protective order or other appropriate remedies and, at the Disclosing Party’s request and expense, reasonably assist the Disclosing Party in seeking such protective order or other reasonable remedies; and 
+
+ 
+
+31. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(c) disclosure (i) in connection with the performance of this Agreement and solely on a “need to know basis”, to Affiliates, potential or actual collaborators (including potential Sublicensees), or employees, contractors, or agents; or (ii) solely on a “need to know basis” to potential or actual investment bankers, consultants, advisors, investors, partners, collaborators, lenders, or acquirers; each of whom in the case of clause (i) or (ii) prior to disclosure must be bound by written obligations of confidentiality and non-use no less restrictive than the obligations set forth in this Article 11. 
+
+11.5 Terms of this Agreement. The Parties acknowledge that the terms of this Agreement shall be treated as Confidential Information of both Parties. 
+
+11.6 Prior CDA. This Agreement supersedes the Mutual Confidentiality and Non-Use Agreement between the Parties dated October 12, 2015 (the “Prior CDA”) with respect to information disclosed thereunder. All information exchanged between the Parties under the Prior CDA shall be deemed Confidential Information of the disclosing Party and shall be subject to the terms of this Article 11. 
+
+11.7 Securities Filings. In the event either Party proposes to file with the Securities and Exchange Commission or the securities regulators of any state, country, province or other jurisdiction a registration statement or any other disclosure document which describes or refers to this Agreement under the Securities Act of 1933, as amended, the Securities Exchange Act, of 1934, as amended, or any other Applicable Law, such Party shall notify the other Party of such intention and shall provide such other Party with a copy of relevant portions of the proposed filing not less than five (5) business days prior to such filing (and any revisions to such portions of the proposed filing a reasonable time prior to the filing thereof), including any exhibits thereto relating to this Agreement, and shall use reasonable efforts to obtain confidential treatment of any information concerning this Agreement that such other Party requests be kept confidential, and shall only disclose Confidential Information of the Disclosing Party which it is advised by counsel is legally required to be disclosed. No such notice shall be required under this Section 11.7 if the substance of the description of or reference to this Agreement contained in the proposed filing has been included in any previous filing made by the other Party hereunder or otherwise approved by the other Party. 
+
+11.8 Technical Publication. No Party may publish peer reviewed manuscripts, or give other forms of public disclosure such as abstracts and presentations, of results of studies carried out under this Agreement, without the opportunity for prior review by the other Parties, except to the extent required by Applicable Laws. A Party seeking publication of results of studies carried out under this Agreement shall provide the other Party the opportunity to review and comment on any proposed publication which relates to the Licensed Product at least thirty (30) days prior to its intended submission for publication. The other Party shall provide the Party seeking publication with its comments in writing, if any, within twenty (20) days after receipt of such proposed publication. The Party seeking publication shall consider in good faith any comments thereto provided by the other Party and shall comply with the other Party’s request to remove any and all of such other Party’s Confidential Information from the proposed publication. In addition, the Party seeking publication shall delay the submission for a period up to sixty (60) days in the event that the other Party can demonstrate reasonable need for such delay, including without limitation, the preparation and filing of a patent application. If the other Party fail to provide its comments to the Party seeking publication within such twenty (20) day 
+
+ 
+
+32. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+period, such other Party shall be deemed to not have any comments, and the Party seeking publication shall be free to publish in accordance with this Section 11.8 after the thirty (30) day period has elapsed. The Party seeking publication shall provide the other Party a copy of the manuscript at the time of the submission. Each Party agrees to acknowledge the contributions of the other Party and its employees in all publications as scientifically appropriate. 
+
+11.9 Equitable Relief. Each Receiving Party acknowledges and agrees that a breach of this Article 11 cannot reasonably or adequately be compensated in damages in an action at law and that such a breach shall cause the Disclosing Party irreparable injury and damage. By reason thereof, the Parties agree that each Party shall be entitled, in addition to any other remedies it may have under this Agreement or otherwise, to preliminary and permanent injunctive and other equitable relief to prevent or curtail any breach of the obligations relating to Confidential Information set forth herein. 
+
+12. INDEMNITY AND INSURANCE 
+
+12.1 Indemnification by ZAI. ZAI hereby agrees to defend, hold harmless and indemnify TESARO, its Affiliates, directors, officers, employees and agents from and against any and all Third Party claims, suites, proceedings, damages, expenses, liabilities, and/or losses, including without limitation reasonable legal expenses and attorneys’ fees (collectively “Claims”) to the extent resulting from or arising out of: (a) the negligence, willful misconduct or breach of this Agreement by ZAI; (b) ZAI’s Development, manufacture and Commercialization of the Licensed Compounds and Licensed Products in ZAI Territory; (c) any action or omission of ZAI that causes a breach of or results in non-compliance the Upstream Agreements, except in each case to the extent such Claims result from or arise out of any activities set forth in Section 12.2 for which TESARO is obligated to indemnify ZAI. 
+
+12.2 Indemnification by TESARO. TESARO hereby agrees to defend, hold harmless and indemnify ZAI, its Affiliates, directors, officers, employees and agents from and against any and all Third Party Claims to the extent resulting from or arising out of: (a) the negligence, willful misconduct or breach of this Agreement by TESARO; (b) TESARO’s Development, manufacture and Commercialization of the Licensed Compounds and Licensed Products in TESARO Territory; and (c) TESARO’s Development, manufacture and Commercialization of the Licensed Compounds and Licensed Products prior to the Effective Date; except in each case to the extent such Claims result from or arise out of any activities set forth in Section 12.1 for which ZAI is obligated to indemnify TESARO. 
+
+12.3 Indemnification Procedure. The indemnified Party shall provide the indemnifying Party with prompt notice of the claim giving rise to the indemnification obligation pursuant to this Article 12 and the exclusive ability to defend (with the reasonable cooperation of the indemnified Party) or settle any such claim; provided, however, that the indemnifying Party shall not enter into any settlement for damages other than monetary damages without the indemnified Party’s written consent, such consent not to be unreasonably withheld. The indemnified Party shall have the right to participate, at its own expense and with counsel of its choice, in the defense of any claim or suit that has been assumed by the indemnifying Party. If the Parties cannot agree as to the application of Sections 12.1 and 12.2 to any particular Claim, 
+
+ 
+
+33. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+the Parties may conduct separate defenses of such claim and reserve the right to claim indemnity from the other in accordance with Sections 12.1 and 12.2 above upon resolution of the underlying claim, notwithstanding the provisions of this Section 12.3 requiring the indemnified Party to tender to the indemnifying Party the exclusive ability to defend such claim or suit. 
+
+12.4 Mitigation of Loss. Each indemnified Party shall take and shall procure that its Affiliates, agents, directors, officers and employees take all such reasonable steps and action as are reasonably necessary or as the indemnifying Party may reasonably require in order to mitigate any Claims (or potential losses or damages) under this Article 12. Nothing in this Agreement shall or shall be deemed to relieve any Party of any common law or other duty to mitigate any losses incurred by it. 
+
+12.5 Insurance. Each Party shall procure and maintain insurance, including product liability insurance, adequate to cover its obligations hereunder and which are consistent with normal business practices of prudent companies similarly situated at all times during which any Licensed Product is being clinically tested in human subjects or commercially distributed or sold by such Party. It is understood that such insurance shall not be construed to create a limit of either Party’s liability with respect to its indemnification obligations under this Article 12. Each Party shall provide the other Party with written evidence of such insurance upon request. Each Party shall provide the other Party with written notice at least thirty (30) days prior to the cancellation, non-renewal or material change in such insurance which materially adversely affects the rights of the other Party hereunder. 
+
+13. TERM AND TERMINATION 
+
+13.1 Term. This Agreement shall commence as of the Effective Date and, unless sooner terminated in accordance with the terms hereof or by mutual written consent, shall continue, on a country-by-country and Licensed Product-by-Licensed Product basis, until the expiration of the Royalty Term for such Licensed Product in such country (the “Term”). After the expiration (but not early termination) of the Term, the licenses granted by TESARO to ZAI hereunder shall become full paid, royalty free, perpetual and irrevocable. 
+
+13.2 Termination. 
+
+(a) Termination for convenience. At any time, ZAI may terminate this Agreement by providing written notice of termination to TESARO, which notice includes an effective date of termination at least [*] after the date of the notice. 
+
+(b) Termination for Material Breach. Each Party shall have the right to terminate this Agreement in its entirety immediately upon written notice to the other Party if the other Party materially breaches its material obligations under this Agreement and, after receiving written notice identifying such material breach in reasonable detail, fails to cure such material breach within [*] from the date of such notice, provided that, if such other Party dispute such alleged breach in good faith, such termination shall not become effective unless and until such dispute has been resolved in favor of the Party providing notice of such termination and such other Party has not cured such material breach within [*] after such resolution. 
+
+ 
+
+34. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(c) Termination for Insolvency. Each Party shall have the right to terminate this Agreement in its entirety immediately upon written notice to the other Party if (i) such other Party files in any court or agency pursuant to any statute or regulation of any jurisdiction a petition in bankruptcy or insolvency or for reorganization or similar arrangement for the benefit of creditors or for the appointment of a receiver or trustee of such other Party or its assets, (ii) such other Party is served with an involuntary petition against it in any insolvency proceeding, and upon the [*] after such service, such involuntary petition has not been stayed or dismissed, or (iii) such other Party makes an assignment of substantially all of its assets for the benefit of its creditors. 
+
+(d) Termination by Mutual Agreement. The Parties may also terminate this Agreement by mutual agreement. 
+
+13.3 Effect of Termination. Upon the early termination of this Agreement pursuant to Section 13.2: 
+
+(a) License to ZAI. All licenses and other rights granted by TESARO to ZAI shall terminate, and all rights of ZAI under the TESARO Patents and TESARO Know- How shall revert to TESARO. 
+
+(b) License to TESARO. ZAI shall grant to TESARO (with the right to grant sublicenses through multiple tiers) an exclusive license under ZAI’s Sole Inventions and ZAI’s right and interest in and to any Joint Inventions, including the Data generated by ZAI from the Development of the Licensed Compounds and Licensed Products under this Agreement, for use by TESARO (or its sublicensees) to Develop, manufacture and Commercialize the Licensed Compounds and Licensed Products in the TESARO Territory. The terms and conditions of such a license may include, at TESARO’s request, the transfer of Regulatory Materials, inventories, and/or ongoing clinical trials to TESARO, as well as reasonable transition assistance. The foregoing license and transfer shall be royalty-free and without payment from TESARO other than (i) the payment by TESARO of the reasonable cost of any transition assistance (such costs to be consistent with industry custom, and (ii) if: (A) ZAI terminates this Agreement under 13.2(b), he license shall be royalty-bearing (such royalties to be consistent with other royalty- bearing royalties for similar intellectual property rights) and otherwise on commercially reasonable terms. 
+
+13.4 Transfer of Data and Regulatory Materials; Wind-down of Clinical Activities. Without limiting the obligations of the Parties under Section 13.3 above, upon the effective date of the termination of this Agreement, ZAI shall transfer to TESARO, at TESARO’s business premises, all Data and Regulatory Materials related to the Licensed Compounds or Licensed Products. Additionally, with respect to any ongoing clinical trials of Licensed Products each Party shall cooperate with the other Party to facilitate the orderly transfer to TESARO of the conduct of such clinical trials as soon as reasonably practicable, (ii) until such time as the conduct of such clinical trials has been successfully transferred to TESARO, ZAI 
+
+ 
+
+35. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+shall continue such clinical trials, (iii) between the effective date of termination and the date on which the conduct of such clinical trials has been successfully transferred to TESARO, ZAI shall be responsible for all costs and expenses reasonably incurred by ZAI in the conduct of such clinical trials, and (iv) following the date on which the conduct of such clinical trials has been successfully transferred to TESARO, TESARO shall be solely responsible for all costs and expenses of such ongoing clinical trials. 
+
+13.5 Survival. Termination or expiration of this Agreement shall not relieve the Parties of any liability or obligation which accrued hereunder prior to the effective date of such termination or expiration nor preclude either Party from pursuing all rights and remedies it may have hereunder or at law or in equity, subject to Section 14.2, with respect to any breach of this Agreement nor prejudice either Party’s right to obtain performance of any obligation. The following provisions shall survive termination or expiration of this Agreement, as well as any other provision which by its terms or by the context thereof, is intended to survive such termination: Articles 1, 10, 11, and 15, and Sections 9.6, 9.7, 13.3, 13.4 and 13.5.. 
+
+14. DISPUTE RESOLUTION 
+
+14.1 Internal Resolution. Other than disputes subject to the final resolution by the JSC or Executives pursuant to Section 3.5 or determinations made by certified accountants as provided in Section 8.7, in the event of any dispute between the Parties relating to or arising out of this Agreement, the formation, construction, breach or termination hereof, or the rights, duties or liabilities of either Party hereunder, the Parties shall first attempt in good faith to resolve such dispute by negotiation and consultation between themselves, utilizing the Alliance Managers. In the event that such dispute is not resolved on an informal basis within thirty (30) days, either Party may, by written notice to the other Party, refer the dispute to the Executive Officers for attempted resolution by good faith negotiation within thirty (30) days after such notice is received. 
+
+14.2 Binding Arbitration. If the Executive Officers are not able to resolve such disputed matter within thirty (30) days and any Party wishes to pursue the matter, each such dispute, controversy or claim that is not an Excluded Claim (defined in Section 14.3 below) shall be finally resolved by binding arbitration administered by the International Chamber of Commerce (“ICC”) pursuant its arbitration rules, and judgment on the arbitration award may be entered in any court having jurisdiction thereof. The Parties agree that: 
+
+(a) The arbitration shall be conducted by a single arbitrator appointed by the ICC, who shall be experienced in the pharmaceutical business in the relevant country. The place of arbitration shall be New York, New York, and all proceedings and communications shall be in English, unless otherwise agreed by all Parties involved in such dispute. 
+
+(b) Any Party may apply to the arbitrators for interim injunctive relief until the arbitration award is rendered or the controversy is otherwise resolved. Any Party also may, without waiving any remedy under this Agreement, seek from any court having jurisdiction any injunctive or provisional relief necessary to protect the rights or property of that Party pending the arbitration award. 
+
+ 
+
+36. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(c) The arbitrator shall have no authority to award punitive or any other type of damages not measured by a Party’s compensatory damage. Each Party shall bear its own costs and expenses and attorneys’ fees and an equal share of the arbitrator’s fees and any administrative fees of arbitration regardless of the outcome of such arbitration. 
+
+(d) Except to the extent necessary to confirm an award or as may be required by law, neither a Party nor the arbitrator may disclose the existence, content, or results of an arbitration without the prior written consent of all Parties. In no event shall an arbitration be initiated after the date when commencement of a legal or equitable proceeding, based on the dispute, controversy or claim, would have been barred by the applicable statute of limitations. 
+
+14.3 Excluded Claim. As used in Section 14.2, the term “Excluded Claim” shall mean a dispute, controversy or claim that concerns the scope, validity, enforceability, inventorship or infringement of a patent, patent application, trademark or copyright. Any Excluded Claim shall be submitted to a court of competent jurisdiction. 
+
+15. MISCELLANEOUS 
+
+15.1 Severability. If any one or more of the provisions of this Agreement is held to be invalid or unenforceable, the provision shall be considered severed from this Agreement and shall not serve to invalidate any remaining provisions hereof. The Parties shall make a good faith effort to replace any invalid or unenforceable provision with a valid and enforceable one such that the objectives contemplated by the Parties when entering this Agreement may be realized. 
+
+15.2 Notices. Any notice required or permitted to be given by this Agreement shall be in writing and shall be delivered by hand or overnight courier with tracking capabilities or mailed postage prepaid by first class, registered or certified mail addressed as set forth below unless changed by notice so given: 
+
+If to ZAI: 
+
+Zai Lab (Shanghai) Co., Ltd. 
+
+1043 Halei Road, Building 8, Suite 502, Pudong, Shanghai, P.R. 
+
+China, 201203 
+
+[*] 
+
+With a copy to: 
+
+Lila Hope, Ph.D. Cooley LLP 
+
+3175 Hanover Street 
+
+Palo Alto, CA 94304-1130 
+
+[*] 
+
+ 
+
+37. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+If to TESARO: 
+
+TESARO Inc. 
+
+1000 Winter Street, Suite 3300 
+
+Waltham, MA 02451 
+
+Attention: Joseph Farmer, SVP and General Counsel 
+
+[*] 
+
+With a copy to: 
+
+Asher Rubin 
+
+Hogan Lovells US LLP 
+
+100 International Drive, Suite 2000 
+
+Baltimore, MD 21201 
+
+[*] 
+
+Any such notice shall be deemed given on the date received. A Party may add, delete, or change the person or address to whom notices should be sent at any time upon written notice delivered to the Party’s notices in accordance with this Section 15.2. 
+
+15.3 Force Majeure. Neither Party shall be liable for delay or failure in the performance of any of its obligations hereunder if such delay or failure is due to causes beyond its reasonable control, including, without limitation, acts of God, fires, earthquakes, strikes and labor disputes, acts of war, terrorism, civil unrest or intervention of any governmental authority (“Force Majeure”); provided, however, that the affected Party promptly notifies the other Party and further provided that the affected Party shall use its commercially reasonable efforts to avoid or remove such causes of non-performance and to mitigate the effect of such occurrence, and shall continue performance with the utmost dispatch whenever such causes are removed. When such circumstances arise, the Parties shall negotiate in good faith any modifications of the terms of this Agreement that may be necessary or appropriate in order to arrive at an equitable solution. 
+
+15.4 Assignment. Neither Party may assign this Agreement to a Third Party without the other Party’s prior written consent (such consent not to be unreasonably withheld); except that TESARO may make such an assignment without ZAI’s consent to a successor to substantially all of the business of such Party to which this Agreement relates (whether by merger, sale of stock, sale of assets or other transaction) and either Party may assign this Agreement to an Affiliate without the other Party’s consent. This Agreement shall inure to the benefit of and be binding on the Parties’ successors and permitted assigns. Any assignment or transfer in violation of this Section 15.4 shall be null and void and wholly invalid, the assignee or transferee in any such assignment or transfer shall acquire no rights whatsoever, and the non- assigning non-transferring Party shall not recognize, nor shall it be required to recognize, such assignment or transfer. 
+
+15.5 Further Assurances. Each Party agrees to do and perform all such further acts and things and shall execute and deliver such other agreements, certificates, instruments and documents necessary or that the other Party may deem advisable in order to carry out the intent and accomplish the purposes of this Agreement and to evidence, perfect or otherwise confirm its rights hereunder. 
+
+ 
+
+38. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+15.6 Waivers and Modifications. The failure of any Party to insist on the performance of any obligation hereunder shall not be deemed to be a waiver of such obligation. Waiver of any breach of any provision hereof shall not be deemed to be a waiver of any other breach of such provision or any other provision on such occasion or any succeeding occasion. No waiver, modification, release or amendment of any obligation under or provision of this Agreement shall be valid or effective unless in writing and signed by all Parties hereto. 
+
+15.7 Choice of Law. This Agreement shall be governed by, enforced, and shall be construed in accordance with the laws of the State of New York, U.S. without regard to its conflicts of law provisions. 
+
+15.8 Publicity. Neither Party shall issue any press release or public statement disclosing the existence of this Agreement or any other information relating to this Agreement, the other Party, or the transactions contemplated hereby without the prior written consent of the other Party, provided, however, that any disclosure which is required by Applicable Law or the rules of a securities exchange, as reasonably advised by the disclosing Party’s counsel, may be made subject to the following. The Parties agree that any such required disclosure will not contain confidential business or technical information and, if disclosure of confidential business or technical information is required by Applicable Law, the Parties will use appropriate diligent efforts to minimize such disclosure and obtain confidential treatment for any such information which is disclosed to a governmental agency. Each Party agrees to provide to the other Party a copy of any public announcement regarding this Agreement or the subject matter thereof as soon as reasonably practicable under the circumstances prior to its scheduled release. Except under extraordinary circumstances, or as otherwise required under Applicable Law or the rules of a securities exchange, each Party shall provide the other with an advance copy of any such announcement at least five (5) business days prior to its scheduled release. Each Party shall have the right to expeditiously review and recommend changes to any such announcement and, except as otherwise required by Applicable Law or the rules of a securities exchange, the Party whose announcement has been reviewed shall remove any Confidential Information of the reviewing Party that the reviewing Party reasonably deems to be inappropriate for disclosure. The contents of any announcement or similar publicity which has been reviewed and approved by the reviewing Party can be re-released by either Party without a requirement for re-approval. Nothing in this Section 15.8 shall be construed to prohibit ZAI or its Affiliates or Sublicensees from making a public announcement or disclosure regarding the stage of development of Licensed Product(s) in ZAI’s (or its Affiliates’ or Sublicensees’) product pipeline or disclosing clinical trial results regarding such Licensed Product(s), as may be required by Applicable Law or the rules of a securities exchange, as reasonably advised by ZAI’s (or its Affiliates’ or Sublicensees’) counsel. 
+
+15.9 Relationship of the Parties. Each Party is an independent contractor under this Agreement. Nothing contained herein is intended or is to be construed so as to constitute TESARO and ZAI as partners, agents or joint venturers. Neither Party shall have any express or implied right or authority to assume or create any obligations on behalf of or in the name of the other Party or to bind the other Party to any contract, agreement or undertaking with any Third Party. 
+
+ 
+
+39. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+15.10 Headings. Headings and captions are for convenience only and are not be used in the interpretation of this Agreement. 
+
+15.11 Entire Agreement. This Agreement (including all Exhibits attached hereto, which are incorporated herein by reference) (a) sets forth all of the covenants, promises, agreements, warranties, representations, conditions and understandings between the Parties hereto with respect to the subject matter hereof, (b) constitutes and contains the complete, final and exclusive understanding and agreement of the Parties with respect to the subject matter hereof, and (c) cancels, supersedes and terminates all prior agreements (including the Prior CDA) and understanding between the Parties with respect to the subject matter hereof. There are no covenants, promises, agreements, warranties, representations, conditions or understandings with respect to the subject hereof, whether oral or written, between the Parties other than as set forth herein. No subsequent alteration, amendment, change or addition to this Agreement shall be binding upon the Parties hereto unless reduced to writing and signed by the respective authorized officers of the Parties. 
+
+15.12 Counterparts. This Agreement may be executed in counter-parts with the same effect as if both Parties had signed the same document. All such counterparts shall be deemed an original, shall be construed together and shall constitute one and the same instrument. 
+
+15.13 Registration. If required by Applicable Law, ZAI shall be responsible for the registration of this Agreement with all applicable Regulatory Authorities in the ZAI Territory. TESARO shall reasonably cooperate with ZAI in obtaining any such registrations, including providing relevant documents required by the applicable Regulatory Authorities in the ZAI Territory. Upon successful registration of this Agreement with each applicable Regulatory Authority in the ZAI Territory, ZAI shall promptly forward to TESARO copies of any registration certificates as well as any other documentation received by ZAI. 
+
+15.14 Interpretation. 
+
+(a) Each of the Parties acknowledges and agrees that this Agreement has been diligently reviewed by and negotiated by and between them, that in such negotiations each of them has been represented by competent counsel and that the final agreement contained herein, including the language whereby it has been expressed, represents the joint efforts of the Parties hereto and their counsel. Accordingly, in interpreting this Agreement or any provision hereof, no presumption shall apply against any Party hereto as being responsible for the wording or drafting of this Agreement or any such provision, and ambiguities, if any, in this Agreement shall not be construed against any Party, irrespective of which Party may be deemed to have authored the ambiguous provision. The English language version of this Agreement shall control any interpretations of the provisions of this Agreement. 
+
+ 
+
+40. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+(b) The definitions of the terms herein shall apply equally to the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without limitation” whether or not such phrase is included. The word “will” shall be construed to have the same meaning and effect as the word “shall”. The word “any” shall mean “any and all” unless otherwise clearly indicated by context. The words “day”, “quarter” or “year” means a calendar day, quarter or year, as applicable, unless otherwise specified. 
+
+(c) Unless the context requires otherwise, (i) any definition of or reference to any agreement, instrument or other document herein shall be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications set forth herein or therein), (ii) any reference to any Applicable Law herein shall be construed as referring to such Applicable Law as from time to time enacted, repealed or amended, (iii) any reference herein to any person shall be construed to include the person’s successors and assigns, (iv) the words “herein”, “hereof” and “hereunder”, and words of similar import, shall be construed to refer to this Agreement in its entirety and not to any particular provision hereof, and (v) all references herein to Articles, Sections or Exhibits, unless otherwise specifically provided, shall be construed to refer to Articles, Sections and Exhibits of this Agreement. 
+
+{Signature Page Follows} 
+
+ 
+
+41. 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+IN WITNESS WHEREOF, the Parties have caused this License Agreement to be executed by their respective duly authorized officers. 
+
+ 
+
+
+
+
+
+
+
+Zai Lab (Shanghai) Co., Ltd.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Samantha Du
+
+Name:
+
+ 
+
+Samantha Du
+
+Title:
+
+ 
+
+CEO
+
+
+
+TESARO, Inc.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Leon O. Moulder Jr.
+
+Name:
+
+ 
+
+Leon O. Moulder Jr.
+
+Title:
+
+ 
+
+CEO
+
+
+
+TESARO DEVELOPMENT Ltd.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Joseph Farmer
+
+Name:
+
+ 
+
+Joseph Farmer
+
+Title:
+
+ 
+
+Director
+
+ 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+Exhibit A 
+
+[*] 
+
+ 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+Exhibit B 
+
+[*] 
+
+ 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+Exhibit C: Transferred Materials 
+
+[*] (two pages omitted) 
+
+ 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended. 
+
+
+
+
+Exhibit D: Development Plan—Niraparib Clinical development plan in China 
+
+[*] (two pages omitted) 
+
+ 
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.

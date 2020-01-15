@@ -1,0 +1,1804 @@
+Exhibit 10.3 
+
+  
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+DEVELOPMENT AND LICENSE AGREEMENT 
+
+This Development and License Agreement (this “Agreement”) is made effective as of the date of the last signature below (the “Effective Date”) by and between Bayer HealthCare AG, a German corporation (“Bayer”), with its principal place of business at D-51369 Leverkusen, Germany, and ImmunoGen, Inc., a Massachusetts corporation (“ImmunoGen”), with its principal place of business at 830 Winter Street, Waltham, Massachusetts 02451, USA.  Bayer and ImmunoGen are sometimes each hereinafter referred to individually as a “Party” and collectively as the “Parties”. 
+
+WHEREAS, Bayer is the owner of or otherwise controls certain rights in proprietary technology and know-how relating to certain Anti-Mesothelin Cell Binding Agents; and 
+
+WHEREAS, ImmunoGen is the owner of or otherwise controls certain rights in proprietary technology and know-how relating to or otherwise useful in the conjugation of MAY Compounds to binding proteins; and 
+
+WHEREAS, pursuant to the terms and conditions set forth herein, Bayer desires to obtain from ImmunoGen, and ImmunoGen desires to grant to Bayer, a license under certain of ImmunoGen’s Technology and Patent Rights to develop and commercialize one or more Licensed Products. 
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the Parties hereby agree as follows: 
+
+1.         DEFINITIONS 
+
+Whenever used in the Agreement with an initial capital letter, the terms defined in this Section 1 shall have the meanings specified. 
+
+1.1.     “Adverse Event” means any untoward medical occurrence in a human clinical trial subject or in a patient who is administered a Licensed Product, whether or not having a causal relationship with such Licensed Product, including, without limitation, any unfavorable and unintended sign (including, without limitation, abnormal laboratory findings of clinical concern), symptom or disease temporally associated with the use of such Licensed Product. 
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+1.2.     “Affiliate” means, with respect to any Person, any other Person that, directly or indirectly through one or more Affiliates, controls or is controlled by or is under common control with such Person.  For purposes of this Section 1.2, “control” means (a) ownership of fifty percent (50%) or more of the shares of stock entitled to vote for the election of directors, in the case of a corporation, or fifty percent (50%) or more of the equity interests in the case of any other type of legal entity, (b) status as a general partner in the case of any partnership, or (c) any other arrangement whereby a Person controls or has the right to control the board of directors or equivalent governing body or management of another Person. 
+
+1.3.     “Anti-Mesothelin Cell Binding Agent” means any Antibody or other amino acid-based or nucleotide-based molecule that selectively and specifically binds to Mesothelin. 
+
+1.4.     “Antibody” means a polyclonal or monoclonal antibody, whether multiple or single chain, recombinant or naturally occurring, whole or fragment, and any variants, derivatives or constructs thereof, including but not limited to, antigen binding portions including Fab, Fab’, F(ab’)2, Fv, dAb and CDR fragments, single chain antibodies (scFv), chimeric antibodies, diabodies and polypeptides (including humanized versions thereof) that contain at least a portion of an immunoglobulin that is sufficient to confer specific antigen binding to the polypeptide. 
+
+1.5.     “Applicable Laws” means all federal, state, local, national and supra-national laws, statutes, rules and regulations, including any rules, regulations, guidelines or requirements of Regulatory Authorities, national securities exchanges or securities listing organizations that may be in effect from time to time during the Term and applicable to a particular activity hereunder. 
+
+1.6.     “Bayer Background Technology” means any Technology used by Bayer or provided by Bayer for use, in the Research Program that is useful in the Field and that is (a) Controlled by Bayer as of the Effective Date or (b) Controlled by Bayer and developed or conceived by employees of, or consultants to, Bayer on and after the Effective Date in the conduct of activities outside the Research Program and without the use of any Licensed Technology. 
+
+1.7.     “Bayer Improvements” means Improvements conceived or first reduced to practice solely by one or more employees of or others obligated to assign inventions to Bayer or 
+
+2 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+any Affiliate of Bayer in connection with the Development or Commercialization of any Licensed Product. 
+
+1.8.     “Bayer Program Technology” means any Program Technology conceived or first reduced to practice solely by employees of, or others obligated to assign inventions to, Bayer or any Affiliate of Bayer. 
+
+1.9.     “Clinical Materials”  means any MAY Compound, Licensed Product or other materials (e.g., linker) supplied by ImmunoGen to Bayer pursuant to Section 4.3 or the terms of a Supply Agreement for use in human clinical testing. 
+
+1.10.   “Commercialization” or “Commercialize” means, with respect to any Licensed Product, any and all activities with respect to such Licensed Product relating to commercialization in the Field in the Territory, including pre-launch and launch activities, marketing, manufacturing for commercial sale, promoting, detailing, distributing, offering for sale and selling such Licensed Product, importing such Licensed Product for sale, conducting additional human clinical trials, reporting of Adverse Events and interacting with Regulatory Authorities regarding the foregoing.  When used as a verb, “Commercialize” means to engage in Commercialization and “Commercialized” has a corresponding meaning. 
+
+1.11.   “Competing Product”  means a product (a) that consists of [***] and (b) the Development or Commercialization of which same product [***]. 
+
+1.12.   “Confidential Information” means (a) with respect to ImmunoGen, all tangible embodiments of the Licensed Patent Rights and Licensed Technology; (b) with respect to Bayer, all information and Technology related to the Anti-Mesothelin Cell Binding Agents Controlled by Bayer and otherwise included in any Regulatory Filings made, and Regulatory Approvals received, by Bayer with respect to Licensed Products; and (c) with respect to each Party, all information and Technology which is disclosed by or on behalf of such Party (in such capacity, the “Disclosing Party”) to the other Party (in such capacity, the “Receiving Party”) hereunder or to any of the Receiving Party’s employees, consultants, Affiliates or sublicensees, except to the extent that the Receiving Party can demonstrate by written record or other suitable physical evidence that such information, (i) as of the date of disclosure is demonstrably known to the Receiving Party or its Affiliates other than by virtue of a prior confidential disclosure to such Party or its Affiliates; (ii) as of the date of disclosure is in, or subsequently enters, the public 
+
+3 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+domain through no fault or omission of the Receiving Party; (iii) is obtained by the Receiving Party from a Third Party having a lawful right to make such disclosure free from any obligation of confidentiality to the Disclosing Party; or (iv) is independently developed by or for the Receiving Party without reference to or reliance upon any Confidential Information of the Disclosing Party. 
+
+1.13.   “Confidentiality Agreements” means, collectively, (a) that certain Reciprocal Confidentiality Agreement effective January 19, 2006 by and between ImmunoGen and Berlex Biosciences, a division of Berlex, Inc. (predecessor-in-interest to Bayer), and (b) that certain Mutual Confidentiality Agreement effective July 7, 2008 by and between ImmunoGen and Bayer. 
+
+1.14.   [***] means the [***] published from time to time by [***].  As of the Effective Date, the [***] can be found at [***]. 
+
+1.15.   “Control” or “Controlled” means, with respect to any Patent Rights, Technology or Proprietary Materials, the possession by a Party of the ability to grant a license or sublicense of such Patent Rights or Technology and the rights thereto or to supply such Proprietary Materials as provided for in this Agreement without violating the terms of any arrangement or agreement between such Party or its Affiliates and any Third Party. 
+
+1.16.   “Cost” means, with respect to any Preclinical Materials or Clinical Materials manufactured by ImmunoGen, ImmunoGen’s fully-burdened costs (including the costs associated with product testing and release activities) of producing and packaging such Preclinical Materials or Clinical Materials, including the sum of the following components: (a) direct costs, including (i) materials directly used in producing and packaging such Preclinical Materials or Clinical Materials and (ii) with respect to any Preclinical Materials or Clinical Materials obtained by ImmunoGen from a Third Party and supplied to Bayer without modification, the amount paid by ImmunoGen to such Third Party for the same; (b) manufacturing overhead costs attributable to the cost of goods under the foregoing clause (a)(i), including manufacturing and quality labor and manufacturing and quality supervisory services, operating and administrative costs of the manufacturing and quality departments and occupancy costs which are allocable to company departments based on space occupied or headcount, or another activity-based method; (c) any other reasonable and customary 
+
+4 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+out-of-pocket costs borne by ImmunoGen for the testing, transport, customs clearance, duty, insurance and/or storage of such Preclinical Materials or Clinical Materials; and (d) ImmunoGen’s general and administrative costs, including purchasing, human resources, payroll, information system and accounting, which are directly attributable or reasonably allocable to company departments based on space occupied or headcount or another activity-based method.  Manufacturing overhead costs under the foregoing clause (b) and general and administrative costs under the foregoing clause (d) are allocable to each batch of Preclinical Material and/or Clinical Material produced based upon [***], as the use may be, at ImmunoGen’s facilities.  Notwithstanding the foregoing, Cost shall not include the cost of purchasing any Dedicated Equipment pursuant to Section 4.4 of this Agreement. 
+
+1.17.   “Dedicated Equipment”  means any equipment, instrument or machinery used by ImmunoGen exclusively in the manufacturing of Preclinical Materials or Clinical Materials. 
+
+1.18.   “Derived” means obtained, developed, created, synthesized, designed, derived or resulting from or generated from, based upon, or otherwise containing (whether directly or indirectly, or in whole or in part). 
+
+1.19.   “Development” and “Develop” means, with respect to any Licensed Product, all activities with respect to such Licensed Product relating to research and development in connection with seeking, obtaining or maintaining any Regulatory Approval for such Licensed Product in the Field in the Territory, including without limitation, all pre-clinical research and development activities, test method development and stability testing, regulatory toxicology studies, formulation, process development, manufacturing scale-up, development-stage manufacturing, quality assurance/quality control development, statistical analysis and report writing, clinical trial design and operations, preparing and filing Drug Approval Applications, reporting of Adverse Events, and all regulatory affairs related to the foregoing.  When used as a verb, “Developing” means to engage in Development and “Developed” has a corresponding meaning. 
+
+1.20.   “Drug Approval Application” means, with respect to a Licensed Product in a particular country or region, an application for Regulatory Approval for Commercialization of such Licensed Product in such country or region including, without limitation: (a) an NDA or 
+
+5 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+sNDA; (b) a counterpart of an NDA or sNDA, including any MAA, in any country or region in the Territory; and (c) all supplements and amendments to any of the foregoing. 
+
+1.21.   “FDA” means the United States Food and Drug Administration and any successor agency or authority thereto. 
+
+1.22.   “FDCA” means the United States Food, Drug and Cosmetic Act, as amended. 
+
+1.23.   “Field” means all human therapeutic, prophylactic and diagnostic uses. 
+
+1.24.   “First Commercial Sale” means the date of the first commercial transfer or disposition for value to a Third Party of a Licensed Product by or on behalf of Bayer or any Affiliate or Sublicensee of Bayer. 
+
+1.25.   “Full Time Equivalent” or “FTE”  means a full time person dedicated to the Research Program, or in the case of less than a full-time dedicated person, a full-time, equivalent person year, based on a total of at least [***] hours or [***] weeks per year of work, on or directly related to the Research Program, and which is carried out by employees, contractors or agents of ImmunoGen having the appropriate scientific expertise to conduct such activities. 
+
+1.26.   “FTE Cost” means, for any period during the Term of this Agreement, the FTE Rate multiplied by the number of FTEs expended over such period. 
+
+1.27.   “FTE Rate” means, for the [***], $[***]; and, for [***], the result obtained by [***] by the sum of [***] where [***] is a [***], the [***] of which is the [***] the [***] as of the [***] of the [***] and the [***] as of the [***] and the [***] of which is the [***] as of the [***]. 
+
+1.28.   “GLP” means the then current Good Laboratory Practice standards promulgated or endorsed by the FDA or, in the case of foreign jurisdictions, comparable regulatory standards promulgated or endorsed by the applicable Regulatory Authority, including those procedures expressed or implied in the Regulatory Filings. 
+
+1.29.   “GMP” means all good manufacturing practices under Title 21 of the United States Code of Federal Regulations, as amended from time to time. 
+
+1.30.   “ImmunoGen Program Technology” means any Program Technology conceived or first reduced to practice solely by employees of, or others obligated to assign inventions to, ImmunoGen or any Affiliate of ImmunoGen. 
+
+6 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+1.31.   “ImmunoGen Improvement” means Improvements conceived or first reduced to practice solely by one or more employees of, or others obligated to assign inventions to, ImmunoGen or any Affiliate of ImmunoGen. 
+
+1.32.   “Improvement” means any enhancement, improvement or modification to the Licensed Technology or the Licensed Patent Rights.  Improvements include, without limitation, enhancements, improvements or modifications of [***]. 
+
+1.33.   “IND” means (a) an Investigational New Drug Application (as defined in the FDCA and regulations promulgated thereunder) or any successor application or procedure required to initiate clinical testing of a Licensed Product in the United States; (b) a counterpart to an Investigational New Drug Application that is required in any other country or region in the Territory before beginning clinical testing of a Licensed Product in humans in such country or region; and (c) all supplements and amendments to any of the foregoing. 
+
+1.34.   “Initiation” means, with respect to any clinical study, the first date that a human subject is dosed in such clinical study. 
+
+1.35.   “Joint Improvements” means Improvements conceived or first reduced to practice jointly by (a) one or more employees of, or others obligated to assign inventions to, ImmunoGen or any Affiliate of ImmunoGen, and (b) one or more employees of, or others obligated to assign inventions to, Bayer or any Affiliate of Bayer. 
+
+1.36.   “Joint Program Technology” means any Program Technology (other than Joint Improvements) conceived or first reduced to practice jointly by (a) one or more employees of, or other persons obligated to assign inventions to, ImmunoGen or any Affiliate of ImmunoGen, and (b) one or more employees of, or other persons obligated to assign inventions to, Bayer or any Affiliate of Bayer. 
+
+1.37.   “Licensed Patent Rights” means any Patent Rights which are Controlled by ImmunoGen as of the Effective Date or become Controlled by ImmunoGen during the Term (including ImmunoGen’s interest in any Patent Rights covering Joint Program Technology and Joint Improvements) that include one or more claims that cover Licensed Technology.  Certain Licensed Patent Rights as of the Effective Date are set forth in Schedule A attached hereto and incorporated herein by reference. 
+
+7 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+1.38.   “Licensed Product” means any product that incorporates, is comprised of, or is otherwise Derived from, a conjugate of an Anti-Mesothelin Cell Binding Agent Controlled by Bayer with a MAY Compound. 
+
+1.39.   “Licensed Technology” means any Technology which is Controlled by ImmunoGen as of the Effective Date or becomes Controlled by ImmunoGen during the Term (including ImmunoGen’s interest in any Joint Program Technology and Joint Improvements), which is necessary or useful for Bayer to exercise the licenses granted to it pursuant to Section 2.1. 
+
+1.40.   “MAA” means an application filed with the relevant Foreign Regulatory Authorities in Europe seeking Regulatory Approval to market and sell any Licensed Product in Europe or any country or territory therein for a particular indication within the Field. 
+
+1.41.   “MAY Compound” means any and all maytansinoid compounds (including, without limitation, maytansinol, ansamitocins, DM1 and DM4), whether produced by a botanical source, natural fermentation, chemical synthesis or otherwise, and shall include, without limitation, all variants, fragments or derivatives of any of the foregoing, in each case Controlled by ImmunoGen. 
+
+1.42.   “Mesothelin” means the protein sequence defined in Schedule B attached hereto and incorporated herein by reference. 
+
+1.43.   “MTA”  means that certain Material Transfer and Evaluation Agreement between  Berlex Biosciences, a division of Berlex, Inc. (predecessor-in-interest to Bayer), and ImmunoGen dated June 19, 2006, as amended on August 7, 2006, March 19, 2007, December 13, 2007 and August 25, 2008. 
+
+1.44.   “NDA” means a new drug application (as defined in Title 21 of the United States Code of Federal Regulations, as amended from time to time) filed with the FDA seeking Regulatory Approval to market and sell any Licensed Product in the United States for a particular indication within the Field. 
+
+1.45.   “Net Sales” means, as to each calendar quarter during the Term, the gross invoiced sales prices charged for all Licensed Products sold by Bayer or its Affiliates or Sublicensees to Third Parties throughout the Territory during such calendar quarter, less the following amounts incurred or paid by Bayer or its Affiliates or Sublicensees during such 
+
+8 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+calendar quarter with respect to sales of Licensed Products regardless of the calendar quarter in which such sales were made: 
+
+a.    (i) trade, cash and quantity discounts actually allowed or taken, including discounts to governmental or managed care organizations; (ii) rebates actually paid or credited, including government rebates such as Medicaid chargebacks or rebates; (iii) retroactive price reductions or allowances actually allowed or granted from the billed amount; and (iv) commercially reasonably promotional allowances actually granted to customers as reflected on the same invoice as for the sale of Licensed Product; 
+
+b.   credits or allowances actually given or made for rejection of or return of, previously sold Licensed Products; 
+
+c.    any charges for insurance, freight, and other transportation costs directly related to the delivery of Licensed Product to the extent included in the gross invoiced sales price; 
+
+d.   any tax, tariff, duty or governmental charge levied on the sales, transfer, transportation or delivery of a Licensed Product (including any tax such as a value added or similar tax or government charge) borne by the seller thereof, other than franchise or income tax of any kind whatsoever; and 
+
+e.    any import or export duties or their equivalent borne by the seller. 
+
+Net Sales shall not include sales or transfers between Bayer and its Affiliates, unless the Licensed Product is consumed by the Affiliates. 
+
+In the event a Licensed Product is sold as a component of a combination or bundled product that consists of a Licensed Product together with another therapeutically active product for the same indication (a “Combination Product”), the Net Sales from the Combination Product, for the purposes of determining royalty payments hereunder, shall be determined by multiplying the Net Sales of the Combination Product (as defined in the standard Net Sales definition above) during the applicable royalty reporting period by the fraction A/A+B, where A is the [***] of the Licensed Product when sold separately in finished form in the country in which the Combination Product is sold in similar volumes and of the [***] and [***], and B is the [***] of the other product(s) included in the Combination Product when sold separately in finished form in the country in which the Combination Product is sold in similar volumes and of the [***] and [***], in each case during the applicable royalty reporting period or, if sales of the Licensed Product alone did not occur in such period, then in the [***] in which [***] of such Licensed Product occurred.  In the event that such [***] cannot be determined for the Licensed Product, on the one 
+
+9 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+hand, and all other product(s) included in the Combination Product, on the other, Net Sales for the purposes of determining royalty payments shall be [***]. 
+
+1.46.   “Patent Rights” means the rights and interests in and to any and all issued patents and pending patent applications (including inventor’s certificates, applications for inventor’s certificates, statutory invention registrations, applications for statutory invention registrations, utility models and any foreign counterparts thereof) in any country or jurisdiction in the Territory, including any and all provisionals, non-provisionals, substitutions, continuations, continuations-in-part, divisionals and other continuing applications, supplementary protection certificates, renewals, and all letters patent on any of the foregoing, and any and all reissues, reexaminations, extensions, confirmations, registrations and patents of addition on any of the foregoing. 
+
+1.47.   “Person” means an individual, sole proprietorship, partnership, limited partnership, limited liability partnership, corporation, limited liability company, business trust, joint stock company, trust, incorporated association, joint venture or similar entity or organization, including a government or political subdivision, department or agency of a government. 
+
+1.48.   “Phase II Clinical Study” means, as to a particular Licensed Product for a particular indication, a controlled and lawful study in humans of the safety, dose ranging and efficacy of such Licensed Product for such indication, which is prospectively designed to generate sufficient data (if successful) to commence a Pivotal Clinical Study of such Licensed Product for such indication. 
+
+1.49.   “Pivotal Clinical Study” means, as to a particular Licensed Product for a particular indication, a controlled and lawful study in humans of the safety and efficacy of such Licensed Product for such indication, which is prospectively designed to demonstrate statistically whether such Licensed Product is safe and effective for use in such indication in a manner sufficient to file a Drug Approval Application to obtain Regulatory Approval to market and sell that Licensed Product in any country in the Territory for the indication under investigation in such study. 
+
+1.50.   “Pivotal Equivalent Decision” means the date on which Bayer or its Sublicensee decides, based on notification and input from the applicable Regulatory Authority, that the data 
+
+10 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+and results generated from the Phase II Clinical Studies of a Licensed Product for a particular indication are sufficient, without any Pivotal Clinical Study of such Licensed Product for such indication, to support the filing of a Drug Approval Application to obtain Regulatory Approval to market and sell that Licensed Product in the applicable country or region for the indication under investigation. 
+
+1.51.   “Preclinical Materials” means any MAY Compound, Licensed Product or other materials (e.g., linker) supplied by ImmunoGen to Bayer in accordance with Section 4.2 for the purpose of conducting research activities or preclinical testing with respect to a Licensed Product. 
+
+1.52.   “Program Technology” means any Technology conceived or reduced to practice in the conduct of the Research Program or in connection with the Development of any Licensed Product. 
+
+1.53.   “Proprietary Materials” means any tangible chemical, biological or physical research materials that are furnished by or on behalf of one Party to the other Party in connection with this Agreement, regardless of whether such materials are specifically designated as proprietary by the transferring Party. 
+
+1.54.   “Regulatory Approval” means any and all approvals (including pricing and reimbursement approvals), product and establishment licenses, registrations or authorizations of any kind of any Regulatory Authority necessary for the development, pre-clinical or human clinical testing, manufacture, quality testing, supply, use, storage, importation, export, transport, marketing and sale of a Licensed Product (or any component thereof) for use in the Field in any country or other jurisdiction in the Territory. 
+
+1.55.   “Regulatory Authority” means the FDA or any counterpart to the FDA outside the United States, or other national, supra-national, regional, state or local regulatory agency, department, bureau, commission, council or other governmental entity with authority over the distribution, importation, exportation, manufacture, production, use, storage, transport, clinical testing or sale of a Licensed Product. 
+
+1.56.   “Regulatory Filings” means, collectively: (a) all INDs, NDAs, establishment license applications, drug master files, applications for designation as an “Orphan Product” under the Orphan Drug Act, for “Fast Track” status under Section 506 of the FDCA (21 U.S.C. § 356) or for a Special Protocol Assessment under Section 505(b)(4)(B) and (C) of the FDCA 
+
+11 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+(21 U.S.C. § 355(b)(4)(B)) or all other similar filings (including MAAs and counterparts to any of the foregoing in any country or region in the Territory) as may be required by any Regulatory Authority for the Development or Commercialization of a Licensed Product in the Territory; (b) all supplements and amendments to any of the foregoing; and (c) all data and other information contained in, and correspondence relating to, any of the foregoing. 
+
+1.57.   “Research Budget”  means the budget for the Research Plan as agreed to by the Parties. 
+
+1.58.   “Research Plan” means the written plan describing the research activities to be carried out by each Party pursuant to this Agreement under the Research Program. 
+
+1.59.   “Research Program” means the research activities in the Field commencing on the Effective Date to be conducted by the Parties pursuant to Section 3.1 of this Agreement and reflected in the Research Plan. 
+
+1.60.   “Serious Adverse Event” means an Adverse Event occurring at any dose of a drug that (a) results in death or poses a threat to life; (b) requires or prolongs hospitalization; (c) results in persistent or significant disability or incapacity; (d) is medically significant; or (e) results in a congenital anomaly or birth defect. 
+
+1.61.   “Sublicensee” means any Affiliate or Third Party to which Bayer grants a sublicense of the rights granted to Bayer pursuant to this Agreement. 
+
+1.62.   “Technology” means, collectively, all inventions, discoveries, improvements, trade secrets and proprietary methods or materials, whether or not patentable, including, without limitation, macromolecular sequences, data, formulations, processes, techniques, know-how and results (including negative results). 
+
+1.63.   “Territory” shall mean all countries and jurisdictions of the world. 
+
+1.64.   “Third Party” shall mean, as to a Party, any entity other than that Party and its respective Affiliates. 
+
+1.65.   “Valid Claim” shall mean any claim within an issued, unexpired patent [***] within the Licensed Patent Rights that (a) has not been [***] cancelled, withdrawn, abandoned or rejected by any administrative agency or other body of competent jurisdiction, and (b) has not been revoked, held invalid, or declared unpatentable or unenforceable in a decision of a court or other body of competent jurisdiction that is [***] or [***], and (c) has not been rendered 
+
+12 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+unenforceable through disclaimer or otherwise, and (d) is not lost through an interference proceeding. 
+
+Additional Definitions.  In addition, each of the following definitions shall have the respective meanings set forth in the section of the Agreement indicated below: 
+
+ 
+
+ 
+
+ 
+
+Definition
+
+   
+
+Section
+
+Agreement
+
+ 
+
+Recitals
+
+Bayer Indemnitees
+
+ 
+
+10.1(b)
+
+Combination Product
+
+ 
+
+1.45
+
+Disclosing Party
+
+ 
+
+1.12
+
+Dispute
+
+ 
+
+11.12
+
+Effective Date
+
+ 
+
+Recitals
+
+ImmunoGen Indemnitees
+
+ 
+
+10.1(a)
+
+Indemnified Party
+
+ 
+
+10.2
+
+Indemnifying Party
+
+ 
+
+10.2
+
+Infringement
+
+ 
+
+7.4(a)(i)
+
+Infringement Notice
+
+ 
+
+7.4(a)(i)
+
+JDC
+
+ 
+
+3.4(a)
+
+Losses
+
+ 
+
+10.1(a)
+
+Receiving Party
+
+ 
+
+1.12
+
+Supply Agreement
+
+ 
+
+4.3
+
+Party/Parties
+
+ 
+
+Recitals
+
+Term
+
+ 
+
+8.1
+
+Third Party Claims
+
+ 
+
+10.1(a)
+
+Third Party Payments
+
+ 
+
+5.3(b)
+
+Upfront Fee
+
+ 
+
+5.1(a)
+
+  
+
+13 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+2.          GRANT OF RIGHTS 
+
+2.1       License Grants. 
+
+(a)        Development and Commercialization License. 
+
+(i)         License to Bayer.  Subject to the terms and conditions of this Agreement, ImmunoGen hereby grants to Bayer an exclusive, royalty-bearing license, including the right to grant sublicenses as described in Section 2.1(a)(ii) below, under the Licensed Patent Rights and Licensed Technology to Develop, have Developed, Commercialize and have Commercialized Licensed Products in the Field in the Territory. 
+
+(ii)       Right to Sublicense.  Bayer shall have the right to grant sublicenses under the license rights granted to it under Section 2.1(a)(i) hereof with respect to any Licensed Product to any of its Affiliates and to any Third Party, provided, that: (A) it shall be a condition of any such sublicense that the Sublicensee agrees to be bound by all terms of this Agreement applicable to the Development and Commercialization of Licensed Products in the Field in the Territory (including, without limitation, Sections 3.2(b) and 3.3); (B) Bayer shall provide written notice to ImmunoGen of any such proposed sublicense at least [***] days prior to such execution and provide redacted copies to ImmunoGen of each such sublicense within [***] days [***]; (C) Bayer shall be deemed to have [***] that each such Sublicensee will [***] applicable to the subject matter of such sublicense; and (D) Bayer shall [***], including, without limitation, the [***], as a result of any such sublicense. 
+
+(b)        Research Licenses. 
+
+(i)         Research License to Bayer.  Subject to the terms and conditions of this Agreement, during the Term of this Agreement, ImmunoGen hereby grants to Bayer a fully paid-up, non-exclusive, royalty-free, worldwide license, without the right to grant sublicenses, under the Licensed Technology and Licensed Patent Rights for the sole purpose of conducting the activities it is required to perform as part of the Research Program. 
+
+(ii)       Research License to ImmunoGen.  Subject to the terms and conditions of this Agreement, during the Term of this Agreement, Bayer hereby grants to ImmunoGen a fully paid-up, non-exclusive, royalty-free, worldwide license, without the right to grant sublicenses, under the Bayer Background Technology and Bayer’s interest in any 
+
+14 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+Improvements and Program Technology, for the sole purpose of conducting the activities it is required to perform as part of the Research Program. 
+
+2.2       Retained Rights and Covenants. 
+
+(a)        Retained Rights.  Subject to the other terms of this Agreement (including, without limitation, Section 2.2(b)), ImmunoGen retains the right to use the Licensed Technology and practice the Licensed Patent Rights (a) to perform its obligations under this Agreement (including without limitation its obligation to manufacture Preclinical Materials and Clinical Materials in accordance with Section 4 of this Agreement); (b) to develop, have developed, commercialize, have commercialized, make, have made, use, have used, sell, have sold, offer for sale, import, have imported, export and have exported [***]; and (c) for any and all uses [***]. 
+
+(b)        Covenants.  Notwithstanding anything to the contrary contained in Section 2.2(a) or 2.3 of this Agreement, ImmunoGen hereby agrees during the Term of this Agreement, that it shall not [***]. 
+
+2.3       Improvement License to ImmunoGen.  Bayer hereby grants to ImmunoGen a non-exclusive, fully paid, irrevocable, royalty-free license [***] under Bayer’s interest in Improvements Controlled by Bayer (a) to manufacture Clinical Materials or Preclinical Materials pursuant to the terms of this Agreement, or each applicable Supply Agreement; [***]; and (c) to otherwise exploit such Improvements for all uses [***]. 
+
+2.4       Use of Licensed Technology.  In connection with any Licensed Technology transferred to Bayer pursuant to this Agreement, Bayer hereby agrees that (a) it shall not use such Licensed Technology for any purpose other than exercising its rights or performing its obligations hereunder; (b) it shall use such Licensed Technology only in compliance with all Applicable Laws; (c) it shall not transfer any such Licensed Technology to any Third Party without the prior written consent of ImmunoGen, except as expressly permitted hereby; (d) except for the rights expressly set forth herein, Bayer shall not have any other rights, title or interest in or to such Licensed Technology as a result of such transfer by ImmunoGen; and (e) any activities by ImmunoGen to facilitate Bayer’s use of the Licensed Technology shall be conducted as part of the Research Program. 
+
+15 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+3.          RESEARCH PROGRAM; DEVELOPMENT AND COMMERCIALIZATION 
+
+OF LICENSED PRODUCTS 
+
+3.1       Research Program. 
+
+(a)        Implementation of Research Program.  As soon as practicable after the Effective Date, the Parties shall prepare a mutually agreed upon Research Plan which shall set forth with reasonable specificity the research objectives and tasks to be conducted by the Parties under the Research Program.  The Research Program shall be designed to facilitate the selection of the appropriate Anti-Mesothelin Cell Binding Agents, MAY Compounds and linkers to be used in preparing Licensed Products and the conduct of initial research with respect to the Licensed Products.  At Bayer’s request, the Research Program shall also be designed to facilitate Bayer’s use of the Licensed Technology (including, without limitation, ImmunoGen’s conjugation Technology), subject to Section 2.4.  The Research Program shall be conducted pursuant to a Research Budget agreed to by the Parties.  The Parties expect that the Research Program, and related Research Budget, will be amended and updated from time to time during the Term of this Agreement, which amendments and updates shall be submitted to the JDC and shall be subject to its approval.  Each Party undertakes that the activities assigned to it in a Research Plan shall be conducted diligently and in good scientific manner in accordance with accepted laboratory practices and in compliance with any and all laws, regulations and bioethical conventions applicable to the jurisdiction in which those activities take place. 
+
+(b)        Collaborative Efforts and Reports.  The Parties agree that the successful execution of the Research Program will require the collaborative use of both Parties’ areas of expertise.  The Parties shall keep the JDC and each other fully informed about the status of the Research Program.  Scientists at ImmunoGen and Bayer shall cooperate in the performance of the Research Program and, subject to any confidentiality obligations to Third Parties, shall exchange information and materials in a mutually acceptable secure manner as necessary to carry out the Research Program, subject to the provisions of Section 6 hereof. 
+
+(c)        Supply of Proprietary Materials.  From time to time during the Research Program Term, either Party (in such capacity, the “Transferring Party”) may supply the other Party (in such capacity, the “Recipient Party”) with its Proprietary Materials for use in the 
+
+16 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+Research Program.  In connection therewith, the Recipient Party hereby agrees that (i) it shall not use Proprietary Materials for any purpose other than exercising any rights granted to it or reserved by it hereunder; (ii) it shall use the Proprietary Materials only in compliance with all Applicable Laws; (iii) it shall not transfer any Proprietary Materials to any Third Party without the prior written consent of the Transferring Party, except as expressly permitted hereby; (iv) the Transferring Party shall retain full ownership of all such Proprietary Materials; and (v) upon the expiration or termination of this Agreement, the Recipient Party shall at the instruction of the Transferring Party either destroy or return any Proprietary Materials which are not the subject of the grant of a continuing license hereunder. 
+
+3.2       Development and Commercialization. 
+
+(a)        Responsibility.  Subject to Section 3.3 of this Agreement, on and after the Effective Date, Bayer shall have sole responsibility for the Development and Commercialization of Licensed Products in the Field in the Territory, including, without limitation: (i) the conduct of all research and pre-clinical Development activities (including the assessment of alternative designs for the Licensed Products, the selection of the final Anti-Mesothelin Cell Binding Agents, MAY Compounds and linkers to be used in the Licensed Products and the selection of the Licensed Products to be Developed, all preclinical and IND-enabling studies, including toxicology testing, any pharmaceutical development work on formulations or process development relating to any such Licensed Products); (ii) all activities related to human clinical trials; (iii) all activities relating to the manufacture and supply of Anti-Mesothelin Cell Binding Agents, MAY Compounds and Licensed Products, to the extent such activities relate to the Development and Commercialization of Licensed Products (including all required process development and scale up work with respect thereto); and (iv) all Commercialization activities relating to any Licensed Product.  Without limiting the generality of the foregoing, Bayer shall have sole responsibility for (A) making all Regulatory Filings for Licensed Products and filing all Drug Approval Applications and otherwise seeking all Regulatory Approvals regarding such matters and (B) reporting of all Adverse Events to Regulatory Authorities if and to the extent required by Applicable Laws.  All activities relating to Development and Commercialization of Licensed Products under this Agreement shall be undertaken at Bayer’s sole cost and expense, except as otherwise expressly provided in this Agreement. 
+
+17 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+(b)        Due Diligence.  Bayer will use [***] to Develop Licensed Products and to undertake investigations and actions required to obtain appropriate Regulatory Approvals necessary to market Licensed Products, in the Field and in the Territory and, if approved, to Commercialize Licensed Products, [***].  In determining whether Bayer is using the efforts described in this Section 3.2(b) to [***] a Licensed Product, the Parties shall consider, among other things, whether such Licensed Product is [***].  [***] shall mean that at any given time Bayer shall be [***] engaging in one or more of the following [***] activities for a given Licensed Product: [***]. 
+
+(c)        Compliance.  Bayer shall perform its obligations to Develop Licensed Products in good scientific manner and in compliance in all material respects with all Applicable Laws, provided that, with respect to each activity so performed that will or would reasonably be expected to be submitted to a Regulatory Authority in support of an Regulatory Filing, Bayer shall comply in all material respects with the regulations and guidance of the FDA that constitute GLP or GMP (or, if and as appropriate under the circumstances, other comparable regulation and guidance of any applicable Regulatory Authority in any country or region in the Territory). 
+
+3.3       Updates and Reports; Notification of Milestones; Exchange of Adverse Event Information. 
+
+(a)        Updates and Reports.  Bayer shall provide ImmunoGen with brief written reports no less frequently than on each anniversary of the Effective Date during the Term of this Agreement (commencing with the first anniversary of the Effective Date) which shall summarize Bayer’s efforts to Develop and Commercialize such Licensed Products in the Field in the Territory, identify the Drug Approval Applications that Bayer and its Sublicensees have filed, sought or obtained in the prior [***] month period, and any they reasonably expect to make, seek or attempt to obtain in the following [***] month period.  The Parties agree that the minutes of the JDC meetings may serve as reports hereunder, to the extent such minutes adequately address the above issues. 
+
+(b)        Notification of Milestone Achievement.  Bayer shall provide ImmunoGen with prompt written notice of the occurrence of any event giving rise to an obligation to make a milestone payment to ImmunoGen under Section 5.1(b), which shall in any event be no later than [***] days after the occurrence of such event, and shall provide ImmunoGen with prompt 
+
+18 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+written notice of the occurrence of the First Commercial Sale of any Licensed Product in any country.  In the event that, notwithstanding the fact that Bayer has not given any such notice, ImmunoGen believes any such milestone event has occurred, it shall so notify Bayer in writing, and shall provide to Bayer the data and information demonstrating that the conditions for payment have been achieved.  Within [***] days of its receipt of such notice, the Parties shall meet to review the data and information and shall agree in good faith whether or not the conditions for payment have been achieved. 
+
+(c)        Adverse Event Reports.  In addition to the updates described in Section 3.3(a), Bayer shall provide ImmunoGen with all Adverse Event information and product complaint information relating to Licensed Products as such information is compiled or prepared by Bayer in the ordinary course of business in connection with the Development or Commercialization of any Licensed Product, in accordance with procedures to be agreed upon by the Parties and, in any event, within the time frames consistent with reporting obligations under Applicable Laws.  To the extent that it may apply to a Licensed Product, ImmunoGen agrees to provide Bayer with Serious Adverse Event and product complaint information relating to any product containing a conjugate of an Antibody with a MAY Compound that is compiled and prepared by ImmunoGen or any Third Party collaborator in the ordinary course of business in connection with the development, commercialization or sale of any such product, in accordance with procedures to be agreed upon by the Parties; provided, however, that the foregoing shall not require ImmunoGen to violate any agreements with or confidentiality obligations owed to any Third Party. 
+
+(d)        Correspondence for Licensed Products.  To the extent reasonably practicable and subject to any Third Party confidentiality obligations, Bayer shall provide ImmunoGen with copies of any material documents or correspondence pertaining to ImmunoGen’s manufacture of Preclinical Materials, Clinical Materials or any Licensed Product and prepared for submission to any Regulatory Authority and any material documents or other correspondence received from any Regulatory Authority pertaining to ImmunoGen’s manufacture of Preclinical Materials, Clinical Materials or any Licensed Product.  ImmunoGen shall complete its review within [***] days after receipt of the proposed submission. When requested in writing, ImmunoGen shall provide reasonable assistance to Bayer in obtaining 
+
+19 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+Regulatory Approvals for Licensed Product.  Notwithstanding the foregoing, Bayer shall have the sole responsibility for, and ImmunoGen agrees that Bayer shall be the sole owner of, any Regulatory Approval for the Licensed Product. 
+
+(e)        Confidential Information.  All reports, updates, Adverse Event reports, product complaints and other information provided by the Disclosing Party to the Receiving Party under this Agreement (including under this Section 3.3), shall be considered Confidential Information of the Disclosing Party, subject to the terms of Section 6. 
+
+3.4       Joint Development Committee. 
+
+(a)        Mandate and Establishment of Committee.  Promptly after the Effective Date, the Parties shall form a joint development committee (the “JDC”) to serve as a forum for coordination and communication between the Parties with respect to the Research Program and the Development of Licensed Products, and to assist Bayer in its exercise of its rights to make or have made Licensed Products under this Agreement.  Within [***] days after the Effective Date, the Parties shall each nominate an equal number of representatives (which shall be no less than two (2) each) for membership on the JDC.  Each Party may change its representative(s) as it deems appropriate by notice to the other Party. 
+
+(b)        Chair of Committee; Meetings.  The chair of the JDC shall be one of the Bayer representatives on the JDC, as designated by Bayer.  The JDC shall meet on a quarterly basis or other schedule agreed upon by the Parties, unless the Parties mutually agree in advance of any scheduled meeting that there is no need for such meeting.  In such instance, the next JDC meeting shall also be scheduled as agreed upon by the Parties.  The location of meetings of the JDC shall alternate between ImmunoGen’s offices and Bayer’s offices, unless otherwise agreed by the Parties. As agreed upon by the Parties, JDC meetings may be face-to-face or may be conducted through teleconferences or videoconferences.  In addition to its JDC representatives, each Party shall be entitled to have other employees attend such meetings to present and participate, though not in a decision-making capacity.  Each Party shall bear its own costs and expenses, including travel and lodging expense, that may be incurred by JDC representatives or other attendees at JDC meetings, as a result of such meetings hereunder.  Minutes of each JDC meeting will be transcribed and issued to members of the JDC by the chair (or his or her 
+
+20 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+designee) within thirty (30) days after each meeting, and such minutes shall be reviewed and modified as mutually required to obtain approval of such minutes promptly thereafter. 
+
+3.5       ImmunoGen’s [***].  At [***] for each Licensed Product, the Parties will discuss [***] to enter into a [***] after the completion of the [***] with respect to such Licensed Product.  A binding commitment with respect to any such arrangement will result only from the negotiation, approval, execution and delivery of a definitive agreement by all necessary parties, and shall be subject to the conditions expressed therein. 
+
+4.         SUPPLY AND MANUFACTURING OBLIGATIONS 
+
+4.1       Supply of Materials.  Bayer shall be responsible, at its sole cost, for manufacturing or having manufactured through Third Party contract manufacturers, all materials (including without limitation, all Anti-Mesothelin Cell Binding Agents, MAY Compounds and Licensed Products) to enable it to Develop and Commercialize Licensed Products (including as required for any pre-clinical, clinical and commercial use of Licensed Products, including process development and scale-up). 
+
+4.2       Supply of Preclinical Materials by ImmunoGen.  Notwithstanding anything to the contrary in Section 4.1, during the Term of this Agreement, Bayer may request ImmunoGen to supply Bayer with such quantities of Preclinical Materials as may be reasonably required by Bayer in order to conduct all pre-clinical Development activities [***] relating to Licensed Products.  Bayer shall order all amounts of Preclinical Materials, and ImmunoGen shall deliver all such ordered amounts, in accordance with advance ordering timeframes and delivery timeframes and specifications to be agreed upon by the Parties.  To the extent Bayer requests ImmunoGen to manufacture any Licensed Product, Bayer shall supply ImmunoGen with quantities of Anti-Mesothelin Cell Binding Agents sufficient to enable ImmunoGen to produce such Licensed Product.  ImmunoGen shall use commercially reasonable efforts to deliver to Bayer such amounts of Preclinical Materials as are ordered by Bayer in accordance with the foregoing (including such agreed upon timeframes) in a timely manner; provided, that, to the extent such Preclinical Materials are Licensed Products, ImmunoGen’s obligations shall be contingent on ImmunoGen’s receipt of the required quantities of Anti-Mesothelin Cell Binding Agents from Bayer.  In connection with any ordering of Preclinical Materials by Bayer, 
+
+21 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+ImmunoGen shall provide Bayer promptly with ImmunoGen’s good faith estimate of the Cost for manufacture and supply of such Preclinical Materials.  ImmunoGen’s price to supply Preclinical Materials to Bayer shall equal [***] for such Preclinical Materials.  In connection with such supply, Bayer hereby agrees that (a) it shall not use the Preclinical Materials in any human subject; (b) it shall use the Preclinical Materials in compliance with all Applicable Laws; and (c) it (as a matter of contract between itself and ImmunoGen) shall assume all liability for damages that may arise from the use, storage and disposal of any Preclinical Materials.  Bayer shall be entitled to transfer Preclinical Materials to any Third Party under terms obligating such Third Party not to transfer or use such Preclinical Materials except in compliance with the foregoing clauses (a) and (b) of the preceding sentence. 
+
+4.3       Supply of Clinical Materials by ImmunoGen.  If, during the Term of this Agreement, Bayer requests in writing that ImmunoGen supply Bayer with such quantities of Clinical Materials as may be reasonably required by Bayer in order to conduct human clinical studies of such Clinical Materials through the completion of non-pivotal Phase II Clinical Studies for such Clinical Materials, ImmunoGen will use commercially reasonable efforts to supply Bayer with such Clinical Materials pursuant to the terms of a supply agreement (the “Supply Agreement”) to be negotiated in good faith by the Parties.  The Supply Agreement shall provide, among other things, that (a) ImmunoGen shall deliver all ordered amounts of Clinical Materials in accordance with forecasting parameters, advance ordering timeframes and delivery timeframes to be agreed upon by the Parties in the Supply Agreement; (b) in connection with any ordering of Clinical Materials by Bayer, ImmunoGen shall provide Bayer with ImmunoGen’s good faith estimate of the Cost for manufacture and supply of such Clinical Materials; (c) ImmunoGen’s price to supply Clinical Materials to Bayer shall equal [***] for such Clinical Materials; and (d) Bayer shall use such Clinical Materials solely for human clinical testing up to and including conduct of non-pivotal Phase II Clinical Studies.  The Supply Agreement may take the form of a master supply agreement, together with work orders specifically related to the supply of Clinical Materials.  Further, the Parties shall enter into such additional agreements related to GMP, quality and technical terms as are necessary for regulatory purposes.  Bayer hereby agrees that (i) it shall use the Clinical Materials in compliance with all Applicable Laws and (ii) it (as a matter of contract between itself and ImmunoGen) shall assume all liability for damages that may 
+
+22 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+arise from the use, storage and disposal of such Clinical Materials.  Bayer shall be entitled to transfer Clinical Materials to any Third Party under terms obligating such Third Party not to transfer or use such Clinical Materials except in compliance with all Applicable Laws. 
+
+4.4       Purchase of Dedicated Equipment.  If, during the Term of this Agreement, ImmunoGen determines in good faith that it is necessary or advisable to purchase Dedicated Equipment in order to perform any of its obligations to manufacture Preclinical Materials or Clinical Materials under Sections 4.2 or 4.3 of this Agreement, then ImmunoGen shall provide Bayer with written notice of such determination, along with the estimated price for such purchase and quality parameters for the Dedicated Equipment, for Bayer’s approval of such price and features.  Promptly after the consummation of such purchase, assuming that Bayer has provided its approval hereunder, ImmunoGen shall provide Bayer with a copy of the invoice or invoices reflecting such purchase, and Bayer shall reimburse ImmunoGen for the purchase of all such approved Dedicated Equipment hereunder within [***] days of its receipt of such invoice from ImmunoGen; provided, however, that no costs reimbursed by Bayer hereunder (or depreciation of such purchased equipment or instruments) shall be included within the calculation of any Costs under this Agreement.  Bayer shall have title and ownership of all such Dedicated Equipment purchased pursuant to this Section 4.4, and shall have the right to reclaim or retain possession of such Dedicated Equipment at its expense upon reasonable notice at such time as it is no longer required for use by ImmunoGen to carry out this Agreement.  Notwithstanding the foregoing, the purchase of items including, but not limited to, routine lab equipment, biological materials, products and reagents reasonably required by ImmunoGen to conduct the Research Program shall be included in the Research Budget. 
+
+4.5       Process Development Activities.  To the extent that Bayer requests that ImmunoGen manufacture Preclinical Materials or Clinical Materials as described in this Section 4, ImmunoGen shall conduct such process development activities as the Parties agree are necessary to produce the quantities of Preclinical Materials or Clinical Materials so ordered.  From time to time after the Effective Date, the Parties shall agree in writing upon the number of FTEs required of ImmunoGen for the performance of such process development activities and Bayer shall pay the FTE Cost for such FTEs reflected in such written agreement.  Any Preclinical Materials or Clinical Materials used by ImmunoGen in connection with such process 
+
+23 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+development activities shall be included within the calculation of Cost to be paid by Bayer pursuant to Sections 4.2 or 4.3 of this Agreement or the Supply Agreement. 
+
+5.         PAYMENTS AND ROYALTIES 
+
+5.1       Milestone Payments for Licensed Products. 
+
+(a)        Upfront Fee.  In consideration of the grant of the license described in Section 2.1 hereof, Bayer hereby agrees to pay ImmunoGen an upfront fee (the “Upfront Fee”) in the amount of $4,000,000 payable in immediately available funds within [***] days of the Effective Date, which Upfront Fee shall be non-refundable and non-creditable. 
+
+(b)        Milestones.  In further consideration of the grant of the license by ImmunoGen hereunder, and subject to the other terms of this Agreement, Bayer will make the following payments to ImmunoGen within [***] days after the first occurrence of each of the milestones set forth below for each Licensed Product Developed and Commercialized hereunder: 
+
+  
+
+ 
+
+ 
+
+Milestone
+
+   
+
+Milestone Payment
+
+ 
+
+ 
+
+ 
+
+Bayer Decision Point 3 (D3) or equivalent decision:
+
+ 
+
+ 
+
+Start Preclinical Development
+
+ 
+
+$1.0 Million
+
+ 
+
+ 
+
+ 
+
+IND filing for a Licensed Product
+
+ 
+
+$2.0 Million
+
+ 
+
+ 
+
+ 
+
+Initiation of first non-pivotal Phase II
+
+ 
+
+ 
+
+Clinical Study for a Licensed Product
+
+ 
+
+$4.0 Million
+
+ 
+
+ 
+
+ 
+
+Earlier of Initiation of first Pivotal Clinical Study
+
+ 
+
+ 
+
+or Pivotal Equivalent Decision for the first indication
+
+ 
+
+ 
+
+of a Licensed Product
+
+ 
+
+$6.0 Million
+
+ 
+
+ 
+
+ 
+
+Earlier of Initiation of first Pivotal Clinical Study
+
+ 
+
+ 
+
+or Pivotal Equivalent Decision for the second indication
+
+ 
+
+ 
+
+of a Licensed Product
+
+ 
+
+$2.0 Million
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+First Drug Approval Application filing for the first
+
+ 
+
+ 
+
+indication of a Licensed Product
+
+ 
+
+$6.0 Million
+
+  
+
+24 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+
+
+ 
+
+ 
+
+[***]
+
+   
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+  
+
+If Initiation of first Pivotal Clinical Study or Pivotal Equivalent Decision for the first indication of a Licensed Product occurs before the Initiation of first non-pivotal Phase II Clinical Study of a Licensed Product, the milestone payment payable upon the earlier of Initiation of the first Pivotal Clinical Trial or Pivotal Equivalent Decision for the first indication of a Licensed Product shall be increased from $6.0 Million to $10.0 Million.  It is hereby acknowledged and agreed that any milestone payment shall be made [***].  All milestone payments shall be nonrefundable and noncreditable.  Bayer shall notify ImmunoGen of the achievement of each milestone hereunder for each Licensed Product as provided in Section 3.3(b) above. 
+
+5.2       Research Funding.  In consideration of the performance by ImmunoGen of the Research Program, Bayer will pay ImmunoGen for all FTEs used by ImmunoGen in such Research Program and pursuant to the Research Budget, as described in the Research Plan or agreed to by the Parties, at a rate per FTE equal to the FTE Rate.  From time to time after the Effective Date, the Parties shall agree in writing upon the number of FTEs required of ImmunoGen for agreed-upon portions of the Research Program and Bayer shall pay the FTE Cost for the FTEs reflected in such written agreement.  If, at any time during the Term of this Agreement, ImmunoGen determines that the actual number of FTEs for a particular period 
+
+25 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+agreed to by the Parties is expected to exceed the FTE number set forth in such written agreement for such period by more than [***], ImmunoGen shall give Bayer prompt written notice of same and the Parties shall discuss in good faith whether to approve the use of such additional FTEs or to decrease the activities to be performed, such that such increased FTEs are not necessary.  ImmunoGen will maintain complete and accurate records which are relevant to its expenditure of Research Program funding provided to it by Bayer pursuant to this Section 5.2 as well as the purchase of any Dedicated Equipment pursuant to Section 4.4 hereof. 
+
+5.3       Payment of Royalties; Royalty Rates; Accounting for Royalties and Records. 
+
+(a)        Royalty Payments.  For each Licensed Product, commencing on the first date of First Commercial Sale of such Licensed Product in any country or jurisdiction in the Territory, Bayer shall pay to ImmunoGen the following royalties based on Net Sales of such Licensed Product sold by Bayer, its Affiliates and its Sublicensees, on an incremental basis in each calendar year during the royalty term specified in Section 5.5, at the following rates: 
+
+For Annual Worldwide Net Sales
+of Licensed Products
+
+   
+
+Royalty Rate (% of Annual Net Sales)
+
+[***]
+
+ 
+
+4%
+
+[***]
+
+ 
+
+[***]
+
+[***]
+
+ 
+
+[***]
+
+[***]
+
+ 
+
+7%
+
+  
+
+The Parties acknowledge and agree that royalties may be payable hereunder with respect to sales of Licensed Products in a country in which [***] in such country and under such circumstances, such royalties shall be in consideration of the commercial advantage, know-how and background information gained from the Licensed Technology. 
+
+(b)        Third Party Royalty Offset.  If, [***], Bayer [***] to one or more Third Parties in consideration for a [***], in the absence of which Bayer [***] (collectively, “Third Party Payments”), then Bayer shall have the right to reduce the royalties otherwise due to ImmunoGen pursuant to Section 5.3(a) with respect to sales [***] of such Licensed Products [***] by an amount equal to [***] the amount of such Third Party Payments.  Notwithstanding the following, any such reductions under this Section 5.3(b) shall in no event reduce the royalty for such Licensed Product payable under Section 5.3(a) to [***] of Net Sales in [***]. 
+
+26 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+5.4       One Royalty.  Only one royalty, calculated at the highest applicable royalty rate under this Section 5, shall be payable to ImmunoGen hereunder for each sale of a Licensed Product. 
+
+5.5       Royalty Term.  Bayer shall pay royalties with respect to each Licensed Product on a country-by-country and Licensed Product-by-Licensed Product basis until the later of (a) [***] years from the First Commercial Sale of such Licensed Product in such country or (b) the expiration of the last to expire Valid Claim of the Licensed Patent Rights covering the Licensed Product in such country.  Following such royalty term, Bayer shall have a fully paid-up, irrevocable, freely transferable and sublicensable license in such country under the relevant Licensed Patent Rights and Licensed Technology, to Develop, have Developed, Commercialize, have Commercialized, make, have made, use, have used, sell, have sold, offer for sale, export, have exported, import and have imported such Licensed Product in such country. 
+
+5.6       Payment Terms. 
+
+(a)        Payment of Milestones; Payment of Royalties; Royalty Reports.  Bayer shall make any milestone payments owed to ImmunoGen hereunder in United States Dollars, using the wire transfer provisions of Section 5.6(d) within [***] days of the occurrence of the applicable milestone.  Bayer shall make any royalty payments owed to ImmunoGen in United States Dollars, quarterly within [***] days following the end of each calendar quarter for which such royalties are deemed to occur (as provided in the next sentence), using the wire transfer provisions of Section 5.6(d).  For purposes of determining when a sale of any Licensed Product occurs under this Agreement, the sale shall be deemed to occur on the earlier of (i) the date the Licensed Product is shipped or (ii) the date of the invoice to the purchaser of the Licensed Product.  Each royalty payment shall be accompanied by a report for each country in the Territory in which sales of Licensed Products occurred in the calendar quarter covered by such statement, specifying: the gross sales (if available) and Net Sales in each country’s currency; the applicable royalty rate under this Agreement; the royalties payable in each country’s currency, including an accounting of deductions taken in the calculation of Net Sales; the applicable exchange rate to convert from each country’s currency to United States Dollars under this Section 5.6; and the royalties payable in United States Dollars. 
+
+27 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+(b)        Accounting.  All payments hereunder shall be made in U.S. dollars.  Royalties shall be calculated based on Net Sales in the currency of each country in which Net Sales have occurred, and shall be converted (as applicable) to U.S. Dollars as follows.  With respect to each calendar quarter, whenever conversion of payments from any foreign currency shall be required, such conversion shall be made using the arithmetic average of the spot rates on (a) the first Business Day (as defined below) of the calendar quarter to which such payments relate and (b) the last Business Day of each month of such calendar quarter to which such payments relate.  The “closing mid-point rates” found in the “Exchange Rates” table published by The Wall Street Journal, or any other publication as agreed to by the Parties, shall be used as the source of spot rates to calculate the average as defined in the preceding sentence.  For purposes of the foregoing, “Business Day” means a day on which banking institutions in New York, New York are open for business. 
+
+(c)        Tax Withholding.  All payments made by Bayer to ImmunoGen hereunder shall be free and clear of any taxes, duties, levies, fees or charges, except for withholding taxes, if any.  Bayer shall make any applicable withholding payments due on behalf of ImmunoGen and shall provide ImmunoGen with reasonable proof of payment of such withholding taxes, together with an accounting of the calculations of such taxes, within [***] days after such payment is remitted to the proper authority.  Any withheld tax remitted by Bayer to the proper authority shall be treated as having been paid by Bayer to ImmunoGen for all purposes of this Agreement.  The Parties will cooperate reasonably in completing and filing documents required under the provisions of any applicable laws in connection with the making of any required withholding tax payment, or in connection with any claim to a refund of or credit for any such payment. 
+
+(d)        Wire Transfers.  All payments hereunder shall be made to ImmunoGen by bank wire transfer in immediately available funds to the account designated by ImmunoGen by written notice to Bayer from time to time. 
+
+5.7       Overdue Payments.  Subject to the other terms of this Agreement, royalties or milestones not paid within the time period set forth in this Section 5 shall bear interest from the due date until paid in full, at a rate equal to the lesser of (a) [***] or (b) the maximum interest rate permitted by applicable law in regard to such payments.  Such royalty or milestone payment when 
+
+28 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+made shall be accompanied by all interest so accrued.  Such interest and the payment and acceptance thereof shall not negate or waive the right of ImmunoGen to any other remedy, legal or equitable, to which it may be entitled because of the delinquency of the payment. 
+
+5.8       Records Retention; Audit. 
+
+(a)        Records Retention.  Commencing as of the date of First Commercial Sale of the first Licensed Product, Bayer and its Affiliates and Sublicensees shall keep for at least [***] years from [***] complete and accurate records of sales by Bayer or its Affiliates or Sublicensees, as the case may be, of each Licensed Product, in sufficient detail to allow the accuracy of the royalties to be confirmed.  For purposes of facilitating ImmunoGen’s audit rights under Section 5.8(b), one complete and accurate set of such records shall be maintained at all times in the United States. 
+
+(b)        Audit.  Subject to the other terms of this Section 5.8(b), at the request of ImmunoGen, upon at least [***] days’ prior written notice, but no more often than [***], and at its sole expense (except as otherwise provided herein), Bayer shall permit an independent certified public accountant reasonably selected by ImmunoGen and reasonably acceptable to Bayer to inspect (during regular business hours) the relevant records required to be maintained by Bayer under Section 5.8(a) in the United States.  At ImmunoGen’s request, the accountant shall be entitled to audit the [***] years of Bayer’s records for purposes of verifying Bayer’s royalty calculations.  To the extent requested by Bayer, the accountant shall enter into a confidentiality agreement with both Parties substantially similar to the provisions of Section 6 limiting the disclosure and use of such information by such accountant to authorized representatives of the Parties and the purposes germane to this Section 5.8.  Results of any such audit shall be made available to both Parties and shall be binding on both Parties.  ImmunoGen agrees to treat the results of any such accountant’s review of Bayer’s records under this Section 5.8(b) as Confidential Information of Bayer subject to the terms of Section 6.  If any such audit reveals a deficiency in the calculation of royalties resulting from any underpayment by Bayer, Bayer shall [***] pay ImmunoGen the amount remaining to be paid [***], and if such underpayment is by [***], Bayer shall pay the costs and expenses of the audit. 
+
+29 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+6.          TREATMENT OF CONFIDENTIAL INFORMATION 
+
+6.1       Confidentiality. 
+
+(a)        Confidentiality Obligations.  ImmunoGen and Bayer each recognizes that the other Party’s Confidential Information constitutes highly valuable assets of such other Party.  ImmunoGen and Bayer each agrees that, subject to Section 6.1(b), during the Term and for an additional [***] years thereafter, (i) it will not disclose, and will cause its Affiliates and sublicensees not to disclose, any Confidential Information of the other Party and (ii) it will not use, and will cause its Affiliates not to use, any Confidential Information of the other Party, in either case, except as expressly permitted hereunder.  Without limiting the generality of the foregoing, each Party shall take such action, and shall cause its Affiliates and sublicensees to take such action, to preserve the confidentiality of the other Party’s Confidential Information as such Party would customarily take to preserve the confidentiality of its own Confidential Information and shall, in any event, use at least reasonable care to preserve the confidentiality of the other Party’s Confidential Information. 
+
+(b)        Limited Disclosure.  Each Receiving Party shall be entitled to disclose the Disclosing Party’s Confidential Information to employees, consultants and Affiliates of the Receiving Party to enable the Receiving Party to exercise its rights or to carry out its responsibilities under this Agreement, provided that such disclosure shall only be made to persons who are bound by written obligations as described in Section 6.1(c).  In addition, the Disclosing Party’s Confidential Information may be disclosed by the Receiving Party (i) on a need-to-know basis to the Receiving Party’s legal and financial advisors and (ii) as reasonably necessary in connection with any actual or potential (A) permitted sublicense of the Receiving Party’s rights hereunder, (B) debt or equity financing of the Receiving Party or (C) purchase by any Third Party of all the outstanding capital stock or all or substantially all of the assets of the Receiving Party or any merger or consolidation involving the Receiving Party; provided that in each case the Person receiving the Disclosing Party’s Confidential Information agrees in writing to maintain the confidentiality of such Confidential Information with terms at least as protective as those contained in Section 6.1(a).  In addition, the Receiving Party may disclose the Disclosing Party’s Confidential Information to the extent such disclosure (1) is reasonably 
+
+30 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+necessary to file, prosecute or maintain patents or patent applications, or to file, prosecute or defend litigation related to patents or patent applications, in accordance with this Agreement, or (2) as required by Applicable Laws, provided that in the case of any disclosure under this clause (2), the Receiving Party shall (x) if practicable, provide the Disclosing Party with reasonable advance notice of and an opportunity to comment on any such required disclosure, (y) if requested by the Disclosing Party, cooperate in all reasonable respects with the Disclosing Party’s efforts to obtain confidential treatment or a protective order with respect to any such disclosure, at the Disclosing Party’s expense, and (z) use good faith efforts to incorporate the comments of the Disclosing Party in any such disclosure or request for confidential treatment or a protective order. 
+
+(c)        Employees and Consultants.  ImmunoGen and Bayer each hereby represents and warrants that all of its employees and consultants, and all of the employees and consultants of its Affiliates, who participate in the activities contemplated by this Agreement or who otherwise have access to Confidential Information of the other Party are or will, prior to their participation or access, be bound by written obligations to maintain such Confidential Information in confidence and not to use such information except as expressly permitted hereunder.  Each Party agrees to use, and to cause its Affiliates to use, reasonable efforts to enforce such obligations. 
+
+6.2        Publicity.  The Parties acknowledge that the terms of this Agreement constitute the Confidential Information of each Party and may not be disclosed except as permitted by Section 6.1(b).  Anything contained in this Agreement to the contrary notwithstanding, the Parties, upon the execution of this Agreement, shall mutually agree to a press release with respect to this Agreement and, once such press release is approved for disclosure by both Parties, either Party may make subsequent and repeated public disclosure of the contents thereof without further approval of the other Party.  After issuance of such press release, neither Party shall publish, present or otherwise disclose publicly any material related to the Research Program or the Development or Commercialization of a Licensed Product without the prior written consent of the other Party; provided that notwithstanding the foregoing, (a) neither Party will be prevented from complying with any duty of disclosure it may have pursuant to Applicable Laws; (b) either Party shall be permitted to publish such material in 
+
+31 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+scientific journals or present such material at scientific conferences in accordance with Section 6.3; and (c) both Parties (i) hereby acknowledge that the respective other Party’s ability to attract and raise capital is substantially dependent on its ability to publish, present or otherwise announce publicly developments in its research and development programs or in its product development pipeline and (ii) agree that they shall not unreasonably withhold, condition or delay their respective consent to any request by the respective other Party to publish, present or otherwise announce publicly developments in the Research Program or the Development or Commercialization of Licensed Products, including, without limitation, any announcement of the occurrence of any milestone event under Section 5.1(b). 
+
+6.3       Publications and Presentations.  The Parties acknowledge that scientific publications and presentations must be strictly monitored to prevent any adverse effect from premature publication or dissemination of results of the activities hereunder.  Each Party agrees that, except as required by Applicable Laws, it shall not publish or present, or permit to be published or presented, the results of the Research Program or the Development or Commercialization of a Licensed Product to the extent such results refer to or otherwise relate to the Licensed Technology or Licensed Patent Rights (the “Covered Results”) without the prior review by and approval of the other Party.  Each Party shall provide to the other Party the opportunity to review each of the submitting Party’s proposed abstracts, manuscripts or presentations (including, without limitation, information to be presented verbally) that relate to the Covered Results at least [***] days prior to its intended presentation or submission for publication, and such submitting Party agrees, upon written request from the other Party given within such [***], not to submit such abstract or manuscript for publication or to make such presentation until the other Party is given up to [***] days from the date of such written request to seek appropriate patent protection for any Covered Rights in such publication or presentation that it reasonably believes may be patentable.  Once such abstracts, manuscripts or presentations have been reviewed and approved by each Party, the same abstracts, manuscripts or presentations do not have to be provided again to the other Party for review for a later submission for publication.  Each Party also shall have the right to require that any of its Confidential Information that is disclosed in any such proposed publication or presentation be deleted prior to such publication or presentation.  In any permitted publication or presentation by a Party, the 
+
+32 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+other Party’s contribution shall be duly recognized, and co-authorship shall be determined in accordance with customary industry standards. 
+
+6.4       Remedies.  Each Party, as the Receiving Party, acknowledges that money damages would not be a sufficient remedy for any breach of the confidentiality obligations set forth in this Section 6, and the Disclosing Party shall be entitled to specific performance and injunctive relief as remedies for any such breach.  Anything contained in this Agreement to the contrary notwithstanding, such remedies will not be deemed to be the exclusive remedies for breach of the confidentiality obligations set forth in this Section 6 but will be in addition to all other remedies available at law or equity to the Disclosing Party. 
+
+6.5       Integration.  As to the subject matter of this Agreement, this Section 6 supersedes any confidential disclosure agreements between the Parties, including, without limitation, the Confidentiality Agreements and the confidentiality provisions of the MTA.  Any confidential information of a Party under any such agreement shall be treated as Confidential Information of such Party hereunder, subject to the terms of this Section 6. 
+
+7.          PROVISIONS CONCERNING THE FILING, PROSECUTION AND 
+
+MAINTENANCE OF PATENT RIGHTS 
+
+7.1       Ownership of Intellectual Property. 
+
+(a)        Solely-Owned Technology.  As between the Parties, ImmunoGen shall be the sole owner of (i) the Licensed Patent Rights and the Licensed Technology, (ii) all ImmunoGen Program Technology, and (iii) all ImmunoGen Improvements.  As between the Parties, and subject to Section 7.3(b), Bayer shall be the sole owner of (A) all Bayer Background Technology, (B) all Bayer Program Technology and (C) all Bayer Improvements.  The Party solely owning any Technology or Improvements hereunder shall be the sole owner of all Patent Rights with respect thereto. All determinations of inventive contribution shall be as determined by United States laws of inventorship.  The Party solely owning an invention hereunder will be solely responsible, at its own cost and expense and in its sole discretion, for the filing, prosecution and maintenance of any Patent Rights with respect thereto. 
+
+(b)        Joint Technology.  All Joint Program Technology and Joint Improvements shall be jointly owned by ImmunoGen and Bayer.  All determinations of inventive contribution 
+
+33 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+shall be as determined by United States laws of inventorship.  The Parties shall also jointly own any Patent Rights covering any such Joint Program Technology and Joint Improvements. 
+
+(c)        Disclosure.  As regards any Program Technology hereunder, each Party shall provide to the other Party any invention disclosure made during the course of performance of this Agreement and relating to activities carried out hereunder within [***] days after such Party receives such disclosure from its employees or others obligated to assign inventions to such Party. 
+
+7.2       Patent Filing, Prosecution and Maintenance. 
+
+(a)        Licensed Patent Rights.  ImmunoGen, acting through patent counsel or agents of its choice, shall be responsible, at its sole cost and expense and in its sole discretion, for the preparation, filing, prosecution and maintenance of all Licensed Patent Rights (other than Licensed Patent Rights covering Joint Program Technology or Joint Improvements). 
+
+(b)        Bayer Improvements.  Bayer, acting through patent counsel or agents of its choice, shall be responsible, at its sole cost and expense and in its sole discretion, for the preparation, filing, prosecution and maintenance of all Patent Rights covering Bayer Improvements.  Bayer will keep ImmunoGen reasonably informed of the status of the filing, prosecution and maintenance of any such Patent Rights, including, without limitation, by using commercially reasonable efforts to provide ImmunoGen a reasonable time prior to taking or failing to take any action that would affect the scope or validity of any such filing (including the substantially narrowing, cancellation or abandonment of any claim(s) without retaining the right to pursue such subject matter in a separate application, or the failure to file or perfect the filing of any claim(s) in any country), with prior written notice of such proposed action or inaction so that ImmunoGen has a reasonable opportunity to review and comment. 
+
+(c)        Joint Program Technology and Joint Improvements. 
+
+(i)         Bayer, acting through patent counsel and agents of its choice, shall be responsible, at its sole cost and expense and in its sole discretion, for the preparation, filing, prosecution and maintenance of all Patent Rights covering Joint Program Technology. 
+
+(ii)       ImmunoGen, acting through patent counsel and agents of its choice, shall be responsible, at its sole cost and expense and in its sole discretion, for the 
+
+34 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+preparation, filing, prosecution and maintenance of all Patent Rights covering Joint Improvements. 
+
+(iii)      The Party undertaking responsibility for the filing, prosecution and maintenance of any Patent Rights covering Joint Program Technology or Joint Improvements will keep the other Party reasonably informed of the status of such filing, prosecution and maintenance, including, without limitation, by using commercially reasonable efforts to provide the other Party a reasonable time prior to taking or failing to take any action that would affect the scope or validity of any such filing (including the substantially narrowing, cancellation or abandonment of any claim(s) without retaining the right to pursue such subject matter in a separate application, or the failure to file or perfect the filing of any claim(s) in any country), with prior written notice of such proposed action or inaction so that the other Party has a reasonable opportunity to review and comment. 
+
+(d)        Cooperation.  Each Party agrees to cooperate reasonably with the other Party in the preparation, filing, prosecution and maintenance of any Patent Rights pursuant to this Section 7.2.  Such cooperation includes, but is not limited to, executing all papers and instruments, or requiring employees or others to execute such papers or instruments, so as to effectuate the ownership of such Patent Rights and to enable the filing and prosecution thereof in any country or region. 
+
+7.3       Abandonment. 
+
+(a)        Licensed Patent Rights; Joint Improvements.  If ImmunoGen decides to abandon or to allow to lapse, or otherwise determines not to prosecute, any of the Licensed Patent Rights or Patent Rights covering Joint Improvements for which it is the filing party under Sections 7.2(a) and 7.2(c)(ii) in any country or region in the Territory, ImmunoGen shall inform Bayer of such decision promptly and, in any event, so as to provide Bayer a reasonable amount of time to meet any applicable deadline to establish or preserve such Patent Rights in such country or region.  Bayer shall have the right to assume responsibility for continuing the prosecution of such Patent Rights in such country or region and paying any required fees to maintain such Patent Rights in such country or region or defending such Patent Rights, in each case at Bayer’s sole expense and through patent counsel or agents of its choice.  Bayer shall not become an assignee of such Licensed Patent Rights or of ImmunoGen’s interest in such Patent 
+
+35 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+Rights covering Joint Improvements as a result of its assumption of such responsibility.  Upon transfer of ImmunoGen’s responsibility for prosecuting, maintaining and defending any of the Licensed Patent Rights or Patent Rights covering Joint Improvements under this Section 7.3(a), ImmunoGen shall promptly deliver to Bayer copies of all necessary files related to such Patent Rights with respect to which responsibility has been transferred and shall take all actions and execute all documents reasonably necessary for Bayer to assume such prosecution, maintenance and defense. 
+
+(b)        Bayer Improvements; Joint Program Technology.  If Bayer decides to abandon or allow to lapse, or otherwise determines not prosecute, any of the Patent Rights covering Bayer Improvements or Patent Rights covering Joint Program Technology for which it is the filing party under Sections 7.2(b) and 7.2(c)(i) in any country or region in the Territory, Bayer shall inform ImmunoGen of such decision promptly and, in any event, so as to provide ImmunoGen a reasonable amount of time to meet any applicable deadline to establish or preserve such Patent Rights in such country or region.  ImmunoGen shall have the right to assume responsibility for continuing the prosecution of such Patent Rights in such country or region and paying any required fees to maintain such Patent Rights in such country or region or defending such Patent Rights, in each case at ImmunoGen’s sole expense and through patent counsel or agents of its choice.  ImmunoGen shall not become an assignee of Bayer’s interest in such Patent Rights covering Joint Program Technology as a result of its assumption of such responsibility.  Upon transfer of Bayer’s responsibility for prosecuting, maintaining and defending any of the Patent Rights covering Bayer Improvements under this Section 7.3(b), Bayer shall [***].  Upon transfer of Bayer’s responsibility for prosecuting, maintaining and defending any of the Patent Rights covering Bayer Improvements or Joint Program Technology, Bayer shall promptly deliver to ImmunoGen copies of all necessary files related to such Patent Rights with respect to which responsibility has been transferred and shall take all actions and execute all documents reasonably necessary for ImmunoGen to assume such prosecution, maintenance and defense and, in the case of Patent Rights covering Bayer Improvements, to [***]. 
+
+36 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+7.4       Third Party Infringement. 
+
+(a)        If either Party becomes aware of any possible infringement of, or submission by any Third Party of an abbreviated new drug application under the Hatch-Waxman Act that is covered by, any Licensed Patent Rights that cover a Licensed Product or any Bayer Improvement (an “Infringement”), that Party shall promptly notify the other Party and provide it with all details of such Infringement of which it is aware (each, an “Infringement Notice”). 
+
+(b)        ImmunoGen shall have the first right and option, but not the obligation, to eliminate such Infringement with respect to Licensed Patent Rights (other than Patent Rights covering Joint Program Technology) that cover Licensed Products by reasonable steps, which may include the institution of legal proceedings or other action.  All costs, including, without limitation, attorneys’ fees, relating to such legal proceedings or other action shall be borne by ImmunoGen.  If ImmunoGen does not take commercially reasonable steps to eliminate the Infringement within [***] days from any Infringement Notice (or [***] days in the case of an Infringement under the Hatch-Waxman Act), then Bayer shall have the right and option to do so at its expense, provided that if ImmunoGen has commenced negotiations with an alleged infringer for elimination of such Infringement within such [***] (or, if applicable, [***]) period, then ImmunoGen shall have an additional [***] days (or in the case of an infringement under the Hatch-Waxman Act, [***] days) to conclude its negotiations before Bayer may take steps to eliminate such Infringement. 
+
+(c)        Bayer shall have the first right and option, but not the obligation, to eliminate such Infringement with respect to Patent Rights covering Bayer Improvements or Joint Program Technology by reasonable steps, which may include the institution of legal proceedings or other action.  All costs, including, without limitation, attorneys’ fees, relating to such legal proceedings or other action shall be borne by Bayer.  If Bayer does not take commercially reasonable steps to eliminate the Infringement within [***] days from any Infringement Notice (or [***] days in the case of an Infringement under the Hatch-Waxman Act), then ImmunoGen shall have the right and option to do so at its expense, provided that if Bayer has commenced negotiations with an alleged infringer for elimination of such Infringement within such [***] day (or, if applicable, such [***] day) period, then Bayer shall have an additional [***] days (or in 
+
+37 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+the case of an infringement under the Hatch-Waxman Act, [***] days) to conclude its negotiations before ImmunoGen may take steps to eliminate such Infringement. 
+
+(d)        Neither Party shall settle any Infringement claim or proceeding under this Section 7.4 without the prior written consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed. 
+
+(e)        Each Party shall have the right to participate, and be represented by counsel that it selects, in any legal proceedings or other action instituted under this Section 7.4 by the other Party.  If a Party with the right to initiate legal proceedings under this Section 7.4 to eliminate Infringement lacks standing to do so and the other Party has standing to initiate such legal proceedings, such Party with standing shall initiate such legal proceedings at the request and expense of the other Party. 
+
+(f)         In any action, suit or proceeding instituted under this Section 7.4, the Parties shall cooperate with and assist each other in all reasonable respects.  Upon the reasonable request of the Party initiating such action, suit or proceeding, the other Party shall join such action, suit or proceeding and shall be represented using counsel of its own choice, at the requesting Party’s expense. 
+
+(g)        Any amounts recovered by either Party pursuant to Section 7.4(b), whether by settlement or judgment, shall be allocated in the following order: (i) first, to [***], then the [***]; (ii) to [***] in reimbursement for [***] associated with Licensed Products and to [***] in reimbursement for [***]; and (iii) any amounts remaining shall be allocated as follows: (A) if ImmunoGen is the Party bringing such suit or proceeding or taking such other legal action, [***] to [***]; (B) if Bayer is the Party bringing such suit or proceeding or taking such other legal action, [***]; and (C) if the suit is brought jointly, [***].  Notwithstanding the foregoing, any such remaining amounts recovered by either Party pursuant to Section 7.4(c), whether by settlement or judgment, shall be allocated in their entirety to [***], provided that if the suit is brought jointly, any such amounts shall be allocated [***]. 
+
+7.5       Defense of Claims.  If any action, suit or proceeding is brought or threatened against either Party or a Sublicensee alleging infringement of the Technology or Patent Rights of a Third Party by reason of use by Bayer or a Sublicensee of the Licensed Technology or Licensed Patent Rights in the conduct of the Research Program or the Development or Commercialization 
+
+38 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+of any Licensed Product, the Party first receiving notice of such actual or threatened action, suit or proceeding shall notify the other Party promptly, and the Parties shall as soon as practicable thereafter discuss in good faith regarding the best response. 
+
+7.6       Trademarks.  All Licensed Products shall be sold under one or more trademarks and trade names selected and owned by Bayer in the Territory.  Bayer shall control the preparation, prosecution and maintenance of applications related to all such trademarks and trade names in the Territory, at its sole cost and expense and at its sole discretion.  ImmunoGen shall notify Bayer promptly upon learning of any actual, alleged or threatened infringement of a trademark or trade name applicable to a Licensed Product in the Territory, or of any unfair trade practices, trade dress imitation, passing off of counterfeit goods, or like offenses in the Territory.  All of the costs, expenses and legal fees in bringing, maintaining and prosecuting any action to maintain, protect or defend any trademark owned by Bayer hereunder, and any damages or other recovery, shall be Bayer’s sole responsibility, and taken in its sole discretion. 
+
+7.7       Integration.  This Section 7 supersedes any agreement between the Parties as to the subject matter hereof, including, without limitation, any provisions of the MTA relating to inventions, patent applications and patents. 
+
+8.         TERM AND TERMINATION 
+
+8.1       Term; Expiration.  The term of this Agreement shall commence on the Effective Date and shall expire on a country-by-country basis upon the expiration of the final royalty payment obligation with respect to the final Licensed Product under Section 5.3(a) above, subject to earlier termination in accordance with Section 8.2 (the “Term”). 
+
+8.2       Termination.  Subject to the other terms of this Agreement: 
+
+(a)        Voluntary Termination by Bayer.  Bayer shall have the right to terminate this Agreement at any time upon not less than [***] days’ prior written notice to ImmunoGen. 
+
+(b)        Termination for Breach.  Either Party may terminate this Agreement, effective immediately upon written notice to the other Party, for a breach by the other Party of any material term of this Agreement that remains uncured [***] days ([***] days if the breach is a failure of Bayer to make any payment required hereunder) after the non-breaching Party first gives written notice of such breach to the other Party; provided, however, that if the asserted 
+
+39 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+breach is cured or shown to be non-existent within the applicable cure period, the notice of breach shall be deemed automatically withdrawn. 
+
+(c)        Termination for Insolvency.  If either Party files for protection under bankruptcy laws, makes an assignment for the benefit of creditors, appoints or suffers the appointment of a receiver or trustee over its property, files a petition under any bankruptcy or insolvency act or has any such petition filed against it which is not discharged within [***] days of the filing thereof, then the other Party may terminate this Agreement effective immediately upon written notice to such Party.  In connection therewith, all rights and licenses granted under this Agreement are, and shall be deemed to be, for purposes of Section 365(n) of the United States Bankruptcy Code, licenses of rights to “intellectual property” as defined under Section 101(56) of the United States Bankruptcy Code.  If either Party undergoes a voluntary dissolution or winding-up of its affairs, then the other Party may terminate this Agreement effective immediately upon written notice to such Party. 
+
+(d)        Competing Product.  ImmunoGen shall have the right to terminate this Agreement, effective upon [***] days’ prior written notice to Bayer, in the event that Bayer or one of its Affiliates or Sublicensees (i) [***] an [***] in respect of a Competing Product with a [***] in any country or region in the Territory prior to [***] an [***] in respect of a Licensed Product in such country or region or (ii) [***] a [***] in respect of a Competing Product with a [***] in any country or region in the Territory prior to [***] a [***] in respect of a Licensed Product in such country or region. 
+
+8.3       Consequences of Termination.  Upon any termination of this Agreement by either Party under Section 8.2, as of the effective date of such termination, (a) all of the licenses granted by ImmunoGen to Bayer pursuant to Section 2.1 shall immediately terminate; (b) Bayer shall immediately cease, and shall cause its Affiliates and Sublicensees (subject to the next sentence) immediately to cease, any and all sales of Licensed Products in the Territory; and (c) each Party shall promptly return or destroy all Confidential Information of the other Party, provided that each Party may retain one copy of the Confidential Information of the other Party in its archives solely for the purpose of establishing the contents thereof and ensuring compliance with its obligations hereunder.  Notwithstanding the foregoing, and unless ImmunoGen specifies otherwise in writing, no such termination of this Agreement shall be construed as a termination 
+
+40 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+of any valid sublicense of any Third Party Sublicensee hereunder, and thereafter each such Sublicensee shall be considered a direct licensee of ImmunoGen, provided that (i) such Sublicensee is then in full compliance with all terms and conditions of its sublicense, (ii) all accrued payments obligations to ImmunoGen have been paid, and (iii) such Sublicensee agrees at least [***] days prior to the effective date of such termination to assume all obligations of Bayer under this Agreement. 
+
+8.4       Remedies.  Except as otherwise expressly set forth in this Agreement, the termination provisions of this Section 8 are in addition to any other relief and remedies available to either Party at law. 
+
+8.5       Surviving Provisions.  Notwithstanding any provision herein to the contrary, the rights and obligations of the Parties set forth in Sections 2.3, 2.4, 3.1(c), 3.3(e), 5.6, 5.7, 5.8, 6, 7.1, 7.2(b), 7.2(c), 7.2(d), 7.3, 7.4(b), 7.4(c), 8.3, 8.4, 8.5, 9.3, 10 and 11 as well as any rights or obligations otherwise accrued hereunder (including any accrued payment obligations), shall survive the expiration or termination of the Term of this Agreement.  Without limiting the generality of the foregoing, Bayer shall have no obligation to make any milestone or royalty payment to ImmunoGen that has not accrued prior to the effective date of any termination of this Agreement, but shall remain liable for all such payment obligations accruing prior to the effective date of such termination.  For the avoidance of doubt, ImmunoGen shall have no right to develop or commercialize any Licensed Products following termination of this Agreement. 
+
+9.          REPRESENTATIONS AND WARRANTIES 
+
+9.1       ImmunoGen Representations.  ImmunoGen represents and warrants to Bayer that: (a) the execution and delivery of this Agreement and the performance of the transactions contemplated hereby have been duly authorized by all appropriate ImmunoGen corporate action; (b) this Agreement is a legal and valid obligation binding upon ImmunoGen and enforceable in accordance with its terms, and the execution, delivery and performance of this Agreement by the Parties does not conflict with any agreement, instrument or understanding to which ImmunoGen is a party or by which it is bound; (c) to ImmunoGen’s knowledge, as of the Effective Date none of the patents within the Licensed Patent Rights is invalid or unenforceable; and (d) as of the 
+
+41 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+Effective Date, ImmunoGen has received no notice from a Third Party claiming that the exercise of the license granted hereunder to Bayer will infringe the issued patents of any such Third Party. 
+
+9.2       Bayer Representations.  Bayer represents and warrants to ImmunoGen that: (a) the execution and delivery of this Agreement and the performance of the transactions contemplated hereby have been duly authorized by all appropriate Bayer corporate action; and (b) this Agreement is a legal and valid obligation binding upon Bayer and enforceable in accordance with its terms, and the execution, delivery and performance of this Agreement by the Parties does not conflict with any agreement, instrument or understanding to which Bayer is a party or by which it is bound. 
+
+9.3       Warranty Disclaimers. 
+
+(a)        Nothing in this Agreement is or shall be construed as a warranty or representation by ImmunoGen as to the validity or scope of any patent application or patent within the Licensed Patent Rights. 
+
+(b)        EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS AGREEMENT, NEITHER PARTY MAKES ANY WARRANTY WITH RESPECT TO ANY TECHNOLOGY, GOODS, SERVICES, RIGHTS OR OTHER SUBJECT MATTER OF THIS AGREEMENT, AND EACH PARTY HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
+
+10.        INDEMNIFICATION; LIABILITY 
+
+10.1     Indemnification. 
+
+(a)        Bayer Indemnity.  Bayer shall indemnify, defend and hold harmless ImmunoGen, its Affiliates, their respective directors, officers, employees, and agents, and their respective successors, heirs and assigns (the “ImmunoGen Indemnitees”), against all liabilities, damages, losses and expenses (including, without limitation, reasonable attorneys’ fees and expenses of litigation) (collectively, “Losses”) incurred by or imposed upon the ImmunoGen Indemnitees, or any of them, as a direct result of claims, suits, actions, demands or judgments of Third Parties, including, without limitation, personal injury and product liability matters 
+
+42 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+(collectively, “Third Party Claims”), arising out of (i) the material breach of this Agreement by Bayer; (ii) the conduct of the Research Program by Bayer; or (iii) the Development or Commercialization (including, without limitation, the production, manufacture, promotion, import, sale or use by any Person) of any Licensed Product by Bayer or any of its Affiliates, Sublicensees, distributors or agents; except in each case to the extent any such Claim or Losses result from a material breach of this Agreement by, or the gross negligence or willful misconduct of, ImmunoGen; provided that with respect to any such Claim for which ImmunoGen also has an obligation to any Bayer Indemnitee pursuant to Section 10.1(b), Bayer shall indemnify each ImmunoGen Indemnitee for its Losses to the extent of Bayer’s responsibility, relative to ImmunoGen (or to Persons for whom the ImmunoGen is legally responsible), for the facts underlying the Claim. 
+
+(b)        ImmunoGen Indemnity.  ImmunoGen shall indemnify, defend and hold harmless Bayer, its Affiliates, their respective directors, officers, employees, and agents, and their respective successors, heirs and assigns (the “Bayer Indemnitees”), from and against any Losses incurred by or imposed upon the Bayer Indemnitees, or any of them, as a direct result of any Third Party Claims arising out of (i) the material breach of this Agreement by ImmunoGen; or (ii) the conduct of the Research Program by ImmunoGen; except in each case to the extent any such Claim or Losses result from a material breach of this Agreement by, or the gross negligence or willful misconduct of, Bayer; provided that with respect to any such Claim for which Bayer also has an obligation to any ImmunoGen Indemnitee pursuant to Section 10.1(a), ImmunoGen shall indemnify each Bayer Indemnitee for its Losses to the extent of ImmunoGen’s responsibility, relative to Bayer (or to Persons for whom Bayer is legally responsible), for the facts underlying the Claim. 
+
+10.2     Conditions to Indemnification.   A Person seeking indemnification under Section 10.1 (the “Indemnified Party”) in respect of a Third Party Claim shall give prompt notice of such Claim to the Party from which recovery is sought (the “Indemnifying Party”) and shall permit the Indemnifying Party to assume direction and control of the defense of the Third Party Claim, provided that the Indemnifying Party shall (a) act reasonably and in good faith with respect to all matters relating to the defense or settlement of such Third Party Claim as the defense or settlement relates to the Indemnified Party, and (b) shall not settle or otherwise resolve 
+
+43 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+such Third Party Claim without the Indemnified Party’s prior written consent (which consent shall not be unreasonably withheld, conditioned or delayed); provided that the Indemnifying Party may, without the Indemnified Party’s prior written consent, agree or consent to any settlement or other resolution of such Third Party Claim which requires solely money damages paid by the Indemnifying Party, and which includes as an unconditional term thereof the giving by such claimant or plaintiff to the Indemnified Party of a release from all liability in respect of such Third Party Claim. 
+
+10.3     Limited Liability.  NEITHER PARTY WILL BE LIABLE WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, ANY DAMAGES RESULTING FROM LOSS OF PROFITS OR LOSS OF BUSINESS), EVEN IF EITHER PARTY IS INFORMED IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE REMEDIES PROVIDED FOR IN THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE. 
+
+10.4     Insurance Proceeds.  Any indemnification hereunder shall be made net of any insurance proceeds which the Indemnified Party is entitled to recover; provided, however, that if, following the payment to the Indemnified Party of any amount under this Article 10, such Indemnified Party becomes entitled to recover any insurance proceeds in respect of the claim for which such indemnification payment was made, the Indemnified Party shall promptly pay an amount equal to the amount of such proceeds (but not exceeding the amount of such indemnification payment) to the Indemnifying Party. 
+
+11.        MISCELLANEOUS 
+
+11.1     Notices.  All notices and communications shall be in writing and delivered personally or by courier or mailed via certified mail, return receipt requested, postage prepaid, addressed as follows: 
+
+44 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+If to ImmunoGen:       ImmunoGen, Inc. 
+
+830 Winter Street 
+
+Waltham, MA 02451, USA 
+
+Attn:  Vice President, Business Development 
+
+  
+
+If to Bayer:                  Bayer HealthCare AG 
+
+D-51368 Leverkusen 
+
+Germany 
+
+Attn: Legal Department 
+
+Except as otherwise expressly provided in this Agreement or mutually agreed in writing, any notice, communication of document (excluding payment) required to be given or made shall be deemed given or made and effective upon actual receipt or, if earlier, (a) three (3) business days after deposit with an internationally recognized overnight express courier with charges prepaid, or (b) five (5) business days after mailed by certified mail, postage prepaid, in each case addressed to the receiving Party at its address stated above or to such other address as such Party may designate by written notice given in accordance with this Section 11.1. 
+
+11.2     Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, without giving effect to such state’s conflicts of laws principles. 
+
+11.3     Entire Agreement.  This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes any prior or contemporaneous agreements or understandings, written or oral (including, without limitation, the MTA and the Confidentiality Agreements) concerning the subject matter hereof. 
+
+11.4     Amendment and Waiver.   This Agreement may be amended, modified or changed only by a written instrument executed by the Party to be bound.  No term of this Agreement will be deemed to have been waived and no breach excused, unless such waiver or consent shall be in writing and signed by the Party claiming to have waived or consented.  Any consent by any Party to, or waiver of, a breach by the other, whether express or implied, shall not constitute consent to, or waiver of, or excuse for, any other different or subsequent breach. 
+
+11.5     Binding Effect.  This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns.  Except as set forth in 
+
+45 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+Section 10, no Third Party (including, without limitation, employees of either Party) shall have or acquire any rights by reason of this Agreement. 
+
+11.6     Purpose and Scope.   The Parties hereto understand and agree that this Agreement is limited to the activities, rights and obligations as expressly set forth herein.  Nothing in this Agreement shall be construed to establish any agency, employment, partnership, joint venture, franchise or similar or special relationship between the Parties.  Neither Party shall have the right or authority to assume or create any obligations or to make any representations, warranties or commitments on behalf of the other Party, whether express or implied, or to bind the other Party in any respect whatsoever.  Except as expressly set forth elsewhere in this Agreement, neither Party grants to the other Party any right or license to any of its intellectual property. 
+
+11.7     Headings.  Section and subsection headings are inserted for convenience of reference only and do not form part of this Agreement. 
+
+11.8     Assignment.   Neither Party may assign this Agreement without the prior written consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed, except that such consent shall not be required in connection with any assignment to an Affiliate of the assigning Party, or to a Third Party in connection with a sale or transfer of the business to which this Agreement relates, or to any successor Person resulting from any merger or consolidation of such Party with or into such Person, provided that the assignee shall have agreed in writing to assume all of the assignor’s obligations hereunder, and provided, further, that any such assignment shall be subject to prior notification to the other Party.  Any such assignment shall not relieve the assigning Party of any liabilities or obligations owed to the other Party hereunder, including, without limitation, in the case of Bayer, the payment of any milestones and royalties described in Section 5 hereof. 
+
+11.9     Force Majeure.  Neither Party shall be liable for failure of or delay in performing obligations set forth in this Agreement, and neither shall be deemed in breach of its obligations, if such failure or delay is due to natural disasters or any causes beyond the reasonable control of such Party, provided that financial inability in and of itself shall not be considered to be a force majeure event.  In event of such force majeure, the Party affected thereby shall use reasonable efforts to cure or overcome the same and resume performance of its obligations hereunder. 
+
+46 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+11.10   Interpretation.  The Parties hereto acknowledge and agree that: (a) each Party and its counsel reviewed and negotiated the terms and provisions of this Agreement and have contributed to its revision; (b) the rule of construction to the effect that any ambiguities are resolved against the drafting Party shall not be employed in the interpretation of this Agreement; and (c) the terms and provisions of this Agreement shall be construed fairly as to each Party hereto and not in a favor of or against any Party, regardless of which Party was generally responsible for the preparation of this Agreement.  In addition, unless the context otherwise requires, wherever used, the singular shall include the plural, the plural the singular, the use of any gender shall be applicable to all genders and the word “or” is used in the inclusive sense (and/or). 
+
+11.11   Severability.  If any provision of this Agreement shall be held by a court of competent jurisdiction, or declared under any law, rule or regulation of any government having jurisdiction over the Parties hereto, to be illegal, invalid or unenforceable, then such provision will, to the extent permitted by the court or government, not be voided, but will instead be construed to give effect to the intentions of the Parties to the maximum extent permissible under applicable law, and the remainder of this Agreement will remain in full force and effect in accordance with its terms. 
+
+11.12   Dispute Resolution.  The Parties recognize that a bona fide dispute as to certain matters may from time to time arise during the term of this Agreement relating to either Party’s rights or obligations hereunder or otherwise relating to the validity, enforceability or performance of this Agreement, including disputes relating to alleged breach or termination of this Agreement but excluding any determination of the validity of the Parties’ patents (hereinafter, a “Dispute”).  In the event of the occurrence of any such Dispute, the JDC members shall use reasonable efforts to resolve such Dispute, provided that if, despite such reasonable efforts, such Dispute remains unresolved, the Parties shall, by written notice to the other Party, have such Dispute referred to their respective senior officers designated below (and to any designated officer of a Bayer Sublicensee, if such Dispute involves such Sublicensee), for attempted resolution by good faith negotiations commencing promptly after such notice is received.  Said designated senior officials of the Parties are as follows: 
+
+47 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+For Bayer:       Chief Scientific Officer; and 
+
+For ImmunoGen:       Chief Executive Officer. 
+
+In the event the designated senior officials are not able to resolve such Dispute, the Parties may seek to mediate their Dispute, on terms and with a mediator mutually agreeable to the Parties, or may seek to arbitrate their Dispute, on mutually agreed upon terms and conditions, but neither Party shall be required or obligated to mediate or arbitrate and the dispute resolution provisions of this Section 11.12 are in addition to any other relief or remedies available to either Party at law or equity. 
+
+11.13   Further Assurances.  Each Party agrees to execute, acknowledge and deliver such further instruments, and to do all other such acts, as may be necessary or appropriate in order to carry out the purposes and intent of this Agreement. 
+
+11.14   Execution.  This Agreement may be executed in two or more counterparts, all of which when taken together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each Party and delivered to the other Party, it being understood that both parties need not sign the same counterpart.  If any signature is delivered by facsimile transmission or by e-mail delivery of a “pdf” format data file, such signature shall create a valid and binding obligation of the Party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or “pdf” signature page were an original thereof. 
+
+[Remainder of page intentionally left blank.] 
+
+  
+
+48 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+
+
+
+ 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+
+  
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives. 
+
+IMMUNOGEN, INC.
+
+ 
+
+BAYER HEALTHCARE AG
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+/s/ Daniel M. Junius
+
+ 
+
+By: 
+
+/s/ D. Linkenheil
+
+Name: 
+
+Daniel M. Junius
+
+ 
+
+Name: 
+
+Dr. D. Linkenheil
+
+Title: 
+
+President and CEO
+
+ 
+
+Title: 
+
+Law and Patents
+
+Date: 
+
+October 20, 2008
+
+ 
+
+Date: 
+
+2008-10-20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+/s/ H. Wild
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+Professor Dr. H. Wild
+
+ 
+
+ 
+
+ 
+
+Title: 
+
+Head, BSP GDD LGO
+
+ 
+
+ 
+
+ 
+
+Date: 
+
+2008-10-20
+
+  
+
+  
+
+49 
+
+  
+
+Portions of this Exhibit, indicated by the mark “[***],” were omitted and have been filed separately with the Securities and Exchange Commission pursuant to the Registrant’s application requesting confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.

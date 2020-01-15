@@ -1,0 +1,794 @@
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+Exhibit 10.18 
+
+EXECUTION COPY 
+
+DEVELOPMENT AND LICENSE AGREEMENT 
+
+THIS DEVELOPMENT AND LICENSE AGREEMENT (this “Agreement”) entered into on December 8, 2011 (the “Effective Date”), is by and between MASCOMA CORPORATION 67 Etna Road, Suite 300, Lebanon, NH 03766 (“Mascoma”), and LALLEMAND SPECIALTIES, INC., 6120 West Douglas Avenue, Milwaukee, WI 53218, doing business as Lallemand Ethanol Technology (“Lallemand”). 
+
+Collectively referred to as “the Parties”. 
+
+BACKGROUND : 
+
+A. Lallemand has valuable expertise in the field of developing, manufacturing, marketing, selling and distribution of yeast for use in fermenting various feed stocks into ethanol and holds relevant intellectual property rights within that field; 
+
+B. Mascoma has valuable expertise in the research and development of yeast strains to ferment various feed stocks into ethanol and holds relevant intellectual property rights within that field; 
+
+C. Mascoma and Lallemand have signed a Letter of Intention on October 20th, 2011 on the development, manufacture, distribution and commercialization of Mascoma Grain Technology (MGTTM) Release 1.0 ; and 
+
+D. Lallemand and Mascoma will collaborate with respect to the development, marketing, sale and licensing of the Product (as defined below), and wish to set forth in this Agreement the terms and conditions pursuant to which such collaborations will take place 
+
+The parties agree as follows: 
+
+ARTICLE 1 
+
+DEFINITIONS 
+
+Capitalized terms used in this Agreement have the following meanings: 
+
+1.1 “Affiliate” means any other Person that directly or indirectly controls, is controlled by, or is under common control with, such Person, where “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management policies of a Person, through the ownership of voting securities, by contract or otherwise. 
+
+1.2 “Change of Control with a Competitor” means any event or circumstance upon which a Competitor of Mascoma or Lallemand, directly or indirectly and in one transaction or a series of transactions (whether pursuant to share acquisition or exchange, merger, reorganization, recapitalization, or similar transaction), acquires 51% of the shares of Lallemand or Mascoma, voting or nonvoting. 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+1.3 “Commercial Sale “means any transfer by Lallemand of a Product in exchange for the payment of a sales price, but excluding any transfer of the Products for use in trials or third party testing provided that such sales are made at a sales price that is not materially greater than the then-current market price for similar quantities of conventional yeast. 
+
+1.4 “Commercialization Plan” means the development and business plan established from time to time by the Joint Steering Committee pursuant to Section 5.2 and agreed by the Parties which will include budgeting, advertising, marketing, branding, sales force allocation, distribution and pricing activities related to the Product and will provide specific milestones on a quarterly basis, including (i) active customers and customer contacts (ii) Product market share and sales. 
+
+1.5 “Competitor” means any Person engaged in the business of developing, manufacturing or marketing of yeast or enzyme based fermentation products for production of grain-based ethanol (including corn, wheat, milo, barley and derived starches). 
+
+1.6 “Confidential Information” means confidential, non-public or proprietary information that is disclosed or made available by a party to the other party in connection with this Agreement including, without limitation, any inventions, discoveries, improvements, developments, ideas, know-how, trade secrets, technical and non-technical data, specifications, formulae, compounds, formulations, assays, methods, processes, techniques, practices, procedures, manufacturing techniques, designs, works of authorship, trade names, logos and other intellectual property, whether or not patentable or protectable by copyright, business and product plans, research and development plans, activities and results, market intelligence information, and sales, marketing, financial and pricing information, in each case whether disclosed or made available in visual, oral, written, electronic, graphic or any other form, including in the form of samples. Confidential Information includes all copies, reproductions, notes and repositories thereof, whether in written, electronic, graphic or any other form, including in the form of samples. 
+
+1.7 “Lallemand Project IP” means any Project IP that is not included in Mascoma Project IP. 
+
+1.8 “Field” means all uses of the Product in the production of grain-based ethanol (including corn, wheat, milo, barley and derived starches). 
+
+1.9 “First Commercial Sale” means the date on which Lallemand completes the first Commercial Sale. 
+
+1.10 “Fiscal Year” means Lallemand’s fiscal year. 
+
+ 
+
+2 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+1.11 “Intellectual Property” means any legally protectable product or process of the human intellect whether registered or not as patents, brand name, trademarks, copyrights, licenses, designs or otherwise including a strain, know-how in the selection and characterization of strains, strain Reference, invention, unique name, trade secret, business method, database, industrial process and other Confidential Information. 
+
+1.12 “Joint Steering Committee” or “JSC” is defined in Section 5.1. 
+
+1.13 “New Product” means indifferently MGT 1.1 [***] and includes any improvement, development or new application to the Product or to MGT 1.1 [***]. 
+
+1.14 “Net Sales” means, for any period, the gross amount invoiced by Lallemand for Commercial Sale of the Product. For the sake of clarity, Lallemand shall be entitled to reduce the gross invoices sales price by the following amounts to the extent actually incurred by Lallemand in connection with sales of the Product: 
+
+ 
+
+ 
+
+(a)
+
+allowances, returns, credits, rebates and discounts paid or allowed; 
+
+ 
+
+ 
+
+(b)
+
+Product returned by customers for credits subsequently used or refunds actually provided; 
+
+ 
+
+ 
+
+(c)
+
+excise taxes, tariffs, import/export duties and other government charges and taxes paid or allowed; 
+
+ 
+
+ 
+
+(d)
+
+transportation, shipping and insurance costs not paid or reimbursed by customer; and 
+
+ 
+
+ 
+
+(e)
+
+any increased ex factory production costs directly resulting from compliance with regulatory approval requirements for Mascoma Grain Technology (MGTTM) Release 1.0, or Product specific production inefficiencies compared to Lallemand’s conventional strain as reviewed and subject to Section 5, approved by the JSC. 
+
+1.15 “MGT Price Component” means, at any given time, the difference between Net Sales and Yeast Price Component. 
+
+1.16 “Mascoma Project IP” means any Project IP related to the genetically modified yeast and improvements thereto, including expression of enzymes, DNA encoding enzymes, and application of genetically modified yeast expressing enzymes for the production of ethanol. 
+
+1.17 “Out-of-Pocket Costs” means any amounts paid by a Party to third parties in connection with activities or services conducted by such third parties. 
+
+1.18 “Person” means any individual, corporation, limited liability company, partnership, company, sole proprietorship, joint venture, trust, estate, association, organization or other entity. 
+
+ 
+
+3 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+1.19 “Product” means Mascoma Grain Technology (MGTTM) Release 1.0, genetically modified yeast that expresses glucoamylase enzymes formulated as a cream, stabilized cream, or fresh yeast product, but not including any active dry yeast formulations (ADY) 
+
+1.20 “Project IP” means Intellectual Property developed, conceived or first reduced to practice, during the Term, whether developed, conceived or first reduced to practice by one or more employees or agents of Mascoma, one or more employees or agents of Lallemand, or jointly by one or more employees or agents of Mascoma and Lallemand. 
+
+1.21 “Term” is defined in section 9.1 
+
+1.22 “Territory” means the United States, Canada and Mexico and their territories. 
+
+1.23 “Yeast Price Component” means a portion of the Net Sales for Product determined on a customer-by-customer basis each year during the Term as set forth herein. For the first year of any customer supply relationship (“Year 1”), the Yeast Price Component shall be equal to the [***]. For each customer supply agreement that is entered into by Lallemand, the parties, through the Joint Steering Committee subject to Section 5, shall agree to the initial selling price, the Yeast Price Component (which shall be comprised of a fixed cost component and a raw material component) and the MGT Price Component. 
+
+ 
+
+ 
+
+(a)
+
+[***] 
+
+ 
+
+4 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+[***] 
+
+ 
+
+ 
+
+(b)
+
+[***] 
+
+ 
+
+ 
+
+(c)
+
+[***] 
+
+ARTICLE 2 
+
+GRANT OF LICENCE AND DISTRIBUTION RIGHTS 
+
+2.1 Appointment and License Grant. Subject to the terms and conditions of this Agreement, Mascoma grants to Lallemand an exclusive non royalty bearing license in the Field to make, use, sell, have made and have sold the Product in the Territory. Mascoma also appoints Lallemand, and Lallemand accepts such appointment, as its exclusive distributor of the Product in the Territory during the Term. 
+
+2.2 Reservation of Rights. Except as otherwise expressly set forth in this Agreement and namely under Section 4.2, the Parties shall not be limited in any manner with respect to the manufacturing, marketing, and selling or distribution activities of any active dry yeast formulations (ADY). 
+
+2.3 Branding. The Parties will agree on the brand name under which the Product will be commercialized by Lallemand in the Territory provided its labeling and advertising indicate that Mascoma is the owner of the Product and of the Mascoma Grain Technology and that Lallemand is the manufacturer and distributor of the Product. The Parties will jointly own the brand name of the Product and will jointly agree on the future use of such brand name. 
+
+ 
+
+5 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+However, if Mascoma exercises its right to terminate the Agreement under Section 9.2 d), Lallemand shall transfer ownership of the brand name to Mascoma or to any third party supplier upon payment of a fair compensation taking into account the investment made by Lallemand in the development of the brand name. Except as specifically set forth herein, Lallemand shall have no right to use Mascoma’s name or any trademark owned by Mascoma and Mascoma shall have no right to use Lallemand’s name or any trademark owned by Lallemand. 
+
+ARTICLE 3 
+
+CONSIDERATION 
+
+3.1 License fees. Subject to the commercialization of the Product in the Territory, Lallemand shall pay to Mascoma a total amount of [***] as “Technology License Fee” as follows: 
+
+a) [***]; 
+
+b) [***]: 
+
+ 
+
+ 
+
+(i)
+
+[***] 
+
+ 
+
+ 
+
+(ii)
+
+[***] 
+
+3.2 Net Sales. Lallemand and Mascoma will share the proceeds of the Net Sales made during each calendar quarter as set forth herein. From the Net Sales received during each calendar quarter, Lallemand shall retain the Yeast Price Component and shall remit the MGT Price Component to Mascoma. In addition, until the last installment of the Technology License Fee is fully paid, Lallemand shall also remit to Mascoma the amount of one dollar per kilogram of Product sold by Lallemand during each such calendar quarter. Lallemand shall make such payments to Mascoma within sixty (60) days after the close of each calendar quarter during the term. Each such payment shall be accompanied by a statement certified by a responsible executive officer of Lallemand setting forth the total sales made by Lallemand, by customer, the gross invoice amount charged for each such sale, the amount deducted therefrom in the calculation of Net Sales, and the amount of and basis for calculating the Yeast Price Component and the MGT Price Component for each such customer as applied to the relevant calendar quarter. Payment shall be made by wire transfer into an account in Mascoma’s name, as determined by Mascoma. In addition to the foregoing, Lallemand shall also provide to 
+
+ 
+
+6 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+Mascoma a sales report within fifteen (15) days after the end of each month during the term setting forth the gross invoice amount of Product sold to each customer during such period with an estimated calculation of Net Sales, the Yeast Price Component and the MGT Price Component. 
+
+3.3 Incentive Payment. Upon the First Commercial Sale of the Product in the Territory by Lallemand, Mascoma will pay within sixty (60) days after the end of each calendar quarter, on all Commercial Sales an incentive payment (the “Incentive Payment”) to Lallemand, equal to [***]: 
+
+[***] 
+
+ 
+
+ 
+
+(a)
+
+For avoidance of doubt, [***]. 
+
+ 
+
+ 
+
+(b)
+
+The ethanol production figures of each customer will be recorded per plant and reviewed by the Joint Steering Committee at each meeting. The calculation of the ethanol production figure per plant will be based on data supplied by the plant where possible. If not available, the calculation will be based on a typical multiple of the nameplate capacity of the plant and on the quantity of yeast supplied. 
+
+ 
+
+ 
+
+(c)
+
+The agreed ethanol production figures will determine when the [***] is reached each year. The Incentive Payment is to be calculated on a pro-rata basis for the quarter when this mark is reached (when applicable). 
+
+ 
+
+ 
+
+(d)
+
+Until the entire Technology License Fee is paid in full as provided for hereunder, the Incentive Payment will be retained by Mascoma and applied in full to reduce the last installment of the Technology License Fee. Once the Technology License Fee is fully paid, the Incentive Payment will be paid to Lallemand by Mascoma sixty (60) days after the close of each calendar quarter. Payment shall be made by wire transfer into an account in Lallemand’s name, as determined by Lallemand. 
+
+3.4 New Products. If Lallemand and Mascoma decide to develop or license a New Product any amount that remains outstanding under Section 3.1 hereunder on the First Commercial Sale 
+
+ 
+
+7 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+of such New Product shall be applied in full to reduce the license fees that will be owed under such new development and license agreement concluded for any such New Product. 
+
+3.5 Payments; Records; Audit Rights. All payments under this Agreement shall be made by wire transfer in accordance with the instructions set forth in Exhibit A. All payments due under this Agreement shall be payable in United States dollars. Any payments by either party that are not paid on or before the date such payments are due under this Agreement shall bear interest, to the extent permitted by law, at two percentage points above the Prime Rate of interest as reported in the Wall Street Journal on the date payment is due. Lallemand shall maintain complete and accurate records relating to amounts payable to Mascoma in relation to this Agreement. Lallemand shall retain such records for at least three (3) years following the end of the calendar year to which they pertain, during which time a certified, independent public accountant selected by Mascoma and reasonably acceptable to Lallemand shall have the right, at Mascoma’s expense, to inspect such records during normal business hours to verify any reports and payments made or compliance in other respects under this Agreement. In the event that any audit performed under this Section 3.5 reveals an underpayment in excess of ten percent (10%), Lallemand shall bear the full out-of-pocket cost of such audit and shall remit any amounts due to Mascoma (including any interest due thereon) within thirty (30) days of receiving notice thereof from Mascoma. 
+
+ARTICLE 4 
+
+OBLIGATIONS 
+
+4.1 Regulatory. Mascoma will be solely responsible for the development and regulatory approval process of the Product within the Territory. Mascoma shall conduct at its expense, if needed, additional studies and filings related to the modified yeast to support regulatory approval for production and use in the Field and Territory. Mascoma will also be responsible for the manufacturing regulatory approvals related to the Product itself required for any of Lallemand’s facilities where the Product will be manufactured. With assistance from Mascoma, Lallemand will prepare and file any regulatory documents related to production of the Product at their facilities, where such filings must be filed by the facility owner/operator, eg. Tier 1 Exemption in the US. Lallemand shall also be responsible for operational compliance with these filings in their own facilities. Lallemand shall conduct at its expense, if needed, additional studies or plant modifications relative to containment or confinement in Lallemand’s own facilities to support regulatory approval for manufacture in the Territory. 
+
+4.2 Active Dry Yeast. If the Parties are successful in obtaining regulatory approval for production of MGT 1.0 formulated as active dry yeast (ADY), the Product definition of this agreement will automatically be modified to include MGT 1.0 formulated as active dry yeast (ADY). 
+
+ 
+
+8 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+4.3 Technical support. Mascoma is responsible for providing the primary technical support to customers that are testing or running initial trials of the Product and will introduce the Product to new customers. Lallemand is responsible for providing the primary ongoing technical support to customers once they have adopted and are using the Product. After an expenditure of an initial technical support investment as described in the Commercialization Plan, Lallemand’s direct labor costs (including benefits, but excluding stock compensation expense) and Out-of-Pocket Costs for this activity will be limited to a maximum of [***]. Under certain circumstances, Lallemand, at its sole discretion may choose to exceed this limitation. 
+
+4.4 Manufacturing and Distribution. Lallemand is responsible for manufacturing the Product in finished form, including any packaging and for supplying, in a timely manner, customers’ requirements of the Product. Subject to section 1.14 e), Lallemand will incur all costs related to the manufacture and supply of the Product. Lallemand is responsible for handling all returns, order processing, invoicing and collection, distribution and inventory, and receivables for the Product. 
+
+4.5 Marketing Obligations. Within reason and cost effectiveness, Lallemand shall use commercially reasonable efforts to market and promote the sale of Products in the Field in the Territory. Mascoma shall also conduct marketing activities, both separate from and in conjunction with Lallemand, as coordinated and approved by the JSC. The Parties’ Out-of-Pocket Costs for marketing activities to primarily benefit the Product will be shared equally between the Parties and shall be expended as set forth in the marketing budget included in the Commercialization Plan. The marketing budget will be agreed to by the JSC and will be based in part on historical marketing expenditure data provided by Lallemand. After an expenditure of an initial marketing investment as described in the Commercialization Plan, the budget for the Parties’ Out-of-Pocket Costs for Marketing activities to primarily benefit the Product shall be [***]. Under certain circumstances, Lallemand, at its sole discretion may choose to exceed this limitation. 
+
+4.6 Sales and Marketing Reports. Lallemand shall provide to the JSC sales and marketing information relating to the Products which shall include, at a minimum, within sixty (60) days after the end of each fiscal quarter of Lallemand , the name and address of each customer which purchased the Product and the volume of Product purchased by each customer. Mascoma shall also conduct sales activities, both separate from and in conjunction with Lallemand, as coordinated and approved by the JSC provided that Mascoma shall have no authority to accept purchase orders for the Product in the Territory. 
+
+4.7 Mascoma Support. Mascoma and Lallemand shall develop and use promotional materials relating to the Product as determined by JSC. Each Party agrees to use such promotional materials solely in connection with its marketing efforts for the Products. The Parties shall provide reasonable customer support for the Products in the Territory as agreed by the JSC. 
+
+ 
+
+9 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+4.8 Compliance with Laws and Regulations. Each of Mascoma and Lallemand shall ascertain and comply with all applicable laws and regulations and standards of industry or professional conduct in connection with the use, importation, exportation, distribution, sale, marketing and/or promotion of the Products, including without limitation, those applicable to exportation, importation, product claims, labeling, approvals, registrations and notifications. Each party shall notify the other party from time to time if it becomes aware of any modifications to the Product needed to comply with any of the foregoing. Mascoma will use its commercially reasonable efforts to obtain the permits and registrations necessary for the sale and distribution of the Products in the Territory for use in the Field in accordance with this Agreement, and Lallemand will cooperate with and support Mascoma in connection with such efforts. 
+
+ARTICLE 5 
+
+JOINT STEERING COMMITTEE 
+
+5.1 Formation of Joint Steering Committee. Within 30 days after the signature of this Agreement, the parties will establish an equal representation Joint Steering Committee (the “Joint Steering Committee” or “JSC”). The JSC shall consist of at least two but no more than three representatives from each party, and will include both commercial and technical personnel from each party. Each party may replace any or all of its representatives on the Joint Steering Committee at any time upon written notice to the other party in accordance with Section 12.10 of this Agreement. Any member of the JSC may designate a substitute to temporarily attend and perform the functions of that member at any meeting of the JSC. Each party may, in its discretion, invite non-member representatives of such party to attend meetings of the JSC as observer. The Joint Steering Committee shall be co-chaired by a representative of each of Mascoma and Lallemand. Mascoma shall be permitted to definitely opt-out of its participation in the JSC at any time during the Term, in which case, the JSC shall be comprised solely of Lallemand representatives and Mascoma may attend meeting of the JSC as observer as it shall determine in its sole discretion but it shall not have any voting rights in connection therewith. 
+
+5.2 Responsibilities. The JSC shall perform the following functions: 
+
+ 
+
+ 
+
+(a)
+
+Supervise and facilitate the exchange of information between the Parties with respect to the subject matter of this Agreement. 
+
+ 
+
+ 
+
+(b)
+
+Review and approve the Commercialization Plan, the initial version of such plan to be developed as soon as practical after the execution of this Agreement, and any amendments thereto. 
+
+ 
+
+ 
+
+(c)
+
+Undertake an analysis of the total market and Lallemand’s customer base, including historical purchases of conventional yeast in order to develop fixed and alternative pricing structures. 
+
+ 
+
+ 
+
+(d)
+
+Determine the sale’s price for the Product subject to each Party’s deciding vote. 
+
+ 
+
+10 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Continually monitor each Parties’ performance against the milestones contained in the Commercialization Plan and respond accordingly. 
+
+ 
+
+ 
+
+(f)
+
+Create and oversee any required subcommittees if needed. 
+
+ 
+
+ 
+
+(g)
+
+Such other responsibilities as may be assigned to the JSC pursuant to this Agreement or as may be mutually agreed upon in writing by the parties from time to time. 
+
+5.3 Meetings of Joint Steering Committee. The JSC shall meet in person at least biannually, and more frequently as the parties deem appropriate or as reasonably requested by either party, on such dates, and at such places and times, as the parties shall agree. Meetings of the JSC that are held in person shall alternate between the offices of the parties, or such other place as the parties may agree. The members of the JSC also may convene or be polled or consulted from time to time by means of telecommunications, video conferences, electronic mail or correspondence, as deemed necessary or appropriate. The chairperson(s) of the Joint Steering Committee shall prepare an agenda for each meeting of the Joint Steering Committee and provide the agenda to each member at or prior to the meeting. 
+
+5.4 Decisions by Joint Steering Committee. The Joint Steering Committee may make decisions with respect to any subject matter that is subject to the Joint Steering Committee’s decision-making authority and functions as set forth in this Article 5. All decisions of the Joint Steering Committee shall be made by unanimous vote or unanimous written consent, with each member of the Joint Steering Committee having one vote in all decisions. The Joint Steering Committee shall establish the list price for the Product, the Yeast Price Component and the MGT Price Component and shall approve any variations from such pricing, if applicable, for any ongoing customer supply agreements. However, Mascoma will have the deciding vote on any disputed matters relating to (i) regulatory matters, (ii) product development and (iii) MGT price component of the Product, and Lallemand will have the deciding vote on any disputed matters relating to (i) the manufacture of the Product; and (ii) to the Yeast Price Component of the Product. If at any time the JSC cannot reach consensus within 30 days after it has met and attempted to reach such consensus, the matter shall be resolved in accordance with Section 12.7 of this Agreement. 
+
+5.5 Secretary of Joint Steering Committee. The chairperson(s) of the Joint Steering Committee shall appoint a secretary to the JSC and such secretary shall serve for such term as designated by the chairperson(s). The secretary shall prepare written minutes of all Joint Steering Committee meetings in reasonable detail and distribute the minutes to all members of the Joint Steering Committee within 30 days after each meeting. 
+
+5.6 Duration of Joint Steering Committee. The JSC shall exist during the Term, unless the parties mutually agree in writing to terminate it earlier. 
+
+ARTICLE 6 
+
+EXCLUSIVITY; NEW PRODUCTS 
+
+ 
+
+11 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+6.1 Exclusivity. During the Term, each party agrees that it shall not, directly or indirectly, work together with, on behalf of, or through any other Person in the research or development of genetically modified yeast that expresses glucoamylase enzymes formulated as a cream, stabilized cream, or fresh yeast product, or if section 4.2 is applicable of MGT 1.0 formulated as an active dry yeast (ADY) for commercial use in the Field, other than pursuant to this Agreement. Mascoma acknowledges that Lallemand currently owns or has the rights to sell, license, or otherwise distribute other products that do not incorporate genetically modified yeast that expresses glucoamylase enzymes but that may include yeast for use in fermenting various feed stocks into ethanol (“Other Products”) and that, notwithstanding anything to the contrary herein, Lallemand can continue selling, licensing, distributing, manufacturing and developing the Other Products without violating the foregoing provision. 
+
+6.2 New Products. The Parties will negotiate in good faith to reach an agreement for the development and commercialization of any New Product pursuant to which Lallemand would become Mascoma’s commercial partner for these New Products in the Field. If the Parties are unable to reach such agreement during the Term, Mascoma shall be prohibited from offering better conditions for such an agreement to a third party for a period of six months starting from the date at which the Parties cease negotiating. 
+
+ARTICLE 7 
+
+INTELLECTUAL PROPERTY RIGHTS 
+
+7.1 Ownership of Existing Intellectual Property. Each party shall retain sole and exclusive ownership of all Intellectual Property owned or controlled by such party prior to this Agreement or developed by or for such party outside of the course of performance of this Agreement. Except as specifically set forth in this Agreement, this Agreement shall not be construed as granting the other party, by implication or otherwise, any rights or license with respect to such Intellectual Property. 
+
+7.2 Ownership of Project IP. Mascoma shall own all intellectual property rights related to Mascoma Project IP. Lallemand hereby assigns to Mascoma all of Lallemand’s right, title and interest in and to any and all Mascoma Project IP that Lallemand, its employees or agents develop, conceive or first reduce to practice under this Agreement. Lallemand shall own all intellectual property rights related to Lallemand Project IP. Mascoma hereby assigns to Lallemand all of Mascoma’s right, title and interest in and to any and all Lallemand Project IP that Mascoma, its employees or agents develop, conceive or first reduce to practice under this Agreement. Each party hereby agrees to execute and deliver such documents, and take such other actions, as the other party may reasonably request from time to time to evidence or give effect to the allocation of ownership rights set forth in this Section 7.2. Each party shall have the sole right to prepare, file, prosecute and maintain patent applications and patents claiming the inventions it owns under this Section 7.2 in the manner such party determines in its sole discretion. 
+
+ 
+
+12 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+7.3 Third Party Infringement of Intellectual Property Rights. 
+
+ 
+
+ 
+
+(a)
+
+In the event a party to this Agreement acquires information that a third party is infringing, or potentially infringing, one or more patents or other Intellectual Property Rights relating to any Project IP, the party acquiring such information shall promptly notify the other party to this Agreement in writing of such infringement or potential infringement. 
+
+ 
+
+ 
+
+(b)
+
+Mascoma shall have the sole right, at its own expense, to enforce the patents and other Intellectual Property rights relating to the Product and to retain all recoveries resulting from such enforcement. Except as provided below, Lallemand shall have the sole right, at its own expense, to enforce the patents and other Intellectual Property rights relating to the manufacturing and production of the Product and to retain all recoveries resulting from such enforcement. 
+
+ 
+
+ 
+
+(c)
+
+Both parties agree to cooperate fully with one another at the request of the other, including by giving testimony and producing documents lawfully requested in the course of an infringement suit, provided that the party bringing such infringement suit shall pay all reasonable expenses (including attorneys fees) incurred by the other party in connection with such cooperation. 
+
+ARTICLE 8 
+
+CONFIDENTIALITY 
+
+8.1 Restrictions on Use and Disclosure of Confidential Information. Any Confidential Information of a party hereunder shall be maintained by the receiving party in strict confidence, and shall not be disclosed, directly or indirectly, to any third party. Each of Lallemand and Mascoma further agrees that it shall not, directly or indirectly, use any Confidential Information of the other for any purpose other than those purposes set forth in this Agreement ; provided, however, that (a) the parties agree that each may disclose Confidential Information to its employees and agents requiring access to such information for the purposes of this Agreement if, (b) prior to making any disclosure of Confidential Information, each such person is advised of his or her obligations under this Section. Each party agrees to be responsible for any breach of the terms of this Section by its employees or agents. The parties agree that; (i) any samples or materials disclosed to one another as a result of this Agreement, and (ii) the terms and conditions of this Agreement are deemed to be Confidential Information. 
+
+8.2 Exceptions. Except as otherwise provided below, Lallemand and Mascoma agree that the restrictions in Section 8.1 will not apply to the following: (a) information that is or becomes available to the general public through no breach of this Agreement; (b) information that is possessed by the receiving party at the time of disclosure (and acquired with no breach of any 
+
+ 
+
+13 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+confidentiality limitation known to the receiving party); (c) information that is subsequently acquired from a third party who has a bona fide right to make such information available without restriction known to the receiving party; (d) information that is independently developed by the receiving party without use of Confidential Information of the other party; or (e) information that is required to be disclosed by court order or applicable law or regulation (except that the party required to make disclosure shall promptly notify the other party of such court order, law or regulation and cooperate with the other party to limit the scope of disclosure required). 
+
+8.3 Limitations. The obligations of each party to keep the other party’s information confidential shall terminate three (3) years after the termination or expiration of this Agreement. Notwithstanding the foregoing, the provisions of this Article 8 shall be subject to the rights of the parties set forth in Article 7 and shall not restrict the ability of either party to exercise its rights granted under Article 7 or restrict the ability of either party to use, or require either party to return, any information or materials which are owned solely or jointly by or licensed to such party pursuant to Article 7. 
+
+ARTICLE 9 
+
+TERM; TERMINATION; EFFECT OF TERMINATION; SURVIVAL 
+
+9.1 Term. The term of this Agreement shall commence on the date of its signature by both Parties and shall remain in force for a period of 5 years, unless otherwise terminated in accordance with Section 9.2 below. The Term shall automatically be extended for successive three (3) year periods unless either party gives notice of its intention to terminate this Agreement at least one hundred eighty (180) days prior to the end of the then current Term. 
+
+9.2 Termination. This Agreement shall terminate as follows: 
+
+(a) this Agreement may be terminated by either party upon written notice to the other party in the event that the other party breaches or fails to perform any of its obligations under this Agreement and such breach or failure continues for a period of ninety (90) days after receipt of written notice thereof from the non-breaching party, namely if either Party fails to achieve 50% of the milestones set forth in the Commercialization Plan in any calendar quarter or 75% of the milestones in consecutive calendar quarters starting with the first full calendar quarter six months after the first commercial sale; 
+
+(b) this Agreement may be terminated by either party upon written notice to the other party if the other party experiences a Change of Control with a Competitor; 
+
+(c) this Agreement may be terminated by either party by written notice to the other party if the other party (i) is or becomes insolvent, (ii) is or becomes a party to any bankruptcy or receivership proceeding or any similar action affecting its financial condition or property, if such proceeding (if not filed or initiated by such other party) has 
+
+ 
+
+14 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+not been dismissed within thirty (30) days, or (iii) makes a general assignment for the benefit of creditors; 
+
+(d) this Agreement may be terminated by Mascoma upon a written notice to the Lallemand if Lallemand is unable to supply the Products and such failure continues for a period of ninety (90) days after receipt of the written notice thereof provided however that Lallemand was first put on notice by Mascoma and has failed to supply for an initial period of 30 days. Mascoma shall also have the right to have the Product manufactured by a second-source supplier. In that case Lallemand shall: (i) assist in the transfer of manufacturing know-how and technology to the designated third party supplier; and (ii) during the transfer process allocate existing supply of the Product, if any, to Mascoma; and 
+
+(e) this Agreement may be terminated by either Party upon a six (6) months prior notice to the other Party if the Party giving notice determines that the performance of this Agreement is no longer commercially viable. 
+
+9.3 Effect of Termination. Upon the expiration or termination of this Agreement for any reason, all of the rights and obligations of the parties hereunder shall automatically terminate and the rights and obligations of the parties Articles 7, 8, 9, 10 and 11 of this Agreement, shall survive any such expiration or termination. 
+
+ARTICLE 10 
+
+INDEMNIFICATION 
+
+10.1 Indemnification by Mascoma. Mascoma will defend, hold harmless and indemnify Lallemand and its Affiliates and its and their directors, officers and employees, at Mascoma’s expense, for any and all damages, losses and liabilities, including reasonable attorneys’ fees, resulting from any claim, action, suit or other proceeding against Lallemand with respect to or arising out of (a) any breach of this Agreement by Mascoma or (b) any gross negligence or misconduct by Mascoma or its employees or agents. Mascoma will have control of the defense of any such claim, action, suit or other proceeding and the settlement thereof; provided, however, that Mascoma will not settle any such claim unless such settlement is for money damages only and includes an unconditional release of Lallemand. Mascoma control of the defense of any claim shall be up to and including summary judgment motions, after which time the Lallemand shall control the defense of any claim. Subject to this section 10.1, Mascoma will pay any final judgment or settlement amount in respect of any such claim, action, suit or other proceeding. 
+
+10.2 Indemnification by Lallemand. Lallemand will defend, hold harmless and indemnify Mascoma and its Affiliates and its and their directors, officers and employees, at Lallemand’s expense, for any and all damages, losses and liabilities, including reasonable attorneys’ fees, resulting from any claim, action, suit or other proceeding against Mascoma with respect to or arising out of (a) any breach of this Agreement by Lallemand; or (b) any gross negligence or 
+
+ 
+
+15 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+misconduct by Lallemand or its employees or agents. Lallemand will have control of the defense of any such claim, action, suit or other proceeding and the settlement thereof; provided, however, that Lallemand will not settle any such claim unless such settlement is for money damages only and includes an unconditional release of Mascoma. Subject to this section 10.2, Lallemand will pay any final judgment or settlement amount in respect of any such claim, action, suit or other proceeding. 
+
+ARTICLE 11 
+
+LIMITATION OF LIABILITY 
+
+NEITHER PARTY WILL BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES IN CONNECTION WITH THIS AGREEMENT , INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF SUCH PARTY HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE OCCURRING. 
+
+ARTICLE 12 
+
+MISCELLANEOUS 
+
+12.1 Publicity. Mascoma and Lallemand agree not to publicize this Agreement or any Commercialization Plan hereunder, nor to use the name of the other party, in connection with any news release or any advertising, promotional or sales literature, without the prior written consent of the other party, unless required by law or court order. 
+
+12.2 Further Assurances. Each party hereto agrees to execute, acknowledge and deliver such further instruments, and to do all such other acts as may be necessary or appropriate in order to carry out the purposes and intent of this Agreement. 
+
+12.3 Independent Contractor. For the purposes of this Agreement and the Commercialization Plan, each of Mascoma and Lallemand shall be deemed to be an independent contractor, and not a partner, agent or employee of the other party. Neither Mascoma nor Lallemand shall have authority to make any statements, representations or commitments of any kind, or to take any action which is binding on the other party, except as may be authorized by the other party in writing. 
+
+12.4 Use of Party’s Name. Except as otherwise specifically set forth herein, no right, express or implied, is granted by this Agreement to either party to use in any manner the name of the other or any other trade name or trademark of the other in connection with the performance of this Agreement. 
+
+12.5 Expenses. Each party shall bear its own personnel, travel and other costs and expenses associated with its performance of this Agreement, including without limitation participation on the Joint Steering Committee. 
+
+ 
+
+16 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+12.6 Governing Law. The validity and interpretation of this Agreement, and the legal relationship of the parties to it, shall be governed by the laws of the State of Delaware, U.S.A., without regard to its conflicts of laws principles. 
+
+12.7 Dispute Resolution. 
+
+(a) The parties recognize that disputes may from time to time arise during the Term which relate to a party’s rights or obligations hereunder. It is the objective of the parties to establish procedures to facilitate the resolution of disputes arising out of or relating to this Agreement or any Commercialization Project Plan in an expedient manner by mutual cooperation and without resort to litigation. To accomplish this objective, the parties agree to follow the procedures set forth in this Section 12.7(a) if and when a dispute arises out of or relates to this Agreement or any Commercialization Plan, including, without limitation, any disputes among the members of the JSC which such committee is unable to resolve . In the event of disputes between the parties arising out of or relating to this Agreement or any Commercialization Plan, a party seeking to resolve such dispute will, by written notice to the other party, have such dispute referred to their respective executive officers designated below or their successors, for attempted resolution by good faith negotiations within fifteen (15) days after such notice is received. Such designated officers are as follows: 
+
+For Mascoma: Chief Financial Officer 
+
+For Lallemand: The President, Lallemand Specialties, Inc. 
+
+In the event the designated executive officers are not able to resolve such dispute, either party may at any time after the fifteen (15) day period invoke the provisions of Section 12.7(b). 
+
+(b) Following settlement efforts pursuant to Section 12.7(a), except as otherwise expressly provided in this Agreement, any dispute arising out of or relating to this Agreement, including, without limitation, any disputes among the members of the Joint Steering Committee which such committee is unable to resolve , shall be finally settled by arbitration under the then current commercial arbitration rules of the American Arbitration Association in accordance with the terms set forth in this Section 12.7(b). The place of arbitration of any dispute shall be Boston, MA. Such arbitration shall be conducted by three arbitrators, one appointed by each of Mascoma and Lallemand and a third appointed by the other two arbitrators. The parties shall instruct such arbitrators to render a determination of any such dispute within four months after the appointment of the arbitrators. Any award rendered by the arbitrators shall be final and binding upon the parties. Judgment upon any award rendered may be entered in any court having jurisdiction, or application may be made to such court for a judicial acceptance of the award and an order of enforcement, as the case may be. Each party shall pay its own 
+
+ 
+
+17 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+expenses of arbitration, and the expenses of the arbitrators shall be equally shared between the parties unless the arbitrators assess as part of their award all or any part of the arbitration expenses of a party (including reasonable attorneys’ fees) against the other party. This Section 12.7 shall not prohibit a party from seeking injunctive or other equitable relief from a court of competent jurisdiction pursuant to Section 12.8. 
+
+12.8 Specific Performance. Each party shall be entitled to temporary or permanent injunctive or other equitable relief from a court of competent jurisdiction preventing any breach or threatened breach thereof by the other party, which remedy shall be cumulative and in addition to all other available remedies hereunder, at law or in equity. 
+
+12.9 Force Majeure. No party to this Agreement shall be deemed to be in breach or default of any provisions hereof (other than of obligations regarding payment of money or confidentiality) or of any Commercialization Plan by reason of delay or failure in the discharge or performance of any duty or obligation hereunder due to strikes, lock-outs, natural calamity, war, terrorist activity, government laws or regulations, civil disorder, government embargoes, force majeure or any other cause beyond the reasonable control of the party so affected; provided, however, that the party so affected gives prompt written notice to the other party of the facts and circumstances relating to any such delay or failure and takes all commercially reasonable actions within its power to promptly remove the basis for any such delay or failure, so as to resume such discharge or performance as soon as possible. 
+
+12.10 Notices. Any notice to be given under this Agreement must be in writing, may be delivered to the other Party by any of the methods set out below, and will be deemed to be received on the corresponding day : 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Method of service
+
+  
+
+Deemed day of receipt
+
+
+
+
+
+By hand or courier
+
+  
+
+the day of delivery
+
+
+
+
+
+By pre-paid first class post
+
+  
+
+the second Business Day after posting
+
+
+
+
+
+By recorded delivery post
+
+  
+
+the next Business Day after posting
+
+
+
+
+
+By fax (provided the sender’s fax machine confirms complete and error-free transmission of that notice to the correct fax number)
+
+  
+
+the next Business Day after sending or, if sent before 16.00 (sender’s local time) on the Business Day it was sent
+
+12.11 Successors and Assigns; Assignment. The terms of this Agreement shall apply to, be binding upon and inure to the benefit of the parties hereto and their respective successors and 
+
+ 
+
+18 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+permitted assigns. Neither party may assign this Agreement or its rights or obligations hereunder to a Competitor of the other party without the prior written consent of the other party. Any assignment or attempted assignment by a party in violation of this Section shall be null and void. 
+
+12.12 Amendments; Waivers. No modification or amendment of this Agreement or the Commercialization Plan shall be valid unless made in writing and signed as such by duly authorized representatives of both parties. No waiver of any provision of this Agreement or the Commercialization Plan shall be valid unless the waiver is in writing and signed by the waiving party. No waiver by either party of any breach of this Agreement or the Commercialization Plan shall be deemed to extend to any other breach hereunder or affect in any way any rights arising by virtue of any other such occurrence. 
+
+12.13 Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law. 
+
+12.14 Counterparts; Facsimile Execution. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Agreement may be executed by facsimile. 
+
+12.15 Entire Agreement. This Agreement, together with the Commercialization Plan attached hereto, constitutes the entire agreement between the parties with respect to the subject matter hereof and thereof and supersedes all prior oral or written agreements between the parties with respect to such subject matter. 
+
+[The remainder of this page is intentionally blank.] 
+
+ 
+
+19 
+
+
+
+
+PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE SECRETARY OF THE COMMISSION PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT UNDER RULE 406 OF THE SECURITIES ACT; [***] DENOTES OMISSIONS. 
+
+ 
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized representatives. 
+
+ 
+
+
+
+
+
+
+
+LALLEMAND Specialties INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Bill Nankervis        
+
+Name:
+
+ 
+
+Bill Nankervis
+
+Title:
+
+ 
+
+President
+
+ 
+
+
+
+
+
+
+
+MASCOMA CORPORATION
+
+
+
+
+
+By:
+
+ 
+
+/s/ David Arkowitz         
+
+Name:
+
+ 
+
+David Arkowitz
+
+Title:
+
+ 
+
+CFO
+
+ 
+
+20

@@ -1,0 +1,769 @@
+Software License Agreement
+iPass SmartConnect
+This Software License Agreement (this "Agreement"), effective as of May 8, 2018 (the "Effective Date"), is by and
+between iPass Inc., a Delaware corporation with offices located at 3800 Bridge Parkway, Redwood Shores, CA
+94065 ("Licensor") and Fictional Inc., a Delaware corporation, with offices located at 1185 Avenue of the
+Americas, New York, NY 10036 ("Licensee"). Licensor and Licensee may be referred to herein collectively as the
+"Parties" or individually as a "Party."
+WHEREAS, Licensor desires to license the Software described in Exhibit A attached hereto to Licensee; and
+WHEREAS, Licensee desires to obtain a license to use the Software for its internal business purposes, subject to the
+terms and conditions of this Agreement.
+NOW, THEREFORE, in consideration of the mutual covenants, terms, and conditions set forth herein, and for other
+good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as
+follows:
+1.
+
+Definitions.
+
+(a) "Authorized Devices" means an Android or iOS device which Licensee permits to access and
+use the Software and/or Documentation pursuant to Licensee's license hereunder.
+(b) "Documentation" means Licensor's user manuals, handbooks, and installation guides relating
+to the Software provided by Licensor to Licensee electronically.
+(c) "Software" means the product described in Exhibit A, including any Updates provided to
+Licensee pursuant to this Agreement.
+(d) "Updates" means any updates, bug fixes, patches, or other error corrections to the Software
+that Licensor generally makes available free of charge to all licensees of the Software.
+2.
+
+License.
+
+(a) License Grant. Subject to and conditioned on Licensee's payment of Fees and compliance
+with all other terms and conditions of this Agreement, Licensor hereby grants Licensee a perpetual, nonexclusive, and non-transferable (except in compliance with Section 12(g)) license during the Term to: (i)
+access and otherwise use the Licensed Software, solely in furtherance of this Agreement and not for other
+internal business purposes; (ii) sell or re-license the Licensed Software and Documentation to any third
+party; and (iii) use and make a reasonable number of copies of the Documentation solely for Licensee's
+internal business purposes in connection with Licensee's use of the Software. The total number of
+Authorized Devices will not exceed the number set forth inExhibit B, except as expressly agreed to in
+writing by the Parties and subject to any appropriate adjustment of the license fees payable
+hereunder. Licensee may make and use a reasonable number of copies of the Software solely for internal,
+non-revenue generating purposes, such as back-up, disaster recovery, and testing purposes. Any such copy
+of the Software: (i) remains Licensor's exclusive property; (ii) is subject to the terms and conditions of this
+Agreement; and (iii) must include all copyright or other proprietary rights notices contained in the original.
+
+(b) Use Restrictions. Licensee shall not use the Software or Documentation for any purposes
+beyond the scope of the license granted in this Agreement. Without limiting the foregoing and except as
+
+otherwise expressly set forth in this Agreement, Licensee shall not at any time, directly or indirectly: (i)
+copy, modify, or create derivative works of the Software or the Documentation, in whole or in part; (ii)
+except to the extent set forth above in Section 2(a), rent, lease, lend, sell, sublicense, assign, distribute,
+publish, transfer, or otherwise make available the Software or the Documentation; (iii) knowingly reverse
+engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to the source
+code of the Software, in whole or in part; (iv) remove any proprietary notices from the Software or the
+Documentation; or (v) use the Software in any manner or for any purpose that knowingly infringes,
+misappropriates, or otherwise violates any intellectual property right or other right of any person, or that
+violates any applicable law.
+(c)
+
+Reservation of Rights. Licensor reserves all rights not expressly granted to Licensee in this
+Agreement. Except for the limited rights and licenses expressly granted under this Agreement,
+nothing in this Agreement grants, by implication, waiver, estoppel, or otherwise, to Licensee or
+any third party any intellectual property rights or other right, title, or interest in or to the
+Software.
+(d) Delivery. Licensor shall deliver the Software electronically to Licensee following the Effective
+Date.
+(e) Escrow of Source Code. The Parties will enter into an escrow agreement with an escrow agent
+agreed by the Parties in relation to the source code together with all developer notes associated with the
+Licensed Software and Documentation until such time as: (i) the Licensor reports $10,000,000 of cash on
+the balance sheet in a publicly filed document; OR (ii) December 31, 2018, whichever occurs first.
+
+3.
+
+Licensee Responsibilities.
+
+(a) General. Licensee is responsible and liable for all uses of the Software and Documentation
+resulting from access provided by Licensee, directly or indirectly, whether such access or use is permitted
+by or in violation of this Agreement. Licensee shall take commercially reasonable efforts to make all users
+of Authorized Devices aware of this Agreement's provisions as applicable to such users of Authorized
+Devices and their use of the Software, and shall cause users of Authorized Devices to comply with such
+provisions.
+(b) Support. Licensor shall provide Licensee with the support services described onExhibit B for
+one year following the Effective Date and thereafter, solely if Licensee purchases additional support
+services. Licensor shall continue to provide support services as described onExhibit B, the year following
+the one-year anniversary of the Effective Date, and every year thereafter, upon payment of the annual
+maintenance fee as provided in Exhibit B.
+4.
+
+Fees and Payment.
+
+(a) Fees. Licensee shall pay Licensor the software licensing fees ("Software License Fee") and
+annual maintenance fee ("Annual Maintenance Fee") (collectively, Software License Fee and Annual
+Maintenance Fee are "Fees"), set forth in Exhibit B without offset or deduction. Licensee shall make all
+undisputed payments hereunder in US dollars and are due and payable within thirty (30) days after the date
+of invoice. If Licensee fails to make any undisputed payment when due, Licensor shall provide written
+notice and thereafter, and in addition to all other remedies that may be available: (i) Licensor may charge
+interest on the past due amount at the rate of 1.5% per month calculated daily and compounded monthly or,
+if lower, the highest rate permitted under applicable law; and (ii) Licensee shall reimburse Licensor for all
+costs incurred by Licensor in collecting any late payments or interest, including attorneys' fees, court costs,
+
+and collection agency fees; and (iii) if such failure continues for 10 days following written notice thereof,
+Licensor may prohibit access to the Software until all past due amounts (but expressly excluding any such
+amounts disputed in good faith) and interest thereon have been paid, without incurring any obligation or
+liability to Licensee or any other person by reason of such prohibition of access to the Software.
+(b) Taxes. All Fees and other amounts payable by Licensee under this Agreement are exclusive of
+taxes and similar assessments. Licensee is responsible for all sales, use, and excise taxes, and any other
+similar taxes, duties, and charges of any kind imposed by any federal, state, or local governmental or
+regulatory authority on any amounts payable by Licensee hereunder, other than any taxes imposed on
+Licensor's income.
+(c) Auditing Rights and Required Records. Licensee agrees to maintain complete and accurate
+records in accordance with generally accepted accounting principles during the Term and for a period of
+three years after the termination or expiration of this Agreement with respect to matters necessary for
+accurately determining amounts due hereunder. Not more than one (1) time during any twelve (12)
+consecutive calendar month period, Licensor may, at its own expense and at Licensee’s principal place of
+business during Licensee’s normal business hours, on not less than thirty (30) days’ prior notice, inspect
+and audit Licensee's records with respect to matters covered by this Agreement, provided that if such
+inspection and audit reveals that Licensee has underpaid Licensor by more than five percent (5%) with
+respect to any amounts due and payable during the Term, Licensee shall promptly pay the amounts
+necessary to rectify such underpayment, together with interest in accordance with Section 4(a).
+
+Licensee shall pay for the costs of the audit if the audit determines that Licensee's underpayment
+equals or exceeds 15% for any quarter. Such inspection and auditing rights will extend
+throughout the Term of this Agreement and continue for a period of six (6) months after the
+termination or expiration of this Agreement.
+
+5.
+Confidential Information. From time to time during the Term, either Party may disclose or make
+available to the other Party information about its business affairs, products, confidential intellectual
+property, trade secrets, third-party confidential information, and other sensitive or proprietary information,
+whether orally or in written, electronic, or other form or media/in written or electronic form or media,
+whether or not marked, designated or otherwise identified as "confidential" (collectively, "Confidential
+Information"). Confidential Information does not include information that, at the time of disclosure is: (a)
+in the public domain; (b) known to the receiving Party at the time of disclosure; (c) rightfully obtained by
+the receiving Party on a non-confidential basis from a third party; or (d) independently developed by the
+receiving Party. The receiving Party shall not disclose the disclosing Party's Confidential Information to
+any person or entity, except to the receiving Party's employees who have a need to know the Confidential
+Information for the receiving Party to exercise its rights or perform its obligations
+hereunder. Notwithstanding the foregoing, each Party may disclose Confidential Information to the limited
+extent required (i) in order to comply with the order of a court or other governmental body, or as otherwise
+necessary to comply with applicable law, provided that the Party making the disclosure pursuant to the
+order shall first have given written notice to the other Party and made a reasonable effort to obtain a
+protective order; or (ii) to establish a Party's rights under this Agreement, including to make required court
+filings. On the expiration or termination of the Agreement, the receiving Party shall promptly return to the
+disclosing Party all copies, whether in written, electronic, or other form or media, of the disclosing Party's
+Confidential Information, or destroy all such copies and certify in writing to the disclosing Party that such
+Confidential Information has been destroyed. Each Party's obligations of non-disclosure with regard to
+Confidential Information are effective as of the Effective Date and will expire two (2) years from the date
+first disclosed to the receiving Party; provided, however, with respect to any Confidential Information that
+constitutes a trade secret (as determined under applicable law), such obligations of non-disclosure will
+survive the termination or expiration of this Agreement for as long as such Confidential Information
+remains subject to trade secret protection under applicable law.
+
+6.
+
+Intellectual Property Ownership; Feedback.
+
+(a) Licensee acknowledges that, as between Licensee and Licensor, Licensor owns all right, title,
+and interest, including all intellectual property rights, in and to the Software and Documentation.
+(b) Feedback. If Licensee or any of its employees or contractors sends or transmits any
+communications or materials to Licensor by mail, email, telephone, or otherwise, suggesting or
+recommending changes to the Software or Documentation, including without limitation, new features or
+functionality relating thereto, or any comments, questions, suggestions, or the like (" Feedback"), Licensor
+is free to use such Feedback irrespective of any other obligation or limitation between the Parties governing
+such Feedback. Licensee hereby assigns to Licensor on Licensee's behalf, and on behalf of its employees,
+contractors and/or agents, all right, title, and interest in, and Licensor is free to use, without any attribution
+or compensation to any party, any ideas, know-how, concepts, techniques, or other intellectual property
+rights contained in the Feedback, for any purpose whatsoever, although Licensor is not required to use any
+Feedback.
+7.
+
+Data Privacy and Security.
+
+(a) Licensee and End User Data. Licensee agrees that Licensor and the service providers it
+utilizes to assist in providing the Software and services to Licensee shall have the right to access Licensee’s
+and end users’ accounts and to use, modify, reproduce, distribute, display and disclose Licensee data and
+end user data solely to the extent necessary to provide the Software and services, including, without
+limitation, in response to Licensee or end user support requests.
+
+Any third party providers of services (“Third Party Providers”) iPass utilizes will only be given
+access to Licensee account information and data as is reasonably necessary to provide the
+Software and services and will be subject to confidentiality obligations. Licensor may also access
+or disclose information about Licensee, Licensee’s account, or end users in order to: (a) comply
+with the law or respond to lawful requests or legal process; (b) protect Licensor, its customers’ or
+partners’ rights or property, including enforcement of this Agreement or other policies associated
+with the Software and services; and (c) act on a good faith belief that such disclosure is
+necessary to protect personal safety or avoid violation of applicable law or regulation.
+(b) Privacy Policy. Licensor collects certain information about Licensee and end users including
+but not limited to the location of the end user’s device when using the Software and services, and
+information regarding the devices, computers and the end users’ use of the Software and services. Licensor
+uses, discloses, collects and protects this information as described in iPass’ Privacy Policy, the then-current
+version of which is available at www.ipass.com/privacy and is incorporated by reference herein. In the
+event of a conflict between the terms in the body of the Agreement and in the Privacy Policy, the terms in
+the body of this Agreement control.
+
+8.
+
+Limited Warranties and Warranty Disclaimer.
+
+(a) Licensor warrants that at all times during the Term: (i) the Software shall perform as described
+in the Documentation following the Effective Date; (ii) the Software does not contain any virus or other
+malicious code that would cause the Software to become inoperable or incapable of being used in
+accordance with the Documentation; (iii) the Software and Documentation shall not infringe,
+misappropriate, or otherwise violate any intellectual property right or other right of any person, nor shall
+the Software and Documentation violate any applicable law. THE FOREGOING WARRANTIES DO NOT
+
+APPLY, AND LICENSOR STRICTLY DISCLAIMS ALL WARRANTIES, WITH RESPECT TO ANY
+THIRD-PARTY PRODUCTS.
+(b) The warranties set forth in Section 8(a) do not apply and become null and void if Licensee
+knowingly breaches any material provision of this Agreement (beyond applicable notice and cure), or if
+Licensee any Authorized User, or any other person provided access to the Software by Licensee [or any
+Authorized User, whether or not in violation of this Agreement: (i) knowingly installs or uses the Software
+on or in connection with any hardware or software not specified in the Documentation [or expressly
+authorized by Licensor in writing; (ii) modifies or damages the Software; or (iii) misuses the Software,
+including any use of the Software other than as specified in the Documentation or expressly authorized by
+Licensor in writing.
+(c) If, during the period specified in Section 8(a), any Software fails to comply with the warranty
+in Section 8(a), and such failure is not excluded from warranty pursuant to Section 8(b), Licensor shall,
+subject to Licensee's promptly notifying Licensor in writing of such failure, at its sole option, either: (i)
+repair or replace the Software, provided that Licensee provides Licensor with all information Licensor
+requests to resolve the reported failure, including sufficient information to enable the Licensor to recreate
+such failure; or (ii) refund the Fees paid for such Software, subject to Licensee's ceasing all use of and, if
+requested by Licensor, returning to Licensor all copies of the Software. If Licensor repairs or replaces the
+Software, the warranty will continue to run from the Effective Date and not from Licensee's receipt of the
+repair or replacement. The remedies set forth in this Section 8(c) are Licensee's sole remedies and
+Licensor's sole liability under the limited warranty set forth in Section 8(a).
+(d) EXCEPT FOR THE LIMITED WARRANTY SET FORTH IN SECTION 8(a), THE
+SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS" AND LICENSOR HEREBY
+DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+LICENSOR SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT, AND ALL WARRANTIES ARISING FROM COURSE OF DEALING,
+USAGE, OR TRADE PRACTICE. EXCEPT FOR THE LIMITED WARRANTY SET FORTH
+IN SECTION 8(a), LICENSOR MAKES NO WARRANTY OF ANY KIND THAT THE
+SOFTWARE AND DOCUMENTATION, OR ANY PRODUCTS OR RESULTS OF THE USE
+THEREOF, WILL MEET LICENSEE'S OR ANY OTHER PERSON'S REQUIREMENTS,
+OPERATE WITHOUT INTERRUPTION, ACHIEVE ANY INTENDED RESULT, BE
+COMPATIBLE OR WORK WITH ANY SOFTWARE, SYSTEM OR OTHER SERVICES, OR
+BE SECURE, ACCURATE, COMPLETE, FREE OF HARMFUL CODE, OR ERROR FREE.
+
+9.
+
+Indemnification.
+(a) Licensor Indemnification.
+(i) Licensor shall indemnify, defend, and hold harmless Licensee from and against any
+and all losses, damages, liabilities, costs ("Losses") incurred by Licensee resulting from any thirdparty claim, suit, action, or proceeding ("Third-Party Claim") that the Software or
+Documentation, or any use of the Software or Documentation in accordance with this Agreement,
+infringes or misappropriates such third party's US intellectual property rights, US patents,
+copyrights, or trade secrets, provided that Licensee promptly notifies Licensor in writing of the
+claim, cooperates with Licensor, and allows Licensor sole authority to control the defense and
+settlement of such claim.
+
+(ii) If such a claim is made or appears possible, Licensee agrees to permit Licensor, at
+Licensor's sole discretion, to (A) modify or replace the Software or Documentation, or component
+or part thereof, to make it non-infringing, or (B) obtain the right for Licensee to continue use. If
+Licensor determines that none of these alternatives is reasonably available, Licensor may
+terminate this Agreement, in its entirety or with respect to the affected component or part, effective
+immediately on written notice to Licensee.
+(iii) This Section 9(a) will not apply to the extent that the alleged infringement arises
+from: (A) use of the Software in combination with data, software, hardware, equipment, or
+technology not provided by Licensor or authorized by Licensor in writing; (B) modifications to
+the Software not made by Licensor; or (C) use of any version other than the most current version
+of the Software or Documentation delivered to Licensee.
+(b) Licensee Indemnification. Subject to the limitations in Section 10 below, Licensee shall
+indemnify, hold harmless, and, at Licensor's option, defend Licensor from and against any Losses resulting
+from any Third-Party Claim based on Licensee's: (i) negligence or willful misconduct; (ii) use of the
+Software or Documentation in a manner not authorized or contemplated by this Agreement; (iii) use of the
+Software in combination with data, software, hardware, equipment or technology not provided by Licensor
+or authorized by Licensor in writing; (iv) modifications to the Software not made by Licensor; or (v) use of
+any version other than the most current version of the Software or Documentation delivered to Licensee,
+provided that Licensee may not settle any Third-Party Claim against Licensor unless such settlement
+completely and forever releases Licensor from all liability with respect to such Third-Party Claim or unless
+Licensor consents to such settlement, and further provided that Licensor will have the right, at its option, to
+defend itself against any such Third-Party Claim or to participate in the defense thereof by counsel of its
+own choice.
+
+(c) Sole Remedy. THIS SECTION 9 SETS FORTH LICENSEE'S SOLE REMEDIES AND
+LICENSOR'S SOLE LIABILITY AND OBLIGATION FOR ANY ACTUAL, THREATENED, OR
+ALLEGED CLAIMS THAT THE SOFTWARE OR DOCUMENTATION INFRINGES,
+MISAPPROPRIATES, OR OTHERWISE VIOLATES ANY INTELLECTUAL PROPERTY RIGHTS OF
+ANY THIRD PARTY.
+10.
+Limitations of Liability. IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER
+PARTY UNDER OR IN CONNECTION WITH THIS AGREEMENT UNDER ANY LEGAL OR
+EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING
+NEGLIGENCE), STRICT LIABILITY, AND OTHERWISE, FOR ANY: (a) CONSEQUENTIAL,
+INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, ENHANCED, OR PUNITIVE DAMAGES; (b)
+INCREASED COSTS, DIMINUTION IN VALUE OR LOST BUSINESS, PRODUCTION, REVENUES,
+OR PROFITS; (c) LOSS OF GOODWILL OR REPUTATION; (d) USE, INABILITY TO USE, LOSS,
+INTERRUPTION, DELAY OR RECOVERY OF ANY DATA, OR BREACH OF DATA OR SYSTEM
+SECURITY; OR (e) COST OF REPLACEMENT GOODS OR SERVICES, IN EACH CASE
+REGARDLESS OF WHETHER THE PARTY WAS ADVISED OF THE POSSIBILITY OF SUCH
+LOSSES OR DAMAGES OR SUCH LOSSES OR DAMAGES WERE OTHERWISE FORESEEABLE.
+
+EXCEPT FOR ITS INDEMNIFICATION OBLIGATIONS SET FORTH ABOVE IN SECTION
+8(A), AND MATTERS ARISING FROM ITS NEGLIGENCE OR INTENTIONAL
+MISCONDUCT, IN NO EVENT WILL LICENSOR'S AGGREGATE LIABILITY ARISING
+OUT OF OR RELATED TO THIS AGREEMENT UNDER ANY LEGAL OR EQUITABLE
+THEORY, INCLUDING BREACH OF CONTRACT, TORT, STRICT LIABILITY, AND
+OTHERWISE EXCEED THE TOTAL AMOUNTS PAID TO LICENSOR UNDER THIS
+AGREEMENT.
+
+IN NO EVENT SHALL LICENSEE’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO
+THIS AGREEMENT UNDER ANY LEGAL OR EQUITABLE THEORY, INCLUDING BREACH OF
+CONTRACT, TORT, STRICT LIABILITY, AND OTHERWISE EXCEED THE TOTAL AMOUNTS
+PAID BY LICENSEE TO LICENSOR UNDER THIS AGREEMENT.
+11.
+
+Term and Termination.
+
+(a) Term. The term of this Agreement begins on the Effective Date and, unless terminated earlier
+pursuant to any of the Agreement's express provisions, will continue in effect indefinitely or until annual
+support is not renewed. Unless earlier terminated pursuant to this Agreement's express provisions, Licensee
+must provide written notice of non-renewal of annual support at least 60 days prior to the expiration of the
+then-current term.
+
+(b) Termination. In addition to any other express termination right set forth in this Agreement:
+(i) Licensor may terminate this Agreement, effective on written notice to Licensee, if
+Licensee: (A) fails to pay any undisputed amount when due hereunder, and such failure continues
+more than 30 days after Licensor's delivery of written notice thereof; or (B) breaches any of its
+obligations under Section 2(b) or Section 5;
+(ii) Either Party may terminate this Agreement, effective on written notice to the other
+Party, if the other Party breaches this Agreement, and such breach: (A) is incapable of cure; or (B)
+being capable of cure, remains uncured 30 days after the non-breaching Party provides the
+breaching Party with written notice of such breach; or
+(iii) Either Party may terminate this Agreement, effective immediately upon written
+notice to the other Party, if the other Party: (A) becomes insolvent or is generally unable to pay, or
+fails to pay, its debts as they become due; (B) files or has filed against it, a petition for voluntary or
+involuntary bankruptcy or otherwise becomes subject, voluntarily or involuntarily, to any
+proceeding under any domestic or foreign bankruptcy or insolvency law; (C) makes or seeks to
+make a general assignment for the benefit of its creditors; or (D) applies for or has appointed a
+receiver, trustee, custodian, or similar agent appointed by order of any court of competent
+jurisdiction to take charge of or sell any material portion of its property or business.
+(c) Effect of Expiration or Termination. Upon expiration or earlier termination of this
+Agreement, the license granted hereunder will not terminate, but no additional support, as described in
+Exhibit B, shall be provided to Licensee effective upon termination. No expiration or termination will
+affect Licensee's obligation to pay all Fees that may have become due before such expiration or
+termination, or entitle Licensee to any refund. If termination is resultant from events under 11(b)(iii) on the
+part of Licensor, the Licensee will have recourse under section 2(e) Escrow Source Code.
+(d) Survival. This Section 11(d) and Sections 1, 4, 5, 6, 7, 8, 9, and 10 survive any termination or
+expiration of this Agreement. No other provisions of this Agreement survive the expiration or earlier
+termination of this Agreement.
+
+12.
+
+Miscellaneous.
+
+(a) Entire Agreement. This Agreement, together with any other documents incorporated herein by
+reference and all related Exhibits, constitutes the sole and entire agreement of the Parties with respect to the
+subject matter of this Agreement and supersedes all prior and contemporaneous understandings,
+agreements, and representations and warranties, both written and oral, with respect to such subject
+matter. In the event of any inconsistency between the statements made in the body of this Agreement, the
+related Exhibits, and any other documents incorporated herein by reference, the following order of
+precedence governs: (a) first, this Agreement, excluding its Exhibits; (b) second, the Exhibits to this
+Agreement as of the Effective Date; and (c) third, any other documents incorporated herein by reference.
+
+(b) Notices. All notices, requests, consents, claims, demands, waivers, and other communications
+hereunder (each, a "Notice") must be in writing and addressed to the Parties at the addresses set
+forth on the first page of this Agreement (or to such other address that may be designated by the
+Party giving Notice from time to time in accordance with this Section). All Notices must be
+delivered by personal delivery, nationally recognized overnight courier (with all fees pre-paid),
+or certified or registered mail (in each case, return receipt requested, postage pre-paid). Except as
+otherwise provided in this Agreement, a Notice is effective only: (i) upon receipt by the receiving
+Party, and (ii) if the Party giving the Notice has complied with the requirements of this Section.
+(c) Force Majeure. In no event shall either Party be liable to the other Party, or be deemed to have
+breached this Agreement, for any failure or delay in performing its obligations under this Agreement, if and
+to the extent such failure or delay is caused by any circumstances beyond such Party's reasonable control,
+including but not limited to acts of God, flood, fire, earthquake, explosion, war, terrorism, invasion, riot or
+other civil unrest, strikes, labor stoppages or slowdowns or other industrial disturbances, or passage of law
+or any action taken by a governmental or public authority, including imposing an embargo.
+(d) Amendment and Modification; Waiver. No amendment to or modification of this Agreement
+is effective unless it is in writing and signed by an authorized representative of each Party. No waiver by
+any Party of any of the provisions hereof will be effective unless explicitly set forth in writing and signed
+by the Party so waiving. Except as otherwise set forth in this Agreement, (i) no failure to exercise, or delay
+in exercising, any rights, remedy, power, or privilege arising from this Agreement will operate or be
+construed as a waiver thereof and (ii) no single or partial exercise of any right, remedy, power, or privilege
+hereunder will preclude any other or further exercise thereof or the exercise of any other right, remedy,
+power, or privilege.
+(e) Severability. If any provision of this Agreement is invalid, illegal, or unenforceable in any
+jurisdiction, such invalidity, illegality, or unenforceability will not affect any other term or provision of this
+Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction. Upon
+such determination that any term or other provision is invalid, illegal, or unenforceable, the Parties hereto
+shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as
+closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be
+consummated as originally contemplated to the greatest extent possible.
+
+(f) Governing Law; Submission to Jurisdiction. This Agreement is governed by and construed
+in accordance with the internal laws of the State of California without giving effect to any choice or conflict
+of law provision or rule that would require or permit the application of the laws of any jurisdiction other
+than those of the State of California. Any legal suit, action, or proceeding arising out of this Agreement or
+the licenses granted hereunder shall be instituted in the federal courts of the United States or the courts of
+the State of California in each case located in the city of Redwood Shores and County of San Mateo, and
+each Party irrevocably submits to the jurisdiction of such courts in any such suit, action, or proceeding.
+
+(g) Assignment. Licensee may not assign or transfer any of its rights or delegate any of its
+obligations hereunder, in each case whether voluntarily, involuntarily, by operation of law or otherwise,
+without the prior written consent of Licensor, which consent shall not be unreasonably withheld,
+conditioned, or delayed; provided, however, that in connection with a sale, reorganization, merger,
+consolidation, acquisition or other restructuring involving all or substantially all of the voting securities
+and/or assets of Licensee this Agreement may be assigned by Licensee to any such successor provided
+written notice of such assignment is provided by Licensee to Licensor within a reasonable time thereafter.
+
+Any purported assignment, transfer, or delegation in violation of this Section is null and void. No
+assignment, transfer, or delegation will relieve the assigning or delegating Party of any of its
+obligations hereunder. This Agreement is binding upon and inures to the benefit of the Parties
+hereto and their respective permitted successors and assigns.
+(h) Export Regulation. The Software may be subject to US export control law, including the US
+Export Administration Act and its associated regulations. Licensee shall not, directly or indirectly, export,
+re-export, or release the Software to, or make the Software accessible from, any jurisdiction or country to
+which export, re-export, or release is prohibited by law, rule, or regulation.Licensee shall comply with all
+applicable federal laws, regulations, and rules, and complete all required undertakings (including obtaining
+any necessary export license or other governmental approval), prior to exporting, re-exporting, releasing, or
+otherwise making the Software available outside the US.
+(i) Equitable Relief. Each Party acknowledges and agrees that a breach or threatened breach by
+such Party of any of its obligations under Section 5 or, in the case of Licensee, Section 2(b), would cause
+the other Party irreparable harm for which monetary damages would not be an adequate remedy and agrees
+that, in the event of such breach or threatened breach, the other Party will be entitled to equitable relief,
+including a restraining order, an injunction, specific performance, and any other relief that may be available
+from any court, without any requirement to post a bond or other security, or to prove actual damages or that
+monetary damages are not an adequate remedy.Such remedies are not exclusive and are in addition to all
+other remedies that may be available at law, in equity, or otherwise.
+(j) Counterparts. This Agreement may be executed in counterparts, each of which is deemed an
+original, but all of which together are deemed to be one and the same agreement.
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the Effective Date.
+iPass Inc.
+
+Fictional Inc.
+
+By: Darin R. Vickery
+Name:Darin R. Vickery
+Title: CFO
+Date: May 8, 2018
+
+By: Denis E. McCarthy
+Name:Denis E. McCarthy
+Title: SVP Corporate Development
+Date: May 8, 2018
+
+EXHIBIT A
+iPass SmartConnect Description
+iPass SmartConnect technology is delivered to Authorized Devices through a cloud-based platform (the “Platform”)
+comprising software elements on the mobile device and available over the Internet. iPass´ Platform gives control
+
+over the definition and management of mobility services configured to the Licensee’s specific needs. This
+architecture gives an Authorized Device choice in access services and serves as a bridge to functionality through use
+of extensible web services standards, while keeping the operational and financial burden on Licensee low by not
+requiring them to purchase, deploy and manage on-premises infrastructure, unless they so choose for purposes of
+adding additional functionality.
+iPass Platform is designed to provide Licensee with reliability, flexibility, network security, policy enforcement,
+consolidated billing and scalability.
+The technology consists of the following principal components:
+i.
+
+Foundation Services. Provide the basic capabilities needed for a cloud-based platform, including the ability to
+manage devices (add, remove, or change rights), authenticate devices to access the platform, authorize access to
+particular functions, or track and audit use of the platform.
+
+ii. Operational Services. Are built on top of the iPass Foundation Services platform, enabling Licensee to operate
+the various iPass´ market-facing offers, including device profile/configuration management, network directory
+management, account management, order management, usage management, support, billing and training.
+iii. Presentation Services. Impact how information is presented to devices accessing the Platform, usually through
+a web based portal. Presentation Services include web presentation, data validation, access control (controlling
+who can see and enter what).
+iv. SmartConnect Client and SmartConnect SDK Services. Provide the ability to update configuration files and
+associated network registries, and to receive the data that the client collects.
+v.
+
+Curation Services. Ability of iPass platform to collect information about Open Networks and be able to decode
+the hotspot information and automate steps to connect to that Network.
+
+vi. High-Availability and Scalable Authentication Architecture. iPass´ relationships with network service
+providers enables iPass Platform to enable connectivity through multiple global networks . As a result, the
+cloud-based Platform reduces the risk of service interruptions associated with depending on only one service
+provider. Furthermore, iPass´ geographically distributed transaction centers act as a unified and fault-tolerant
+system that provides scalable and highly available device authentication and quality management information
+collection. Each point in the authentication process is designed with built-in redundancy and fail-over
+capabilities.
+
+iPass SmartConnect SDK – necessary for adding iPass services to an application. The SDK may be used to
+integrate iPass functionalities into a specific application offered by a third-party application, and supports the
+following operating systems: Android and iOS.
+iPass SmartConnect Client – iPass functional applications built on iPass SmartConnect SDK and supporting the
+following operating systems: Android and iOS.
+iPass Curated Network – Curated Networks are open Networks that have been added to footprint using iPass
+Curation Services and can be accessed via the iPass SmartConnect software.
+
+EXHIBIT B
+
+FEES AND SUPPORT SERVICES
+Software License Fee. In exchange for perpetual access to the Licensed Software for up to 25,000,000 Authorized
+Devices, Licensee shall pay Licensor the Software License Fee of $3,000,000.00 (which includes the first year
+Annual Maintenance Fee of 20%). Upon the Effective Date, Licensor shall invoice and Licensee shall pay Licensor
+Software License Fee in increments as follows: $1,000,000.00 by June 15, 2018; $1,000,000.00 by September 30,
+2018 (or the next succeeding business day thereafter); and $1,000,000.00 by December 31, 2018.
+Annual Maintenance Fee. In exchange for the Support Services and Service Levels in this Exhibit B and software
+Updates, Licensee shall invoice and Licensee shall pay Licensor $600,000.00 commencing on the one year
+anniversary following the Effective Date, and every year thereafter (representing 20% of the License Fee).
+Support Services
+1. Definitions. Any capitalized terms used herein and not defined below are defined in the Agreement.
+“First Level Technical Support” means taking calls from users of Authorized Devices, getting complete
+information from end users regarding problems experienced by such users, testing user authorization to use the
+service, eliminating common user errors, and escalating unresolved issues with written documentation detailing
+steps taken prior to escalation.
+“Second Level Technical Support” means providing assistance to First Level Technical Support help desk for
+issues that cannot be resolved through First Level Technical Support.
+“Third Level Technical Support” means providing technical assistance to Licensee’s authorized Second Level
+Technical Support personnel for technical issues that cannot be resolved by Second Level Technical Support.
+“Severity One” means:
+
+
+iPass Hosted Authentication Infrastructure is down or other problems that prevent all users of
+Authorized Devices from connecting.
+
+
+
+Issues regarding Hosted User Services and Hosted User Management.
+
+“Severity Two” means:
+
+
+User community is experiencing difficulty connecting to one or more remote Access Points.
+
+
+
+Hosted Authentication or Customer RoamServer configuration requests.
+
+
+
+User community is experiencing difficulty deploying the Open Mobile software.
+
+“Severity Three” means:
+
+
+Problems that affect a limited number of user community or any question or service request
+regarding the Open Mobile Portal.
+
+2. First Level Technical Support For users of Authorized Devices, the Licensee will be responsible for providing
+First Level Technical Support. First Level Technical Support personnel who have received training regarding the
+iPass Service and the iPass Software from iPass will be authorized to contact the applicable Second Level Technical
+Support center(s) at iPass to resolve any problems that cannot be resolved by First Level Technical
+
+Support. Customer may change its authorized contacts for Second Level Technical Support at any time upon written
+notice to iPass so long as any new authorized contacts have completed the requisite iPass training.
+
+3. Second/Third Level Technical Support. iPass will provide Licensee with Second/Third
+Level Technical Support in accordance with iPass standard procedures, as described in Service
+Levels below, Licensee must have its password and id available in order to access and submit a
+request, absent which iPass will have no obligation to provide Licensee with Second Level
+Technical Support.
+4. Support Requests. Licensee’s authorized First/Second Level Technical Support shall submit support requests via
+the iPass Ticketing System. iPass Support is provided per the procedures as described in Service Levels below. In
+general, support requests are submitted via the iPass Ticketing System and are submitted under a Licensee selected
+severity level. Tickets are worked by iPass based upon severity prioritization, with Severity One being the highest
+priority, followed by Severity Two and Severity Three. iPass response times for the various Severity levels are
+described in Service Levels below.
+5. Software Updates. iPass will notify Licensee regarding the availability of Updates and make any applicable
+Updates available to Licensee as part of this agreement, when and if such updates are made generally available.
+6. Training. iPass will perform training services as agreed upon by the Parties and in accordance with the terms of
+this Agreement.
+
+Service Levels.
+iPass agrees to provide the levels of service set forth herein to Licensee
+1. Additional Definitions.
+“Availability” means users of Authorized Devices having access to, full functionality and usage of the service.
+“Service Levels” means the minimum service levels to be achieved by Licensor in relation to L Licensor’s
+performance of its obligations as set out herein.
+“Severity Level” means the impact of or nature of a problem as set forth in the Support Services above.
+“Response” means the iPass' acknowledgment of its receipt of a Trouble Report from Licensee.
+2. Licensor Support Services
+Licensor will provide Help Desk to Help Desk support to Licensee on components of the Licensor Service e.g. the
+iPass Portal, Hosted Authentication Infrastructure.
+3. Support Process
+The following support process shall be followed by the Licensee HELPDESK to report or escalate issues to
+the iPass Support Teams:
+a.
+
+Issue Identified to Licensee Help Desk
+(i) The user of the Authorized Device contacts the Licensee Help Desk.
+
+(ii) Licensee Helpdesk follows troubleshooting guide and reviews information in the Licensor online
+knowledge base (help.ipass.com) and determines if internal resources can resolve the issue.
+(iii) If internal resources cannot resolve the issue, then Licensee Help Desk contacts iPass Customer Care via
+web-based support request.
+
+b.
+
+Entering a web-based Support Request
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+
+Access the Portal via url: https://openmobile.ipass.com
+Enter your username and password and click login.
+Access is available on the Dashboard tab.
+Click on the “Manage Tickets” link.
+On the “Cases” tab select the “Create New Case” button or dropdown link
+Enter the appropriate information as required.
+
+Licensee Helpdesk shall provide callback details (contact name and phone number) in all web-based support
+requests.
+c.
+
+Ticket Requirements
+
+At a minimum, all Severity One and Severity Two problem reports shall contain the following in order to expedite
+investigation and verification of the problem:
+(i)
+(ii)
+(iii)
+(iv)
+
+Username and Description of observed behavior.
+Debug logs if available.
+Steps to reproduce.
+Operating environment (Operating system, language, software version, profile number and hardware, as
+applicable.)
+(v) Dates / times of transaction failures.
+(vi) Name of network attempted.
+Licensor may request additional information for verification of a reported problem as necessary.
+d.
+
+Licensee’s Customer Care Hotline
+
+For Severity One issues, Licensor recommends that opening a web-based support request be followed by a phone
+call to iPass at one of the following Severity One Customer Care numbers:
+Inside the United States:
+
++1-877-464-7277
+
+Outside the United States:
+
++1 650-232-4300
+
+Dialing within Europe:
+
++44 20 7010 8344
+
+Phone numbers are available 24 hours a day, 7 seven days a week.
+Please note that in order to safeguard customers against unauthorized service activity, Licensor will require that
+callers authenticate their credentials via the web based ticketing system prior to any action by Licensor.
+
+All change requests MUST be in writing.
+In order to ensure that tickets are handled in order of receipt, by priority, calls which are not Severity One will be
+ticketed and placed in queue to be handled in order of receipt, by severity.
+4. Service Levels
+a.
+
+Support Request Response - For each Severity Level, iPass shall provide the following response
+Service Levels:
+i.
+
+For Licensee Helpdesk Support Requests submitted in accordance with the process defined herein.
+
+Problem
+Severity
+
+Response Service Level
+
+Severity One Targeted Response Time: Issues will receive a response from iPass within fifteen (15) minutes
+(1 hour on weekends and local public holidays) after submitting a Severity One support case
+followed by a phone call to iPass. Please note Severity One issues reported via a support case
+only will be responded to within 1 hour.
+Severity Two Targeted Response Time: Issues will receive a response from iPass within 8 hours of receipt
+of the request (except weekends and local public holidays.)
+Severity
+Three
+
+Targeted Response Time: Issues will receive a response from iPass within 12 hours of receipt
+of the request (except weekends and local public holidays.)
+b.
+
+Problem Verification - iPass and Licensee will make reasonable efforts to verify any reported problem
+as soon as it is reported as well as any follow-up information that may be required.
+
+c.
+
+Update Intervals - iPass will make reasonable efforts to keep Licensee’s Second Level Technical
+Support personnel informed of the latest status on any problem submitted. In the event Licensee’s
+Second Level Technical Support personnel requires more frequent updates, then these will be
+discussed and mutually agreed upon and will depend on the severity and complexity of the problem.
+
+d.
+
+Severity Reclassification - To ensure that severe problems receive highest priority, iPass may modify
+a ticket submitted as Severity One issue if it clearly does not meet the criteria for Severity One.
+
+5. iPass Support Escalation Process
+(a) When to Escalate an Issue
+(i) If iPass fails to respond within the prescribed service level response time, the Licensee Help Desk
+is encouraged to escalate the issue to the Escalation Contact in the respective time zone (see
+escalation contacts below.)
+(ii) If the iPass Customer Care Representative and the Licensee Help Desk cannot agree on an action
+plan to resolve an issue (Severity One, Two or Three), then the iPass Customer Care
+Representative and the Customer Help Desk are encouraged to escalate the issue to the Director of
+Customer Care.
+
+(iii) Once a plan has been agreed, iPass will work to resolve the issue. If the Licensee Help Desk is not
+satisfied with the progress that is being made to resolve an issue, they are encouraged to contact
+the Director of Customer Care.
+(b) How to Escalate an Issue
+(i) All escalations should be in writing (to the e-mail address listed below) or by phone followed up
+with a summary from Licensee’s Help Desk.
+(ii) Written documentation should outline the original issue and progress to date. It should also include
+impact to the customer and reason for the escalation.
+(c) Response to Escalation
+(i) The Director of Customer Care will respond upon receipt to any escalations.
+(ii) Escalations will take priority over any issue of the same severity level.
+Customer Care Escalation Contact
+Location/Time Zone
+
+London, UK (GMT)
+
+Regional Contact
+
+Richard Sabbarton
+
+email
+
+rsabbarton@ipass.com
+
+Office Phone
+
++44 20 7010 8319
+
+Location/Time Zone
+
+Redwood Shores, US
+(PST)
+
+Regional Contact
+
+Christopher Calhoun
+
+email
+
+ccalhoun@ipass.com
+
+Office Phone
+
++ 1 650 232 4127
+
+Location/Time Zone
+
+Bangalore, IN (IST)
+
+Regional Contact
+
+Sujith Varijakshan
+
+email
+
+svarijakshan@ipass.com
+
+Office Phone
+
++91 80 41380976
+ESCALATION Manager – Director of Support
+
+Escalation Manager
+
+Alan Ridgewell
+
+email
+
+aridgewell@ipass.com
+
+Office Phone
+
++44 20 7010 8304
