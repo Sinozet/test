@@ -1,0 +1,263 @@
+Exhibit 10.36
+
+EXECUTION VERSION
+
+ 
+
+THIRD Amendment to Master Repurchase and securities contract Agreement
+
+ 
+
+This THIRD Amendment to Master Repurchase and Securities Contract Agreement (this “Amendment”), dated as of December 27, 2017, is by and between MORGAN STANLEY BANK, N.A., a national banking association, as buyer (“Buyer”), and TPG RE FINANCE 12, LTD., an exempted company incorporated with limited liability under the laws of the Cayman Islands with registered number 301503, as seller (“Seller”).  
+
+ 
+
+W I T N E S S E T H:
+
+WHEREAS, Seller and Buyer have entered into that certain Master Repurchase and Securities Contract Agreement, dated as of May 4, 2016, as amended by that certain First Amendment to Master Repurchase and Securities Contract Agreement, dated as of February 10, 2017, as amended by that certain Second Amendment to Master Repurchase and Securities Contract Agreement, dated as of July 21, 2017 (as the same has been or may be further amended, modified and/or restated from time to time, the “Master Repurchase Agreement”); and
+
+WHEREAS, Seller and Buyer wish to modify certain terms and provisions of the Master Repurchase Agreement.
+
+NOW, THEREFORE, for good and valuable consideration, the parties hereto agree as follows:
+
+1.Amendments to Master Repurchase Agreement.  The Master Repurchase Agreement is hereby amended as follows:
+
+(a)The definition of “Facility Amount” in Article 2 of the Master Repurchase Agreement is hereby deleted in its entirety and replaced with the following:
+
+“Facility Amount” shall mean Five Hundred Million Dollars ($500,000,000).
+
+2.Conditions Precedent to Amendment.  The effectiveness of this Amendment is subject to the following:
+
+(a)This Amendment shall be duly executed and delivered by Seller and Buyer; and
+
+(b)Seller shall pay to Buyer (i) the portion of the Origination Fee in respect of the Facility Amount Increase due to Buyer pursuant to Section 2 of the Fee Letter and (ii) the actual costs and expenses, including, without limitation, the reasonable fees and expenses of counsel to Buyer, incurred by Buyer in connection with this Amendment and the transactions contemplated hereby. 
+
+3.Acknowledgment of Facility Amount Increase.  Buyer and Seller hereby acknowledge and agree that Seller has exercised its rights under Section 3(w) of the Master Repurchase Agreement pursuant to this Amendment, and Seller has no further right to request an increase of the Facility Amount pursuant to Section 3(w) of the Master Repurchase Agreement.
+
+4.Seller Representations.  Seller hereby represents and warrants that: 
+
+ 
+
+
+
+(a)no Default, Event of Default or Margin Deficit exists, and no Default, Event of Default or Margin Deficit will occur as a result of the execution, delivery and performance by Seller of this Amendment; and
+
+(b)all representations and warranties contained in the Master Repurchase Agreement are true, correct, complete and accurate in all respects (except such representations which by their terms speak as of a specified date and subject to any exceptions disclosed to Buyer in an Exception Report prior to such date and approved by Buyer).
+
+5.Defined Terms.  Capitalized terms used but not otherwise defined herein shall have the meanings given to them in the Master Repurchase Agreement.
+
+6.Continuing Effect; Reaffirmation of Guaranty.  As amended by this Amendment, all terms, covenants and provisions of the Master Repurchase Agreement are ratified and confirmed and shall remain in full force and effect.  In addition, any and all guaranties and indemnities for the benefit of Buyer (including, without limitation, the Guaranty) and agreements subordinating rights and liens to the rights and liens of Buyer, are hereby ratified and confirmed and shall not be released, diminished, impaired, reduced or adversely affected by this Amendment, and each party indemnifying Buyer, and each party subordinating any right or lien to the rights and liens of Buyer, hereby consents, acknowledges and agrees to the modifications set forth in this Amendment and waives any common law, equitable, statutory or other rights which such party might otherwise have as a result of or in connection with this Amendment.
+
+7.Binding Effect; No Partnership; Counterparts.  The provisions of the Master Repurchase Agreement, as amended hereby, shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns.  Nothing herein contained shall be deemed or construed to create a partnership or joint venture between any of the parties hereto.  For the purpose of facilitating the execution of this Amendment as herein provided, this Amendment may be executed simultaneously in any number of counterparts, each of which shall be deemed to be an original, and such counterparts when taken together shall constitute but one and the same instrument.  Delivery of an executed counterpart signature page to this Amendment in Portable Document Format (PDF) or by facsimile transmission shall be effective as delivery of a manually executed original counterpart thereof.
+
+8.Further Agreements.   Seller agrees to execute and deliver such additional documents, instruments or agreements as may be reasonably requested by Buyer and as may be necessary or appropriate from time to time to effectuate the purposes of this Amendment.
+
+9.Governing Law.  The provisions of Section 18 of the Master Repurchase Agreement are incorporated herein by reference.
+
+10.Headings.  The headings of the sections and subsections of this Amendment are for convenience of reference only and shall not be considered a part hereof nor shall they be deemed to limit or otherwise affect any of the terms or provisions hereof.
+
+11.References to Transaction Documents.  All references to the Master Repurchase Agreement in any Transaction Document, or in any other document executed or delivered in connection therewith shall, from and after the execution and delivery of this Amendment, be deemed a reference to the Master Repurchase Agreement as amended hereby, unless the context expressly requires otherwise.
+
+[NO FURTHER TEXT ON THIS PAGE]
+
+2
+
+ 
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the day first written above.
+
+ 
+
+BUYER:
+
+ 
+
+ 
+
+ 
+
+MORGAN STANLEY BANK, N.A., a national banking association
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Anthony Preisano
+
+ 
+
+ 
+
+Name: Anthony Preisano
+
+ 
+
+ 
+
+Title: Authorized Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+3
+
+ 
+
+
+
+ 
+
+BUYER:
+
+ 
+
+ 
+
+ 
+
+MORGAN STANLEY BANK, N.A., a national banking association
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Anthony Preisano
+
+ 
+
+ 
+
+Name: Anthony Preisano
+
+ 
+
+ 
+
+Title: Authorized Signatory
+
+ 
+
+
+
+4
+
+ 
+
+
+
+The undersigned hereby acknowledges the execution of the Amendment and agrees that the Guaranty and agreements therein subordinating rights and liens to the rights and liens of Buyer, are hereby ratified and confirmed and shall not be released, diminished, impaired, reduced or adversely affected by this Amendment, and each party indemnifying Buyer therein, and each party subordinating any right or lien to the rights and liens of Buyer, therein, hereby acknowledges the modifications set forth in this Amendment and waives any common law, equitable, statutory or other rights which such party might otherwise have as a result of or in connection with this Amendment.  In addition, the undersigned reaffirms its obligations under the Guaranty and agrees that its obligations under the Guaranty shall remain in full force and effect and apply to the additional components referenced in this Amendment.
+
+ 
+
+GUARANTOR:
+
+ 
+
+ 
+
+ 
+
+TPG RE Finance Trust Holdco, LLC, a Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Matthew Coleman
+
+ 
+
+ 
+
+Name: Matthew Coleman
+
+ 
+
+ 
+
+Title: Vice President, Transactions
+
+ 
+
+ 
+
+5

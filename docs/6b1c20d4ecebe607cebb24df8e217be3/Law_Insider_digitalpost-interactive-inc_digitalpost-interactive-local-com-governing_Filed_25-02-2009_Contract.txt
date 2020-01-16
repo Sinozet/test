@@ -1,0 +1,993 @@
+Portions of this exhibit indicated by "***" have been omitted pursuant to the Company’s request for confidential treatment under Rule 24b-2 of the Securities Exchange Act of 1934, as amended, and the omitted material has been separately filed with the Securities and Exchange Commission.
+
+
+
+DIGITALPOST INTERACTIVE – LOCAL.COM
+
+GOVERNING CONTRACT AGREEMENT
+
+
+
+This Governing Contract Agreement (“Agreement”) effective as of the date of the later signature below, (“Effective Date”) is by and between Local.com Corporation. (“Partner”), a Delaware corporation with its principal place of business at One Technology Drive, Building G, Irvine, CA  92618, and DigitalPost Interactive (“DPI”), a Nevada corporation with its principal place of business at 3240 El Camino Real, Ste. 230, Irvine, CA 92602.  The parties to this Agreement may be collectively referred to hereinafter as the “Parties” or individually as a “Party”.
+
+
+
+The Parties desire to enter into a business relationship in accordance with the terms and conditions of this Agreement and intending to be legally bound, hereby agree as follows:
+
+ 
+
+DEFINITIONS
+
+
+
+
+
+1.  
+
+LUAU AD MANAGEMENT SYSTEM
+
+
+
+LUAU Project. LUAU Project is owned by Partner and hereinafter collectively referred to as “LUAU”. DPI’s contribution to the partner’s LUAU project includes the creation of the Software, hosting, infrastructure and integration for the LUAU Ad Management System (Batch / Bulk Upload Engine, ***.
+
+
+
+Development Services. DPI will design, develop, integrate and deliver to Partner the LUAU project in accordance with the LUAU specifications in the Statement of Work set forth in the attached, Exhibit A.
+
+ 
+
+Hosting Services. Once configured, DPI shall encode, host, serve, monitor, manage and maintain the LUAU project (the “Hosting Services”). Without limited the foregoing, DPI shall (a) provide all facilities, equipment, connections, bandwidth, software and other resources necessary to fulfill its obligations under this Agreement (“DPI’s Systems”) and (b) provide access to the Hosted Solution by Partner, its Affiliates and their end users via the Internet. DPI shall implement control measures consistent with the highest industry standards to protect the Hosted Solution from unauthorized access to the Hosted Solution and from the introduction of any willfully introduced computer virus or any other similar harmful, malicious or hidden program or data.
+
+
+
+
+
+2.  
+
+Performance Period
+
+
+
+Performance Period. The Services shall be provided and valid during the period commencing as of the full execution of this Statement of Work, and continuing for two years following the date of Acceptance by Partner of the Hosted Solution by Partner (the “Performance Period”), unless otherwise amended or terminated as provided in the Agreement.
+
+
+
+Performance Schedule. The Services will be performed in accordance with the Activity / Deliverable Schedule in Exhibit A.
+
+ 
+
+
+
+3.  
+
+COMPENSATION
+
+
+
+Software. DPI shall provide the Software, Deliverables and all Services under this Statement of Work for the following fixed fees:
+
+3(a) Development Cost:
+
+
+
+
+
+·  
+
+Payment.   Partner agrees to pay DPI $165,000 for the development of the Project listed within Exhibit A.
+
+
+
+
+
+·  
+
+Payment Schedule: The Development Cost is payable in six traunches (See Exhibit A)
+
+ 
+
+3(b) Service Level Agreement (SLA):
+
+
+
+The charges for this SLA are as follows:
+
+
+
+·  
+
+$2,000 per month starting after the completion of Phase 1a
+
+
+
+·  
+
+***
+
+
+
+o  
+
+No charge up to 500GB
+
+
+
+o  
+
+Overages $0.30/GB
+
+
+
+·  
+
+***
+
+
+
+o  
+
+No charge up to 500GB
+
+
+
+o  
+
+Overages $0.44/GB
+
+
+
+With the exception of major feature releases, the SLA includes:
+
+
+
+·  
+
+Hosting
+
+
+
+·  
+
+Patches
+
+
+
+·  
+
+Software Updates
+
+
+
+·  
+
+Maintenance
+
+
+
+(See SLA Exhibit B)
+
+ 
+
+
+
+4.  
+
+Support and Maintenance.
+
+
+
+DPI will provide 24 hours of monthly technical support for Project Platform at no additional cost. Support services in excess of such 24 hours per month must be authorized by Partner in writing and will be billed on a monthly basis at US$125 per hour.
+
+
+
+There are no reimbursable expenses authorized for this Statement of Work.
+
+ 
+
+
+
+5.  
+
+TERM AND TERMINATION
+
+
+
+This agreement shall commence on the Effective Date and shall continue in force for one (1)) year subject to termination as provided below.  Following this period, Agreement shall automatically renew on a month to month basis unless either Party elects by written notice to terminate the Agreement with 60 days written notice..
+
+
+
+Termination.  Prior to first renewal period, either Party may terminate this Agreement upon ninety (90) days written notice to the other Party.
+
+
+
+Rights Upon Termination.  Upon termination of this Agreement, each Party shall return or destroy the other Party’s confidential information, cease any use of the other Party’s name, products or services, or product literature, and terminate any links from its website(s) any description, review or other reference to either Party’s website(s); provided that the terms of the confidentiality agreement between the Parties shall survive termination of this Agreement according to its terms. In addition, DPI shall deliver the Luau Ad Management System, including Software in source code form along with all supporting documentation and any other items so Partner can fully operate the Luau Ad Management System in a manner consistent with Exhibit A, as may be amended.
+
+
+
+
+
+
+
+
+
+
+
+
+
+DigitalPost Interactive and Local.com, Governing Contract Agreement
+
+*** Portions of this page have been omitted pursuant to a request for confidential treatment and filed separately with the Securities and Exchange Commission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+6.  
+
+Confidentiality.  Neither Party (each, a “Recipient”) shall disclose to any third party or use for its own benefit the other Party’s (each, a “Discloser”) proprietary or confidential information except as authorized by the Discloser.  All confidential information of the Discloser shall remain the sole property of the Discloser.  This provision does not apply to information which the Recipient lawfully receives from a third party having no obligation of confidentiality or which the Recipient independently develops.  Each Party represents that each of its employees having access to the other’s confidential information will, prior to receiving such information from the Recipient, have executed a customary non-disclosure agreement with the Recipient.  These restrictions and obligations shall remain in effect for a period of three (3) years from the date this Agreement is terminated or expires.
+
+ 
+
+
+
+7.  
+
+INTELLECTUAL PROPERTY DPI acknowledges and agrees that Partner and its licensors retain all right, title and interest in and to Project Luau and the Software. This Agreement does not constitute a license, express or implied, by either Party to the other Party to make, have made, use, reproduce, distribute, display or perform any of such Party’s intellectual property rights, including but not limited to patents, copyrights, trademarks or trade secrets.  All rights not expressly granted to either Party by the other in this Agreement are reserved by such other Party.
+
+ 
+
+
+
+8.  
+
+TRADEMARKS AND TRADENAMES
+
+
+
+8(a)           Rights in Trademarks.  Both Parties acknowledge that the other Party is the owner of all right, title and interest in and to its name and certain related designs associated therewith (“Trademarks”), together with any new or revised names or materials which the Trademark owner may adopt to identify it or any of its Services during the Term, and each Party agrees not to adopt or use any of the other Party’s Trademarks in any manner whatsoever except as expressly provided in this Agreement.
+
+
+
+8(b)           License to Use Trademarks.  Each Party hereby grants to the other Party a non-exclusive license during the Term to use their Trademarks, provided that they are used solely in connection with the marketing of their Services and in accordance with the Trademark owner’s specifications as to style, color and typeface.  Upon expiration or termination of this Agreement, each Party will take all action necessary to transfer and assign to the Trademark owner, or its nominee, any right, title or interest in or to any of the Trademarks, or the goodwill related thereto, which the non-Trademark owner Party may have acquired in any manner as a result of the marketing of the Trademark owner’s Services under this Agreement and shall cease to use any Trademark of the other Party.  Each Party hereby agrees to notify the other Party immediately if any infringement or potential infringement of any Trademark is made known to the notifying Party.
+
+ 
+
+
+
+9.  
+
+WARRANTY AND LIMITED LIABILITY
+
+
+
+9(a)  DPI MAKES NO WARRANTY TO THE PARTNER WITH RESPECT TO THE DPI SERVICE OF ANY KIND, EXPRESS OR IMPLIED.  THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE HEREBY DISCLAIMED.  THIS PROVISION SHALL SURVIVE TERMINATION OR EXPIRATION OF THIS AGREEMENT.
+
+
+
+9(c) NEITHER PARTY, UNDER ANY CIRCUMSTANCES, SHALL BE LIABLE TO THE OTHER PARTY FOR DAMAGES OF ANY NATURE, WHETHER DIRECT OR INDIRECT, INCIDENTAL, CONSEQUENTIAL OR SPECIAL, INCLUDING, BUT NOT LIMITED TO LOST PROFITS, LOSS OF GOODWILL, OR FOR EXPENDITURES MADE OR COMMITTED TO BY THE OTHER PARTY IN RELIANCE UPON CONTINUATION OF THIS AGREEMENT, EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS PROVISION SHALL SURVIVE TERMINATION OR EXPIRATION OF THIS AGREEMENT.
+
+ 
+
+
+
+10.  
+
+MISCELLANEOUS
+
+
+
+10(a) Notices.  All notices by either Party given under this Agreement shall be in writing and shall be hand delivered or sent certified mail, return receipt requested or by overnight courier.  Notice may be given by facsimile if confirmed in writing, by first class mail, postage pre-paid or by overnight courier.  Notices to each Party shall be given at their respective addresses first above written.
+
+
+
+10(b) Assignment.  DPI shall not assign any of its rights, interests or obligations under this Agreement to a third party without the other Partner’s prior written consent.
+
+
+
+10(c) Relationship of the Parties.  It is understood that each Party is an independent entity.  Nothing in this Agreement shall be construed to constitute the Partner or DPI as an employee or agent of the other or to create any rights other than the rights described in this Agreement.  This Agreement does not constitute a franchise or a joint venture.  Neither Party shall have the power to obligate the other for any expenses or other obligation without the prior written approval of the other Party.
+
+
+
+10(d) Applicable Law.  This Agreement shall be governed by and construed according to the laws of the State of California.
+
+
+
+10(e) Severability.  Any provision of this Agreement which is adjudged to be illegal, invalid or unenforceable in any respect shall not affect any other provision of this Agreement and the balance of the Agreement shall continue in full force and effect.
+
+
+
+10(f) Entire Agreement.  This Agreement, including any Attachments hereto, supersedes all other agreements and representations, express or implied, written or oral, between the Parties with respect to the subject matter of this Agreement.  This Agreement shall not be changed or modified except in a writing signed by duly authorized personnel of each Party.
+
+
+
+10(g) Headings.  The sections and paragraph headings used in this Agreement are inserted for convenience only and shall not affect the meaning or interpretation of this Agreement.
+
+
+
+10(h) Force Majeure.  Neither Party shall be liable for any failure or delay in its performance under this Agreement due to causes, including, but not limited to, an act of God, act of civil or military authority, fire, epidemic, flood, earthquake, riot, war sabotage, labor shortage or dispute, and governmental action, which are beyond its reasonable control.
+
+
+
+
+
+11.  
+
+Publicity.                      Subject to the other party’s prior written approval, which shall not be unreasonably withheld, either Party may issue a press release or make statements to the press or general public regarding this Agreement.
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+ 
+
+DigitalPost Interactive, Inc.                                                                               Local.com Corp.
+
+ 
+
+By: /s/ Michael Sawtell                               By: /s/ Doug Norman  
+
+ 
+
+Printed Name:    Michael Sawtell                                               Printed Name: Doug Norman
+
+
+
+Title:   President / CEO                                        Title: CFO
+
+
+
+Date: February 19, 2009                                        Date:  February 19, 2009                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DigitalPost Interactive and Local.com, Governing Contract Agreement
+
+*** Portions of this page have been omitted pursuant to a request for confidential treatment and filed separately with the Securities and Exchange Commission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit A:   LUAU Ad Management System
+
+
+
+Declarations:
+
+DPI will work with the Local.com team to ensure this project scope meets the specifications as desired by Local.com.
+
+
+
+Deliverables:
+
+ LUAU Ad Management Systems initially consisting of fully integrated Batch / Bulk Upload Engine,
+
+ *** and Reporting (the “Software”).
+
+
+
+Project Description:
+
+
+
+DPI will build the LUAU Ad Management System for Local.com.  This will include a Batch / Bulk Upload Engine, ***.  In addition, reporting will be provided for each area.  The LUAU Ad Management System will reside of DPI’s scalable platform while being closely integrated with Local.com’s platform via agreed upon Webservices.  Each of the above applications will be built with extensibility in mind to allow for future feature growth.
+
+
+
+The project cycle will be created in the interest of learning as much as possible before development start and the provision of heavy testing to validate the readiness of launching the LUAU Ad Management System.  In addition, the project will focus on having the following three sections provided first based on Local.com’s interests: Batch / Bulk Upload Engine, Content Library with Auto-Fill Engine, and Ad Unit Creation Engine.
+
+
+
+Part of the project build will allow for a pilot program, to be agreed upon between both parties, to allow for refining the system before complete rollout with Local.com.
+
+
+
+Batch / Bulk Upload Engine
+
+
+
+DPI will build a Batch / Bulk Upload Engine which will work with the ***.  The file types supported will be based on the ones currently is use by Local.com.
+
+
+
+The Batch / Bulk Upload Engine will be made accessible via a secure web application providing for a controlled environment.
+
+
+
+Content Library with Auto-Fill Engine
+
+
+
+DPI will build out a *** for use by the ***.  This system will be manageable by Local.com staff supporting textual copy and various media types initially focusing on images and videos.
+
+
+
+***
+
+
+
+A Secure Extranet will be provided for management by the Local.com staff.
+
+ 
+
+ 
+
+***
+
+
+
+DPI will create an *** which will automatically create *** based on Local.com’s criteria.  It will come with several standard containers, but allow for future expansion.
+
+
+
+The *** initially will function based on the following steps:
+
+1: Engine notified of Batch / Bulk Upload Engine
+
+2: The standard containers are prepared
+
+3: The meta-data is prepared
+
+4: The Engine compiles the Flash-based Ad Units by using the meta-data and ***
+
+5: The ad units are placed in a location, TBD
+
+
+
+The Ad Units will be built in Adobe Flash.
+
+
+
+***
+
+
+
+DPI will build out the *** to enhance the way an SMB’s listing is presented.
+
+
+
+The *** will allow for:
+
+
+
+-  
+
+***
+
+
+
+-  
+
+Changing and Uploading content for use within the ***
+
+
+
+-  
+
+Theme changing (some will default based on business categories)
+
+
+
+-  
+
+***
+
+
+
+-  
+
+Recording of visitor usage
+
+
+
+The presentation layer will be built with Adobe Flash.
+
+
+
+Current Out of Scope Items
+
+
+
+
+
+-  
+
+LP Admin
+
+
+
+-  
+
+Call Center SMB Management
+
+
+
+-  
+
+Call Center SMB Vetting
+
+
+
+-  
+
+Agency Management
+
+
+
+-  
+
+Ad Server with Edge of Network service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DigitalPost Interactive and Local.com, Governing Contract Agreement
+
+*** Portions of this page have been omitted pursuant to a request for confidential treatment and filed separately with the Securities and Exchange Commission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Cycles
+
+
+
+The LUAU Project will consist of the following phases.  Contained herein are expected phase durations and necessary Local.com’s commitment levels.  These expectancies will be refined during the Analysis/Software Requirements Phase.  The phases are not necessarily linear and therefore do not suggest a start and completion date.
+
+
+
+Example Start Date: February 16th, 2009
+
+Project Phases
+
+Expected Completion Dates
+
+Expected Durations
+
+Scoping
+
+Complete
+
+2 weeks
+
+Analysis / Software Requirements *
+
+February 20th
+
+1 week
+
+Design
+
+February 27th
+
+2 weeks
+
+Development: **
+
+Batch / Bulk Upload Engine, ***
+
+March 13th
+
+4 weeks
+
+Testing & Pilot
+
+March 27th
+
+2 weeks
+
+Development:
+
+***
+
+April 24th
+
+4 weeks
+
+Testing & Pilot
+
+May 22nd
+
+4 weeks
+
+Documentation & Training
+
+May 27th
+
+3 days
+
+Deployment
+
+June 3rd
+
+1 week
+
+Post Implementation Review
+
+June 8th
+
+3 days
+
+Maintenance
+
+TBD
+
+TBD
+
+
+
+The overall project timeline is expected to come in about 4 months.
+
+
+
+* The Analysis / Software Requirements Phase will help lockdown the timeline.
+
+
+
+** The Batch / Bulk Upload Engine has been brought into this first project phase which affects the timeline and costs associated.
+
+
+
+
+
+Project Cost and Payment Schedule
+
+
+
+
+
+Phases
+
+Scheduled Project Goal
+
+Cost
+
+Target Date
+
+Phase 1a
+
+Project Launch Initial
+
+ 
+
+$50,000
+
+Feb. 16th, 2009
+
+
+
+Beta complete:
+
+Batch / Bulk Upload Engine, ***
+
+ 
+
+$25,000
+
+ 
+
+Mar. 13th, 2009
+
+
+
+Pilot complete:
+
+Batch / Bulk Upload Engine, ***
+
+ 
+
+$25,000
+
+ 
+
+Mar. 27th, 2009
+
+ 
+
+Exit Clause: See End of Phase 1a Exit Clause below
+
+ 
+
+Phase 1b
+
+Beta complete:
+
+***
+
+ 
+
+$25,000
+
+ 
+
+Apr. 24th, 2009
+
+
+
+Pilot complete:
+
+***
+
+ 
+
+$20,000
+
+May 22nd, 2009
+
+
+
+Deployment complete:
+
+ 
+
+$20,000
+
+June 3rd, 2009
+
+ 
+
+Total Project Cost: $165,000
+
+
+
+End of Phase 1a Exit Clause
+
+After all Phase 1a software is delivered to Local.com and after all Phase 1a payments ($50,000, $25,000, $25,000) are received by DigitalPost, Local.com reserves the right to cancel with 15 days prior notice to DigitalPost all software development shown in Phase 1b and related Phase 1b payments ($25,000, $20,000, $20,000) to the extent Local.com deems the Phase 1a deliverables upon delivery do not meet the agreed upon requirements which are to be defined during the Analysis/Software Requirements phase of the LUAU Ad Management System Project.
+
+ 
+
+Fees due upon following schedule
+
+Invoice payable net fifteen (15) days of receipt.
+
+ 
+
+Project Proposal acknowledged and approved by:
+
+DigitalPost Interactive, Inc.                                                                               Local.com Corp.
+
+
+
+By: /s/ Michael Sawtell                                 By:  /s/ Doug Norman  
+
+ 
+
+Printed Name:  Michael Sawtell                                                   Printed Name: Doug Norman
+
+
+
+Title:   President / CEO                                         Title: CFO
+
+
+
+Date: February 19, 2009                                        Date:  February 19, 2009                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DigitalPost Interactive and Local.com, Governing Contract Agreement
+
+*** Portions of this page have been omitted pursuant to a request for confidential treatment and filed separately with the Securities and Exchange Commission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit B:   Service Level Agreement
+
+
+
+SERVICE AVAILABILITY
+
+
+
+A. Definition. DigitalPost Interactive’s Systems (as defined above) will have a ninety-nine and nine tenths of a percent (99.9%) Service Availability 24x7x365. “Service Availability” means that DigitalPost Interactive’s Equipment are fully operating in accordance with the Agreement and all applicable Statements of Work without any downtime,
+
+delays or other problems.
+
+
+
+B. Notification by DigitalPost Interactive. DigitalPost Interactive will monitor DigitalPost Interactive Systems 24x7x365 and shall notify Local.com:
+
+(i) within one hour in the event that DigitalPost Interactive discovers a Severity Level 1 or
+
+Severity Level 2 incident (as defined below),
+
+(ii) within four hours in the event that DigitalPost Interactive discovers a Severity Level 3
+
+incident (as defined below), or
+
+(ii) within twenty-four hours in the event that DigitalPost Interactive discovers a Severity Level
+
+4 incident (as defined below).
+
+ 
+
+2. SCHEDULED DOWNTIME/MAINTENANCE
+
+
+
+DigitalPost Interactive will notify each Local.com of any scheduled downtime for any part of DigitalPost Interactive Systems (including downtime for DPI to implement platform upgrades, patches and/or fixes) (“Scheduled Downtime”) at least 15 days prior to such Scheduled Downtime. All Scheduled Downtime shall be scheduled at times and for durations to minimize their impact on Local.com and its customers.
+
+ 
+
+3. SEVERITY LEVELS AND RESOLUTION PROCESSES
+
+
+
+A. Level 1 - Emergency. DigitalPost Interactive Systems suffer an Error which cannot be reasonably circumvented and which either (i) causes any significant functionality of DigitalPost Interactive’s Systems to fail to execute, (ii) impairs any critical function of the DigitalPost Interactive’s Systems, or (iii) otherwise so substantially slows the performance of the DigitalPost Interactive Systems as to effectively render it unusable. DigitalPost Interactive will respond to Local.com’s notice of such Error within 1 hour. Following DigitalPost Interactive’s response to the Error notice from Local.com, DigitalPost Interactive shall exercise its best efforts working 24 hours a day, 7 days a week to address and remedy such Error. DigitalPost Interactive shall provide Local.com with updates on the status of the Level 1 Error at reasonable intervals as the status changes and until resolved. “Error” means any nonconformance in DigitalPost Interactive’s systems which prevent them from performing in accordance with the specifications set forth in the Agreement and each Statement of Work, as applicable.
+
+
+
+B. Level 2 - Urgent. DigitalPost Interactive’s Systems suffer an Error (which is not a Level 1 Error) which cannot be reasonably circumvented by Local.com in a timely fashion and which
+
+substantially impairs the use of one or more portions or features of DigitalPost Interactive’s
+
+Systems but that does not impair any necessary business functions of Local.com’s
+
+business. DigitalPost Interactive will respond to Local.com’s notice of such Error within 2 hours.
+
+Following DigitalPost Interactive’s response to the Error notice from Local.com, DigitalPost Interactive shall exercise its best efforts working continually to address and remedy such Error during DigitalPost Interactive’s normal business hours within 7 days.
+
+
+
+C. Level 3 - Significant. DigitalPost Interactive’s Systems suffer an Error (which is not a Level 1 or 2 Error) which impairs the use of one or more portions or features of DigitalPost Interactive’s
+
+Systems but that does not impair any necessary business functions of Local.com’s
+
+business and can be reasonably circumvented by Local.com in a timely fashion. DigitalPost Interactive will respond to Local.com’s notice of such Error within 24 hours. Following DigitalPost Interactive’s response to the Error notice from Local.com DigitalPost Interactive shall exercise commercially reasonable efforts working continually to address and remedy such error during DigitalPost Interactive’s normal business hours within 14 days. A Level 3 incident shall be
+
+automatically escalated to a Level 2 Error if DigitalPost Interactive does not resolve such Error
+
+within 48 hours of the end of the foregoing 14 day period.
+
+
+
+D. Level 4 - Other Errors and Issues. If Local.com reports an Error with DigitalPost Interactive’s Systems that is not classified as a Level 1, 2 or 3 Error, DigitalPost Interactive may address such Error in its next scheduled software release.
+
+ 
+
+4. SUPPORT PERSONNEL; ESCALATION PROCEDURES
+
+
+
+A. DigitalPost Interactive’s customer care representatives shall be available by phone 24x7x365 to address any questions, issues or Errors.
+
+B. In the event that a Local.com is not satisfied by the responsiveness or level of support
+
+provided by DigitalPost Interactive, it shall have the right to escalate the issue as follows:
+
+i. Bob Grant, VP Technology, bgrant@dglp.com, *** (cell)
+
+ii. Michael Sawtell, CEO/President, msawtell@dglp.com, *** (cell)
+
+ 
+
+5. TERMINATION FOR SERVICE LEVEL FAILURES.
+
+
+
+Local.com may terminate any of its Statements of Work for breach by DigitalPost Interactive in the event that a Termination Event occurs. A “Termination Event” will be deemed to have occurred if the following occurs more than 4 times in a 12 month period: (a) a Level 1 incident (or a series of Level 1 incidents) lasts for more than 24 hours (from the time DigitalPost Interactive receives notice of such emergency) in any consecutive 6 month period, and (b) the Level 1 incident is not caused by Local.com’s systems or the systems of Local.com’s other contractors, which includes, but is not limited to, its servers, operating systems and telecommunications systems or any third party systems, which includes, but it not limited
+
+to, any broadband systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DigitalPost Interactive and Local.com, Governing Contract Agreement
+
+*** Portions of this page have been omitted pursuant to a request for confidential treatment and filed separately with the Securities and Exchange Commission
