@@ -1,0 +1,1646 @@
+Exhibit 10.4 
+
+BEAUMONT FERTILIZER PLANT 
+
+CONTRACT AGREEMENT 
+
+FOR 
+
+METHANOL AND AMMONIA DEBOTTLENECKING 
+
+AND 
+
+PLANT TURNAROUND 
+
+BETWEEN 
+
+OCI BEAUMONT LLC (OCIB) 
+
+AND 
+
+ORASCOM E&C USA INC. (OCI) 
+
+
+
+
+GENERAL CONDITIONS BETWEEN OWNER AND CONSTRUCTOR 
+
+(Cost Reimbursable) 
+
+TABLE OF ARTICLES 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+1. AGREEMENT
+
+  
+
+ 
+
+Page 2
+
+  
+
+
+
+
+
+2. GENERAL PROVISIONS
+
+  
+
+ 
+
+Page 2
+
+  
+
+
+
+
+
+3. CONSTRUCTOR’S RESPONSIBILITIES
+
+  
+
+ 
+
+Page 5
+
+  
+
+
+
+
+
+4. OWNER’S RESPONSIBILITIES
+
+  
+
+ 
+
+Page 14
+
+  
+
+
+
+
+
+5. SUBCONTRACTS
+
+  
+
+ 
+
+Page 16
+
+  
+
+
+
+
+
+6. TIME
+
+  
+
+ 
+
+Page 17
+
+  
+
+
+
+
+
+7. COST OF THE WORK
+
+  
+
+ 
+
+Page 18
+
+  
+
+
+
+
+
+8. CHANGES
+
+  
+
+ 
+
+Page 20
+
+  
+
+
+
+
+
+9. PAYMENT
+
+  
+
+ 
+
+Page 21
+
+  
+
+
+
+
+
+10. INDEMNITY, INSURANCE, AND BONDS
+
+  
+
+ 
+
+Page 23
+
+  
+
+
+
+
+
+11. SUSPENSION, NOTICE TO CURE, AND TERMINATION
+
+  
+
+ 
+
+Page 29
+
+  
+
+
+
+
+
+12. DISPUTE MITIGATION AND RESOLUTION
+
+  
+
+ 
+
+Page 31
+
+  
+
+
+
+
+
+13. MISCELLANEOUS
+
+  
+
+ 
+
+Page 33
+
+  
+
+
+
+
+
+14. CONTRACT DOCUMENTS
+
+  
+
+ 
+
+Page 34
+
+  
+
+ 
+
+1 
+
+
+
+
+ARTICLE 1 AGREEMENT 
+
+This Agreement is made this 5th day of June in the year 2013, 
+
+by and between the 
+
+OWNER, OCI Beaumont LLC, 5470 N Twin City Highway, Nederland, Texas 
+
+and the 
+
+CONSTRUCTOR, Orascom E&C USA Inc. 
+
+Tax identification number (TIN): 68-0682885 
+
+Contractor License No., if applicable                      
+
+for construction and services in connection with the following: 
+
+PROJECT: Beaumont Fertilizer Plant. Generally, the Constructor will perform the debottlenecking of the methanol production unit, the debottlenecking of the ammonia production unit, and the maintenance turnaround, all as directed by the Owner l on a completely cost reimbursable basis. 
+
+Notice to the Parties shall be given at the above addresses. 
+
+ARTICLE 2 GENERAL PROVISIONS 
+
+2.1 PARTIES’ RELATIONSHIP AND ETHICS The Parties each agree to proceed with the Project on the basis of mutual trust, good faith, and fair dealing. 
+
+2.1.1 The Constructor shall furnish construction administration and management services and use the Constructor’s diligent efforts to perform the Work in an expeditious manner consistent with the Contract Documents. The Parties shall each endeavor to promote harmony and cooperation among all Project participants. 
+
+2.1.2 The Constructor represents that it is an independent Constructor and that in its performance of the Work it shall act as an independent Constructor. 
+
+2.1.3 Neither the Constructor nor any of its agents or employees shall act on behalf of or in the name of the Owner except as provided in this Agreement or unless authorized in writing by the Owner’s Representative. 
+
+2.2 ETHICS The Parties shall perform their obligations with integrity, ensuring at a minimum that each: (a) avoids conflicts of interest and promptly discloses any to the other Party; and (b) warrants that it has not and shall not pay or receive any contingent fees or gratuities to or from the other Party, including its agents, officers, and employees, Subcontractors or others for whom they may be liable, to secure preferential treatment. 
+
+2.3 DEFINITIONS 
+
+2.3.1 “Agreement” means this ConsensusDocs 200 Standard Agreement and General Conditions between Owner and Constructor, as modified, and exhibits and attachments made part of this agreement upon its execution. 
+
+ 
+
+2 
+
+
+
+
+a) The following Exhibits are part of this Agreement: 
+
+Exhibit A: Schedule of the Work 
+
+Exhibit B: Description of Work 
+
+Exhibit C: Schedule of Rates 
+
+2.3.2 “Business Day” means all Days, except weekends and official federal or state holidays in the State of Texas. 
+
+2.3.3 A “Change Order” is a written order signed by the Owner and the Constructor after execution of this Agreement, indicating changes in the scope of the Work, or Contract Time, including substitutions proposed by the Constructor and accepted by the Owner. Constructor shall be paid on a cost reimbursable basis plus Constructor’s Fee for all Change Orders. 
+
+2.3.4 The “Contract Documents” consist of this Agreement, the existing Contract Documents listed in section ARTICLE 14, drawings, specifications, addenda issued and acknowledged prior to execution of this Agreement, information furnished by the Owner pursuant to subsection 3.13.4, and modifications issued in accordance with this Agreement. 
+
+2.3.5 “Contract Time” is the period between the Date of Commencement and Final Completion. 
+
+2.3.6 The “Constructor” is the person or entity identified in ARTICLE 1 and includes the Constructor’s Representative. 
+
+2.3.7 The “Constructor’s Fee” will be 9% of the Cost of the Work and consists of 4% for profit and 5% for overhead. 
+
+2.3.8 “Cost of the Work” means the costs and discounts specified in Article 7. 
+
+2.3.9 “Date of Commencement” is as set forth in section 6.1. 
+
+2.3.10 “Day” means a calendar day. 
+
+2.3.11 “Defective Work” is any portion of the Work that does not conform to the Requirements of the Contract Documents. 
+
+2.3.12 “Final Completion” occurs on the date when the Constructor’s obligations under this Agreement are complete and accepted by the Owner and final payment becomes due and payable. This date shall be confirmed by a Certificate of Final Completion signed by the Owner and the Constructor. 
+
+2.3.13 “Laws” mean federal, state, and local laws, ordinances, codes, rules, and regulations applicable to the Work with which the Constructor must comply that are enacted as of the Agreement date. 
+
+2.3.14 “Interim Directed Change” is a change to the Work directed by the Owner pursuant to Section 8.2. 
+
+2.3.15 “Materials” includes all equipment, systems, supplies, materials and spare parts used on the Project and/or incorporated into the Work. 
+
+2.3.16 A “Material Supplier” is a person or entity retained by the Constructor to provide material or equipment for the Work. 
+
+2.3.17 “Others” means other Constructors/constructors, material suppliers, and persons authorized to be present at the Worksite and who are not employed by the Constructor or Subcontractors. 
+
+ 
+
+3 
+
+
+
+
+2.3.18 “Overhead” means (a) payroll costs and other compensation of Constructor employees in the Constructor’s principal and branch offices, except for those payroll costs for Constructor’s employees in the Constructor’s principal or branch offices which will be directly charged to the Project, and those payroll cost will be included in the Cost of Work; (b) general and administrative expenses of the Constructor’s principal and branch offices including charges against the Constructor for delinquent payments; and (c) the Constructor’s capital expenses, including interest on capital used for the Work. 
+
+2.3.19 “Owner” is the person or entity identified in ARTICLE 1, and includes the Owner’s Representative. 
+
+2.3.20 The “Parties” are collectively the Owner and the Constructor. “Party” means Owner or Constructor, individually, as the case may be. 
+
+2.3.21 “The Project,” as identified in ARTICLE 1, is the building, facility, or other improvements for which the Constructor is to perform Work under this Agreement. It may also include construction by the Owner or Others. 
+
+2.3.22 The “Schedule of the Work” is the document prepared by the Constructor that specifies the dates on which the Constructor plans to begin and complete various parts of the Work, including dates on which information and approvals are required from the Owner. 
+
+2.3.23 A “Subcontractor” is a person or entity retained by the Constructor as an independent Constructor to provide the labor, materials, equipment, or services necessary to complete a specific portion of the Work. 
+
+2.3.24 “Substantial Completion” of the Work, or of a designated portion, occurs on the date when the Work is sufficiently complete in accordance with the Contract Documents so that the Owner may occupy or utilize the Project as indicated, or a designated portion, for the use for which it is intended, without unscheduled disruption. The issuance of a certificate of occupancy is not a prerequisite for Substantial Completion if the certificate of occupancy cannot be obtained due to factors beyond the Constructor’s control. This date shall be confirmed by a Certificate of Substantial Completion signed by the Owner and Constructor. 
+
+2.3.25 A “Subsubcontractor” is a person or entity who has an agreement with a Subcontractor or another Subsubcontractor to perform a portion of the Subcontractor’s Work. Also referred to as “Lower Tier Subcontractor” 
+
+2.3.26 “Terrorism” means a violent act, or an act that is dangerous to human life, property, or infrastructure, that is committed by an individual or individuals and that appears to be part of an effort to coerce a civilian population or to influence the policy or affect the conduct of any government by coercion. Terrorism includes, but is not limited to, any act certified by the United States government as an act of terrorism pursuant to the Terrorism Risk Insurance Act, as amended. 
+
+2.3.27 “Work” means the construction and services necessary or incidental to fulfill the Constructor’s obligations for the Project in conformance with this Agreement and the other Contract Documents. The Work may refer to the whole Project or only a part of the Project if work is also being performed by the Owner or Others. 
+
+2.3.28 “Worksite” means the geographical area of the Project location as identified in ARTICLE 1 where the Work is to be performed. 
+
+2.3.29 “Work Order” means a written document signed and accepted by Owner and Constructor to perform certain activities pursuant to the terms of the Agreement and the Description of Work (as modified from time to time) on a cost reimbursable basis, plus Constructor’s Fee and subject to an appropriate adjustment in the Contract Time. The Work Order process will be defined in the final Description of Work document. 
+
+ 
+
+4 
+
+
+
+
+ARTICLE 3 CONSTRUCTOR’S RESPONSIBILITIES 
+
+3.1 GENERAL RESPONSIBILITIES 
+
+3.1.1 The Constructor shall provide all labor, materials, equipment, and services necessary to complete the Work, all of which shall be provided in full accord with the Contract Documents. Constructor is not required to perform any Work or to provide any Materials not specified by the Owner. 
+
+3.1.2 The Constructor shall be responsible for the supervision and coordination of the Work, including the construction means, methods, techniques, sequences, and procedures utilized, unless the Contract Documents give other specific instructions. In such case, the Constructor shall not be liable to the Owner for damages resulting from compliance with such instructions unless the Constructor recognized and failed to timely report to the Owner any error, inconsistency, omission, or unsafe practice that it discovered in the specified construction means, methods, techniques, sequences, or procedures. 
+
+3.1.3 The Constructor shall perform Work only within locations allowed by the Contract Documents, Laws, and applicable permits. 
+
+3.1.4 Debottlenecking Project Methanol: including SCR, Pre-reformer, Saturator, Reformer tubes, Flare, Syngas Compressor, Turbine and Heat Exchangers, and other related items identified in the engineering and procurement packages provided by the Owner. 
+
+3.1.5 Debottlenecking Project Ammonia: including Syngas Compressor, Ammonia Compressor, Heat Exchangers, Vessels, Cooling Tower modifications, and other related items identified in the engineering and procurement packages provided by Owner. 
+
+3.1.6 Maintenance Turnaround: Replace BCP pumps, inspection and repair of equipment identified by Owner. 
+
+3.1.7 The Constructor shall procure all Materials, including long-lead items that are specified by Owner in the Contract Documents. Constructor shall begin procurement of long-lead items promptly upon award of this Contract. 
+
+3.1.8 Constructor shall perform all of the erection and installation of Materials as required by the Owner. Constructor shall provide skilled personnel and staff, specialized Subcontractors, service agencies and other entities appropriate for the performance of the Work. 
+
+3.1.9 Constructor shall be responsible for project controls including scheduling and schedule updating, progress measurement, cost control, document control and other monitoring and control activities incidental thereto in order to manage the project in accordance with industry standards and OSHA-PSM standard. 
+
+3.2 COOPERATION WITH WORK OF OWNER AND OTHERS 
+
+3.2.1 The Owner may perform work at the Worksite directly or by Others. Any agreements with Others to perform construction or operations related to the Project shall include provisions pertaining to insurance, indemnification, waiver of subrogation, consequential damages, coordination, interference, cleanup, and safety that are substantively the same as the corresponding provisions of this Agreement. 
+
+ 
+
+5 
+
+
+
+
+3.2.2 If the Owner elects to perform work at the Worksite directly or by Others, the Constructor and the Owner shall coordinate the activities of all forces at the Worksite and agree upon fair and reasonable schedules and operational procedures for Worksite activities. The Owner shall require each separate Constructor to cooperate with the Constructor and assist with the coordination of activities and the review of construction schedules and operations. The Contract Time shall be equitably adjusted, as mutually agreed by the Parties, for changes made necessary by the coordination of construction activities, and the Schedule of the Work shall be revised accordingly. The Constructor, the Owner, and Others shall adhere to the revised construction schedule. 
+
+3.2.3 With regard to the work of the Owner and Others, the Constructor shall (a) proceed with the Work in a manner that does not hinder, delay, or interfere with the work of the Owner or Others or cause the work of the Owner or Others to become defective, (b) afford the Owner or Others reasonable access for introduction and storage of their materials and equipment and performance of their activities, and (c) coordinate the Constructor’s Work with theirs. 
+
+3.2.4 Before proceeding with any portion of the Work affected by the construction or operations of the Owner or Others, the Constructor shall give the Owner prompt written notification of any defects the Constructor discovers in their work which will prevent the proper execution of the Work. The Constructor’s obligations in this subsection do not create a responsibility for the work of the Owner or Others, but are for the purpose of facilitating the Work. Following receipt of written notice from the Constructor of defects, the Owner shall promptly inform the Constructor what action, if any, the Constructor shall take with regard to the defects. The Constructor is entitled to be paid on a cost reimbursable basis plus the Constructor’s Fee on any Work that it must correct or modify because of defects in the work of Owner or Others, or because of corrections or modifications resulting from changes in scope of the Work by Owner. 
+
+3.3 RESPONSIBILITY FOR PERFORMANCE 
+
+3.3.1 Prior to commencing the Work, the Constructor shall examine and compare the drawings and specifications with information furnished by the Owner that are Contract Documents, relevant field measurements made by the Constructor, and any visible conditions at the Worksite affecting the Work. 
+
+3.3.2 Should the Constructor discover any errors, omissions, or inconsistencies in the Contract Documents, the Constructor shall promptly report them to the Owner. It is recognized, however, that the Constructor is not acting in the capacity of a licensed design professional, and that the Constructor’s examination is to facilitate construction and does not create an affirmative responsibility to detect errors, omissions, or inconsistencies or to ascertain compliance with applicable laws, building codes, or regulations. Following receipt of written notice from the Constructor of defects, the Owner shall promptly inform the Constructor what action, if any, the Constructor shall take with regard to the defects. 
+
+3.3.3 The Constructor shall have no liability for errors, omissions, or inconsistencies discovered under this section unless the Constructor knowingly fails to report a recognized problem to the Owner. 
+
+3.3.4 The Constructor shall be entitled to additional costs or time because of clarifications or instructions arising out of the Constructor’s reports described in this section. 
+
+3.3.5 Nothing in this section shall relieve the Constructor of responsibility for its own errors, inconsistencies, and omissions; provided however, that Constructor’s liability shall be limited to the liability of the respective Subcontractors for errors, inconsistencies and omissions. 
+
+ 
+
+6 
+
+
+
+
+3.4 CONSTRUCTION PERSONNEL AND SUPERVISION 
+
+3.4.1 The Constructor shall provide competent supervision for the performance of the Work. Before commencing the Work, the Constructor shall notify the Owner in writing of the name and qualifications of its proposed superintendent(s) and project manager so the Owner may review the individual’s qualifications. If, for reasonable cause, the Owner refuses to approve the individual, or withdraws its approval after once giving it, the Constructor shall name a different superintendent or project manager for the Owner’s review. Any disapproved superintendent shall not perform in that capacity thereafter at the Worksite. 
+
+3.4.2 The Constructor shall be responsible to the Owner for acts or omissions of parties or entities performing portions of the Work for or on behalf of the Constructor or any of its Subcontractors; provided however, Constructor’s liability shall be limited to the remedies provided by the Subcontractors in the applicable Subcontracts. 
+
+3.4.3 The Constructor shall permit only qualified persons to perform the Work. The Constructor shall enforce safety procedures, strict discipline, and good order among persons performing the Work. If the Owner determines that a particular person does not follow safety procedures, or is unfit or unskilled for the assigned Work, the Constructor shall immediately reassign the person upon receipt of the Owner’s written notice to do so. 
+
+3.4.4 CONSTRUCTOR’S REPRESENTATIVE The Constructor’s authorized representative is Mr. Ihab Demian. The Constructor’s Representative shall possess full authority to receive instructions from the Owner and to act on those instructions. If the Constructor changes its representative or their authority, the Constructor shall immediately notify the Owner in writing. 
+
+3.5 WORKMANSHIP The Work shall be executed in accordance with the Contract Documents in a workmanlike manner. All Materials used in the Work shall be furnished in sufficient quantities to facilitate the proper and expeditious execution of the Work and shall be new except such materials as may be expressly provided in the Contract Documents to be otherwise. 
+
+3.6 MATERIALS FURNISHED BY THE OWNER OR OTHERS If the Work includes installation of materials or equipment furnished by the Owner or Others, it shall be the responsibility of the Constructor to examine the items so provided and thereupon handle, store, and install the items, unless otherwise provided in the Contract Documents, with such skill and care as to provide a satisfactory and proper installation. Loss or damage due to acts or omissions of the Constructor shall be the responsibility of the Constructor; provided however, the Constructor’s liability is limited to the recovery from and remedies provided by the applicable Subcontractor or Material Supplier. Any defects discovered in such materials or equipment shall be reported promptly to the Owner. Following receipt of written notice from the Constructor of defects, the Owner shall promptly inform the Constructor what action, if any, the Constructor shall take with regard to the defects. 
+
+3.7 TESTS AND INSPECTIONS 
+
+3.7.1 The Constructor shall schedule all required tests, approvals, and inspections of the Work or portions thereof at appropriate times so as not to delay the progress of the Work or other work related to the Project. The Constructor shall give proper notice to all required parties of such tests, approvals, and inspections. If feasible, the Owner and Others may timely observe the tests at the normal place of testing. Except as provided in subsection, the Owner shall bear all expenses associated with tests, inspections, and approvals required by the Contract Documents, which, unless otherwise agreed to, shall be conducted by an independent testing laboratory or entity retained by the Owner. Unless otherwise required by the Contract Documents, required certificates of testing, approval, or inspection shall be secured by the Constructor and promptly delivered to the Owner. 
+
+ 
+
+7 
+
+
+
+
+3.7.2 If the Owner or appropriate authorities determine that tests, inspections, or approvals in addition to those required by the Contract Documents will be necessary, the Constructor shall arrange for the procedures and give timely notice to the Owner and Others who may observe the procedures. Costs of the additional tests, inspections, or approvals are at the Owner’s expense except as provided in the subsection below. 
+
+3.7.3 If the procedures described in two subsections above indicate that portions of the Work fail to comply with the Contract Documents, the Constructor shall be responsible for costs of correction and retesting; provided however, the Constructor’s liability is limited to the recovery from and remedies provided by the applicable Subcontractor or Material Supplier. 
+
+3.8 WARRANTY 
+
+3.8.1 The Constructor warrants that all Materials shall be new unless otherwise specified, of good quality, in conformance with the Contract Documents, and free from defective workmanship and materials. At the Owner’s request, the Constructor shall furnish satisfactory evidence of the quality and type of materials and equipment furnished. The Constructor further warrants that the Work shall be free from material defects not intrinsic in the design or materials required in the Contract Documents. The Constructor’s warranty does not include remedies for defects or damages caused by normal wear and tear during normal usage, use for a purpose for which the Project was not intended, improper or insufficient maintenance, modifications performed by the Owner or Others, or abuse. The Constructor’s warranty shall commence on the Date of Substantial Completion of the Work, or of a designated portion. 
+
+3.8.2 All Materials incorporated in the Work are specified by the Owner and purchased as directed by the Owner. As a result, the products, equipment, systems and materials incorporated in the Work shall be covered exclusively by the warranty of the manufacturer. There are no warranties which extend beyond the description on the face of any such warranty. 
+
+3.8.3 The Constructor shall obtain from its Subcontractors and Material Suppliers any special or extended warranties required by the Contract Documents. All such warranties when known shall be listed in an attached exhibit to this Agreement. The Constructor’s liability for such warranties shall be limited as provided in Section 3.9 below. 
+
+3.9 CORRECTION OF WORK WITHIN ONE YEAR 
+
+3.9.1 If, prior to Substantial Completion and within one year after the date of Substantial Completion of the Work, any Defective Work is found, the Owner shall promptly notify the Constructor in writing. Unless the Owner provides written acceptance of the condition, the Constructor shall promptly correct the Defective Work ; provided however, that the corrective work shall be performed by Subcontractors at Constructor’s direction and Constructor’s responsibility and liability shall be limited to coordinating appropriate Subcontractors and Material Suppliers, exercising remedies under the relevant subcontracts and supply agreements to enforce defects liability provisions and warranties and directing them to perform the required corrective work. Constructor shall be paid its costs and Constructor’s Fee for managing the Subcontractors’ corrective work. If within the one-year correction period the Owner discovers and does not promptly notify the Constructor or give the Constructor an opportunity to test or correct Defective Work as reasonably requested by the Constructor, the Owner waives the Constructor’s obligation to correct that Defective Work as well as the Owner’s right to claim a breach of the warranty with respect to that Defective Work. In the event that the relevant Subcontractors and Material Suppliers are in default of their obligations (and taking into account Owner’s rights to approve all such Subcontractors and Material Suppliers as set forth herein), Constructor shall at Owner’s reasonable instruction mobilize alternative arrangements to mitigate the Defective Work at Owner’s cost and expenses, plus Constructor’s Fee to be agreed by Owner and Constructor. 
+
+ 
+
+8 
+
+
+
+
+3.9.2 With respect to any portion of Work first performed after Substantial Completion, the one-year correction period shall be extended by the period of time between Substantial Completion and the actual performance of the later Work. Correction periods shall not be extended by corrective work performed by the Constructor. 
+
+3.9.3 If the Constructor fails to correct Defective Work within a reasonable time after receipt of written notice from the Owner prior to final payment, the Owner may correct it in accordance with the Owner’s right to carry out the Work. In such case, Constructor shall seek recovery of such costs from the applicable Subcontractors and Material Suppliers. Constructor shall provide reasonable assistance to Owner in pursuing such remedies and claims. 
+
+3.9.4 Subject to the limitations of liability and remedies set forth in the Agreement, the Constructor’s obligations and liability, if any, with respect to any Defective Work discovered after the one-year correction period (latent defects) shall be determined by the Law. If, after the one-year correction period but before the applicable limitation period has expired, the Owner discovers any Work which the Owner considers Defective Work, the Owner shall, unless the Defective Work requires emergency correction, promptly notify the Constructor and allow the Constructor an opportunity to correct the Work if the Constructor elects to do so. If the Constructor elects to correct the Work, it shall provide written notice of such intent within fourteen (14) Days of its receipt of notice from the Owner and shall complete the correction of Work within a mutually agreed timeframe, and the costs of such correction and Constructor’s fees shall be paid by the Owner. If the Constructor (or its Subcontractors or Material Suppliers) does not elect to correct the Work, the Owner may have the Work corrected by itself or Others. In such case, Owner shall seek recovery of such costs only from the applicable Subcontractors and Material Suppliers. 
+
+3.9.5 If the Constructor’s correction or removal of Defective Work causes damage to or destroys other completed or partially completed Work or existing buildings, the Constructor shall be responsible for the cost of correcting the destroyed or damaged property; provided however, the Constructor’s liability is limited to the recovery from and remedies provided by the applicable Subcontractor or Material Supplier. 
+
+3.9.6 The one-year period for correction of Defective Work does not constitute a limitation period with respect to the enforcement of the Constructor’s other obligations under the Contract Documents. 
+
+3.9.7 Prior to final payment, at the Owner’s option and with the Constructor’s agreement, the Owner may elect to accept Defective Work rather than require its removal and correction. In such case, monies due to Constructor shall be equitably adjusted for any diminution in the value of the Project caused by such Defective Work only if it was proven that such Defective Work was not requested for inspection by the Constructor per the requirements of Section 3.7 above. 
+
+3.9.8 he Owner selected and approved all Subcontractors and Material Suppliers, and specified all Work and Materials. In no event shall Constructor’s liability for defects in the Work and Materials be greater than the warranties and corrective work provided and performed by the applicable Subcontractors and Material Suppliers. For the avoidance of doubt, Owner shall look solely to the Subcontractors and Material Suppliers for all defective or otherwise nonconforming Work and Materials and any recovery of costs incurred by the Owner for performing corrective work. 
+
+3.10 CORRECTION OF COVERED WORK 
+
+3.10.1 On request of the Owner, Work that has been covered without a requirement that it be inspected prior to being covered may be uncovered for the Owner’s inspection. The Owner shall pay for the costs of uncovering and replacement if the Work proves to be in conformance with the Contract Documents, or if the defective condition was caused by the Owner or Others. If the uncovered Work proves to be defective, the Constructor shall pay the costs of uncovering and replacement; provided however, the Constructor’s liability is limited to the recovery from and remedies provided by the applicable Subcontractor or Material Supplier. 
+
+ 
+
+9 
+
+
+
+
+3.10.2 If, contrary to specific requirements in the Contract Documents or contrary to a specific request from the Owner, a portion of the Work is covered, the Owner, by written request, may require the Constructor to uncover the Work for the Owner’s observation. In this circumstance, the Work shall be replaced with no adjustment to the Contract Time. 
+
+3.11 SAFETY OF PERSONS AND PROPERTY 
+
+3.11.1 SAFETY PRECAUTIONS AND PROGRAMS The Constructor shall have overall responsibility for safety precautions and programs in the performance of the Work. However, such obligation does not relieve Subcontractors of their responsibility for the safety of persons or property in the performance of their work or for compliance with Laws. 
+
+3.11.2 The Constructor shall seek to avoid injury, loss, or damage to persons or property by taking reasonable steps to protect: 
+
+a) its employees and other persons at the Worksite; 
+
+b) materials and equipment stored at onsite or offsite locations for use in the Work; and 
+
+c) property located at the Worksite and adjacent to Work areas, whether or not the property is part of the Worksite. 
+
+3.11.3 CONSTRUCTOR’S SAFETY REPRESENTATIVE The Constructor’s Worksite safety representative is (TBA), who shall act as the Constructor’s Worksite safety representative with a duty to prevent accidents. If no individual is identified in this subsection, the Constructor’s safety representative shall be the Constructor’s Representative. The Constructor shall report promptly in writing to the Owner all recordable accidents and injuries occurring at the Worksite. When the Constructor is required to file an accident report with a public authority, the Constructor shall furnish a copy of the report to the Owner. 
+
+3.11.4 The Constructor shall provide the Owner with copies of all notices required of the Constructor by law or regulation. The Constructor’s safety program shall comply with the requirements of governmental and quasi-governmental authorities having jurisdiction. 
+
+3.11.5 Damage or loss not insured under property insurance which may arise from the Work, to the extent caused by the negligent acts or omissions of the Constructor, or anyone for whose acts the Constructor may be liable, shall be promptly remedied by the Constructor; provided however, the Constructor’s liability is limited to the recovery from and remedies provided by the applicable Subcontractor or Material Supplier. 
+
+3.11.6 If the Owner deems any part of the Work or Worksite unsafe, the Owner, without assuming responsibility for the Constructor’s safety program, may require the Constructor to stop performance of the Work or take corrective measures satisfactory to the Owner, or both. If the Constructor does not adopt corrective measures, the Owner may perform them . The Constructor agrees to make no claim for a change in the Contract Time based on the Constructor’s compliance with the Owner’s reasonable request. 
+
+3.12 EMERGENCIES 
+
+13.12.1 In an emergency affecting the safety of persons or property, the Constructor shall act in a reasonable manner to prevent threatened damage, injury, or loss. Any change in the Contract Time or increase in the Constructor’s costs resulting from the actions of the Constructor in an emergency situation shall be determined as provided for in ARTICLE 8. 
+
+ 
+
+10 
+
+
+
+
+3.13 HAZARDOUS MATERIALS 
+
+3.13.1 A Hazardous Material is any substance or material identified now or in the future as hazardous under Laws, or any other substance or material that may be considered hazardous or otherwise subject to statutory or regulatory requirement governing handling, disposal, or cleanup. The Constructor shall not be obligated to commence or continue work until any Hazardous Material discovered at the Worksite has been removed, rendered, or determined to be harmless by the Owner as certified by an independent testing laboratory and approved by the appropriate governmental agency. 
+
+3.13.2 If after commencing the Work, Hazardous Material is discovered at the Worksite, the Constructor shall be entitled to immediately stop Work in the affected area. The Constructor shall promptly report the condition to the Owner, and, if required, the governmental agency with jurisdiction. 
+
+3.13.3 The Constructor shall not be required to perform any Work relating to or in the area of Hazardous Material without written mutual agreement. 
+
+3.13.4 The Owner shall be responsible for retaining an independent testing laboratory to determine the nature of the material encountered and whether the material requires corrective measures or remedial action. Such measures shall be the sole responsibility of the Owner, and shall be performed in a manner minimizing any adverse effect upon the Work. The Constructor shall resume Work in the area affected by any Hazardous Material only upon written agreement between the Parties after the Hazardous Material has been removed or rendered harmless and only after approval, if necessary, of the governmental agency with jurisdiction. 
+
+3.13.5 If the Constructor incurs additional costs or is delayed due to the presence or remediation of Hazardous Material, the Constructor shall be entitled to an equitable adjustment in the Contract Time and to payment of Constructor’s additional costs plus Constructor’s Fee. 
+
+3.13.6 To the extent permitted by section 6.5 and to the extent not caused by the negligent acts or omissions of the Constructor, its Subcontractors and Subsubcontractors, and the agents, officers, directors, and employees of each of them, the Owner shall defend, indemnify, and hold harmless the Constructor, its Subcontractors and Subsubcontractors, and the agents, officers, directors, and employees of each of them, from and against all claims, damages, losses, costs, and expenses, including but not limited to reasonable attorneys’ fees, costs, and expenses incurred in connection with any dispute resolution process, arising out of or relating to the performance of the Work in any area affected by Hazardous Material. 
+
+3.13.7 MATERIALS BROUGHT TO THE WORKSITE 
+
+a) Material Safety Data (MSD) sheets as required by law and pertaining to materials or substances used or consumed in the performance of the Work, whether obtained by the Constructor, Subcontractors, the Owner, or Others, shall be maintained at the Worksite by the Constructor and made available to the Owner, Subcontractors, and Others. 
+
+b) The Constructor shall be responsible for the proper delivery, handling, application, storage, removal, and disposal of all materials and substances brought to the Worksite by the Constructor in accordance with the Contract Documents and used or consumed in the performance of the Work. 
+
+c) Subject to Section 6.5 and to the extent caused by the negligent acts or omissions of the Constructor, its agents, officers, directors, and employees, the Constructor shall indemnify and hold harmless the Owner, its agents, officers, directors, and employees, from and against any and all claims, damages, losses, costs, and expenses, including but not limited 
+
+ 
+
+11 
+
+
+
+
+to attorneys’ fees, costs, and expenses incurred in connection with any dispute resolution procedure, arising out of or relating to the delivery, handling, application, storage, removal, and disposal of all materials and substances brought to the Worksite by the Constructor in accordance with the Contract Documents; provided however, the Constructor’s liability is limited to the recovery from and remedies provided by the applicable Subcontractor or Material Supplier. 
+
+3.13.8 Section 3.13 shall survive the completion of the Work or any termination of this Agreement. 
+
+3.14 SUBMITTALS 
+
+3.14.1 The Constructor shall submit to the Owner all shop drawings, samples, product data, and similar submittals required by the Contract Documents for review and approval. Submittals shall be submitted in electronic form if required in accordance with a protocol agreed between Owner and Constructor during the kickoff meeting. The Constructor shall be responsible for the accuracy and conformity of its submittals to the Contract Documents. The Constructor shall prepare and deliver its submittals in a manner consistent with the Schedule of the Work and in such time and sequence so as not to delay the performance of the Work or the work of the Owner and Others. Constructor submittals shall identify in writing for each submittal all changes, deviations, or substitutions from the requirements of the Contract Documents. The approval of any Constructor submittal shall not be deemed to authorize changes, deviations or substitutions from the requirements of the Contract Documents unless express written approval is obtained from the Owner specifically authorizing such deviation, substitution or change. To the extent a change, deviation or substitution causes an impact to the Contract Time, such approval shall be promptly memorialized in a Change Order. The Owner shall not make any change, deviation or substitution through the submittal process without specifically identifying and authorizing such deviation to the Constructor. If the Contract Documents do not contain submittal requirements pertaining to the Work, the Constructor agrees upon request to submit in a timely fashion to the Owner for review any shop drawings, samples, product data, manufacturers’ literature or similar submittals as may reasonably be required by the Owner. 
+
+3.14.2 The Owner shall be responsible for review and approval of submittals with reasonable promptness to avoid causing delay. 
+
+3.14.3 The Constructor shall perform all Work strictly in accordance with approved submittals. Approval of shop drawings is not an authorization to perform changed work, unless the procedures of ARTICLE 8 are followed. Approval does not relieve the Constructor from responsibility for Defective Work resulting from errors or omissions on the approved shop drawings. 
+
+3.14.4 Record copies of the following, incorporating field changes and selections made during construction, shall be maintained at the Worksite and available to the Owner upon request: drawings, specifications, addenda, Change Order and other modifications, and required submittals including product data, samples and shop drawings. 
+
+3.14.5 No substitutions shall be made in the Work unless permitted in the Contract Documents and then only after the Constructor obtains approvals required under the Contract Documents for substitutions. All such substitutions shall be promptly memorialized in a Change Order no later than seven (7) Days following approval by the Owner and provide for an adjustment in the Contract Time. Constructor shall be paid for its costs and Constructor’s Fee for any substitutions. 
+
+3.14.6 The Constructor shall prepare and submit to the Owner: 
+
+                     final marked-up as-built drawings; or 
+
+                     updated electronic data, in accordance with ConsensusDocs 200.2 and subsection 4.6.1; or 
+
+ 
+
+12 
+
+
+
+
+                     such documentation as defined by the Parties by attachment to this Agreement, in general documenting how the various elements of the Work were actually constructed or installed; or 
+
+                     all OSHA/PSM mechanical integrity related documents. 
+
+3.15 DESIGN DELEGATION If the Contract Documents specifically require the Constructor to procure design services, the Owner shall specify all required performance and design criteria. The Constructor shall not be responsible for the adequacy of such performance and design criteria. As permitted by the laws, rules, and regulations in the jurisdiction where the Project is located, the Constructor shall procure such services and any certifications necessary to satisfactorily complete the Work from a licensed design professional. The signature and seal of the Constructor’s design professional shall appear on all drawings, calculations, specifications, certifications, shop drawings, and other submittals related to the Work designed or certified by Constructor’s design professional. 
+
+3.16 WORKSITE CONDITIONS 
+
+3.16.1 WORKSITE VISIT The Constructor acknowledges that it has visited, or has had the opportunity to visit, the Worksite to visually inspect the general and local conditions which could affect the Work. 
+
+3.16.2 CONCEALED OR UNKNOWN SITE CONDITIONS If the conditions encountered at the Worksite are (a) subsurface or other physical conditions materially different from those indicated in the Contract Documents, or (b) unusual and unknown physical conditions materially different from conditions ordinarily encountered and generally recognized as inherent in Work provided for in the Contract Documents, the Constructor shall stop affected Work after the condition is first observed and give prompt written notice of the condition to the Owner. The Constructor shall not be required to perform any Work relating to the unknown condition without the written mutual agreement of the Parties. Any change in the Contract Time as a result of the unknown condition shall be determined as provided in ARTICLE 8. Constructor shall be paid for its costs and Constructor’s Fee incurred as a result of any Worksite conditions. 
+
+3.17 PERMITS AND TAXES 
+
+3.17.1 The Constructor shall give public authorities all notices required by law and, except for permits and fees that are the responsibility of the Owner, shall obtain and pay for all necessary permits, licenses, and renewals pertaining to the Work. Such costs shall be reimbursed as a Cost of the Work. The Constructor shall provide to the Owner copies of all notices, permits, licenses, and renewals required under this Agreement. 
+
+3.17.2 The Constructor shall pay all applicable taxes enacted when bids are received or negotiations concluded for the Work provided by the Constructor. 
+
+3.17.3 If, in accordance with the Owner’s direction, the Constructor claims an exemption for taxes, the Owner shall indemnify and hold the Constructor harmless from any liability, penalty, interest, fine, tax assessment, attorneys’ fees, or other expense or cost incurred by the Constructor as a result of any such action. 
+
+3.18 CUTTING, FITTING, AND PATCHING 
+
+3.18.1 The Constructor shall perform cutting, fitting and patching necessary to coordinate the various parts of the Work and to prepare its Work for the work of the Owner or Others. 
+
+3.18.2 Cutting, patching or altering the work of the Owner or Others shall be done with the prior written approval of the Owner. Such approval shall not be unreasonably withheld. 
+
+ 
+
+13 
+
+
+
+
+3.19 CLEANING UP 
+
+3.19.1 The Constructor shall regularly remove debris and waste materials at the Worksite resulting from the Work. Prior to discontinuing Work in an area, the Constructor shall clean the area and remove all rubbish and its construction equipment, tools, machinery, waste, and surplus materials. The Constructor shall minimize and confine dust and debris resulting from construction activities. At the completion of the Work, the Constructor shall remove from the Worksite all construction equipment, tools, surplus materials, waste materials, and debris. 
+
+3.19.2 If the Constructor fails to commence compliance with cleanup duties within two (2) Business Days after written notification from the Owner of non-compliance, the Owner may implement appropriate cleanup measures without further notice. 
+
+3.20 ACCESS TO WORK The Constructor shall facilitate the access of the Owner, and Others to Work in progress. 
+
+3.21 COMPLIANCE WITH LAWS The Constructor shall comply with all Laws. The Constructor shall be liable to the Owner for all loss, cost, or expense attributable to any acts or omissions by the Constructor, its employees, subcontractors, and agents for failure to comply with Laws, including fines, penalties, or corrective measures; provided however, the Constructor’s liability is limited to the recovery from and remedies provided by the applicable Subcontractor or Material Supplier. However, liability under this subsection shall not apply if notice to the Owner was given, and advance approval by appropriate authorities, including the Owner, is received. 
+
+3.21.1 The Contract Time shall be equitably adjusted by Change Order and Constructor shall be paid its additional costs plus the Constructor’s Fee resulting from any changes in Laws, including increased taxes, enacted after the date of this Agreement. 
+
+3.22 CONFIDENTIALITY Unless compelled by law, a governmental agency or authority, an order of a court of competent jurisdiction, or a validly issued subpoena, the Constructor shall treat as confidential and not disclose to third-persons, except Subcontractors, Sub-subcontractors, and Material Suppliers as is necessary for the performance of the Work, or use for its own benefit, any of the Owner’s confidential information, know-how, discoveries, production methods, and the like that may be disclosed to the Constructor or which the Constructor may acquire in connection with the Work. The Owner shall treat as confidential information all of the Constructor’s estimating systems and historical and parameter cost data that may be disclosed to the Owner in connection with the performance of this Agreement. The Owner and the Constructor shall each specify those items to be treated as confidential and shall mark them as “Confidential.” In the event of a legal compulsion or other order seeking disclosure of any Confidential Information, the Constructor or Owner, as the case may be, shall promptly notify the other party to permit that party’s legal objection, if necessary. 
+
+ARTICLE 4 OWNER’S RESPONSIBILITIES 
+
+4.1 INFORMATION AND SERVICES Owner’s responsibilities under this article shall be fulfilled with reasonable detail and in a timely manner. 
+
+4.2 FINANCIAL INFORMATION Before commencing the Work and thereafter, at the written request of the Constructor, the Owner shall provide the Constructor with evidence of Project financing. Evidence of such financing shall be a condition precedent to the Constructor’s commencing or continuing the Work. The Constructor shall be notified prior to any material change in Project financing. 
+
+4.3 WORKSITE INFORMATION To the extent the Owner has obtained, or is required elsewhere in the Contract Documents to obtain, the following Worksite information, the Owner shall provide at the Owner’s expense and with reasonable promptness. 
+
+ 
+
+14 
+
+
+
+
+4.3.1 information describing the physical characteristics of the Worksite, including surveys, Worksite evaluations, legal descriptions, data or drawings depicting existing conditions, subsurface conditions, and environmental studies, reports, and investigations. Legal descriptions shall include easements, title restrictions, boundaries, and zoning restrictions. Worksite descriptions shall include existing buildings and other construction and all other pertinent Worksite conditions. Adjacent property descriptions shall include structures, streets, sidewalks, alleys, and other features relevant to the Work. Utility details shall include available services, lines at the Worksite and adjacent thereto, and connection points. The information shall include public and private information, subsurface information, grades, contours, and elevations, drainage data, exact locations and dimensions, and benchmarks that can be used by the Constructor in laying out the Work.; 
+
+4.3.2 tests, inspections, and other reports dealing with environmental matters, Hazardous Material and other existing conditions, including structural, mechanical, and chemical tests, required by the Contract Documents or by Law; and 
+
+4.3.3 any other information or services requested in writing by the Constructor which are required for the Constructor’s performance of the Work and under the Owner’s control. 
+
+4.4 BUILDING PERMIT, FEES, AND APPROVALS Except for those permits and fees related to the Work which are the responsibility of the Constructor, the Owner shall secure and pay for all other permits, approvals, easements, assessments, and fees required for the development, construction, use or occupancy of permanent structures or for permanent changes in existing facilities, including the building permit. 
+
+4.5 MECHANICS AND CONSTRUCTION LIEN INFORMATION Within seven (7) Days after receiving the Constructor’s written request, the Owner shall provide the Constructor with the information necessary to give notice of or enforce mechanics lien rights and, where applicable, stop notices. This information shall include the Owner’s real property interests in the Worksite and the record legal title. 
+
+4.6 CONTRACT DOCUMENTS Unless otherwise specified, the Owner shall provide 3 hard copies of the Contract Documents to the Constructor without cost. 
+
+4.6.1 DOCUMENTS IN ELECTRONIC FORM If the Owner requires that the Owner and Constructor exchange documents and data in electronic or digital form, prior to any such exchange, the Owner and Constructor shall agree on a written protocol governing all exchanges in ConsensusDocs 200.2 or a separate addenda, which, at a minimum, shall specify: (a) the definition of documents and data to be accepted in electronic or digital form or to be transmitted electronically or digitally; (b) management and coordination responsibilities; (c) necessary equipment, software and services; (d) acceptable formats, transmission methods and verification procedures; (e) methods for maintaining version control; (f) privacy and security requirements; and (g) storage and retrieval requirements. In the absence of a written protocol, use of documents and data in electronic or digital form shall be at the sole risk of the recipient. 
+
+4.7 OWNER’S REPRESENTATIVE The Owner’s Representative is Mr. Frank Bakker. The Owner’s Representative shall be fully acquainted with the Project, and shall have authority to bind the Owner in all matters requiring the Owner’s approval, authorization or written notice. If the Owner changes its Representative or its Representative’s authority, the Owner shall immediately notify the Constructor in writing. 
+
+4.8 OWNER’S CUTTING AND PATCHING Cutting, patching, or altering the Work by the Owner or Others shall be done with the prior written approval of the Constructor, which approval shall not be unreasonably withheld. 
+
+ 
+
+15 
+
+
+
+
+4.9 OWNER’S RIGHT TO CLEAN UP In case of a dispute between the Constructor and Others with regard to respective responsibilities for cleaning up at the Worksite, the Owner may implement appropriate cleanup measures after two (2) Business Days’ notice. 
+
+4.10 COST OF CORRECTING DAMAGED OR DESTROYED WORK With regard to damage or loss attributable to the acts or omissions of the Owner or Others and not to the Constructor, the Owner may either (1) promptly remedy the damage or loss or (2) accept the damage or loss. If the Constructor incurs additional costs or is delayed due to such loss or damage, the Constructor shall be entitled to an equitable adjustment in the Contract Time and reimbursement of all of the costs it incurs plus Constructor’s Fee. 
+
+4.11 Notwithstanding the provisions of Section 3.7, Owner shall retain the services of an independent quality control entity and/or testing laboratory that will have authority to inspect and accept the Work and that will have the responsibility of handing over such Work to the Owner along with the Constructor. Owner shall have safety personnel integrated with the Constructor’s safety organization led by Constructor’s Safety Representative who will collectively perform the duties required under Section 3.11 above. 
+
+ARTICLE 5 SUBCONTRACTS 
+
+5.1 SUBCONTRACTORS The Work not performed by the Constructor with its own forces shall be performed by Subcontractors. 
+
+5.2 AWARD OF SUBCONTRACTS AND OTHER CONTRACTS FOR PORTIONS OF THE WORK 
+
+5.2.1 Promptly after the award of this Agreement, the Constructor shall provide the Owner with a written list of the proposed Subcontractors and significant Material Suppliers. The Owner shall decide on which Subcontractors and Material Suppliers can work on Site. If Owner has a reasonable objection to any of the Constructor’s proposed Subcontractor(s0 or Material Suppliers, if applicable, and based on objective criteria to object to any proposed Subcontractor or Material Supplier, Owner shall promptly notify Constructor in writing, and in any case within three (7) business days. Failure to promptly object shall be deemed to constitute acceptance of Constructor’s proposed Subcontractors and Material Suppliers. Subcontractors may engage Lower Tier Subcontractors to perform portions of their scope of work. Such Lower Tier Subcontractors shall be subject to the Owner’s approval. Such approval shall be promptly given and not unreasonably withheld so as not to delay the progress of the Project. 
+
+5.3 BINDING OF SUBCONTRACTORS AND MATERIAL SUPPLIERS The Constructor agrees to bind every Subcontractor and Material Supplier (and require every Subcontractor to so bind its subcontractors and material suppliers) to all the provisions of this Agreement and the Contract Documents as they apply to the Subcontractor’s or Material Supplier’s portions of the Work. 
+
+5.4 CONTINGENT ASSIGNMENT OF SUBCONTRACTS 
+
+5.4.1 If this Agreement is terminated, each subcontract and supply agreement shall be assigned by the Constructor to the Owner, subject to the prior rights of any surety, provided that: 
+
+a) this Agreement is terminated by the Owner pursuant to sections 11.3 or 11.4; and 
+
+b) the Owner accepts such assignment after termination by notifying the Subcontractor and Constructor in writing, and assumes all rights and obligations of the Constructor pursuant to each subcontract agreement. 
+
+5.4.2 If the Owner accepts such an assignment, and the Work has been suspended for more than thirty (30) consecutive Days, following termination, if appropriate, the Subcontractor’s compensation shall be equitably adjusted as a result of the suspension in accordance with the terms of the applicable Subcontract. 
+
+ 
+
+16 
+
+
+
+
+5.5 The Owner selected and approved all Subcontractors and Material Suppliers, and specified all Work and Materials. In no event shall Constructor’s liability for defects in the Work and Materials or failure to perform by any Subcontractor or Material Supplier be greater than the warranties and corrective work provided and performed by the applicable Subcontractors and Material Suppliers. For the avoidance of doubt, Owner shall look solely to the Subcontractors and Material Suppliers for all defective or otherwise nonconforming Work and Materials or other failure to perform by any Subcontractor or Material Supplier. 
+
+ARTICLE 6 TIME 
+
+6.1 DATE OF COMMENCEMENT The Date of Commencement is the Agreement date in ARTICLE 1 unless otherwise set forth below: 
+
+6.1.1 SUBSTANTIAL/FINAL COMPLETION Number of Days for achievement of Substantial Completion of the Work from the Date of Commencement shall be agreed upon between both Parties. Unless otherwise specified in the Certificate of Substantial Completion, both Parties shall agree upon the date of Final Completion. The deadlines for Substantial and Final Completion are subject to adjustments as provided for in the Contract Documents or as further agreed upon between both Parties. 
+
+6.1.2 Time is an important consideration for this Agreement and the Contract Documents. 
+
+6.1.3 Unless instructed by the Owner in writing, the Constructor shall not knowingly commence the Work before the effective date of insurance to be provided by the Constructor or the Owner as required by the Contract Documents. 
+
+6.2 SCHEDULE OF THE WORK 
+
+6.2.1 Before submitting the first application for payment, the Constructor shall submit to the Owner a Schedule of the Work showing the dates on which the Constructor plans to commence and complete various parts of the Work, including dates on which information and approvals are required from the Owner. The Constructor shall comply with the approved Schedule of the Work, unless directed by the Owner to do otherwise or the Constructor is otherwise entitled to an adjustment in the Contract Time. The Constructor shall update the Schedule of the Work on a monthly basis or at appropriate intervals as required by the conditions of the Work and the Project. 
+
+6.2.2 The Owner may determine the sequence in which the Work shall be performed, provided it does not unreasonably interfere with the Schedule of the Work. The Owner may require the Constructor to make reasonable changes in the sequence at any time during the performance of the Work in order to facilitate the performance of work by the Owner or Others. To the extent such changes increase the Constructor’s costs or time, the Contract Time shall be equitably adjusted, and the Constructor shall be paid its additional costs plus Constructor’s Fee. 
+
+6.3 DELAYS AND EXTENSIONS OF TIME 
+
+6.3.1 If the Constructor is delayed at any time in the commencement or progress of the Work by any cause beyond the control of the Constructor, the Constructor shall be entitled to an equitable extension of the Contract Time. Examples of causes beyond the control of the Constructor include, but are not limited to, the following: (a) acts or omissions of the Owner or Others; (b) changes in the Work or the sequencing of the Work ordered by the Owner, or arising from decisions of the Owner that impact the time of performance of the Work; (c) encountering Hazardous Materials, or concealed or unknown conditions; (d) delay authorized by the Owner pending dispute resolution or 
+
+ 
+
+17 
+
+
+
+
+suspension by the Owner under Section 11; (e) transportation delays not reasonably foreseeable; (f) labor disputes not involving the Constructor; (g) general labor disputes impacting the Project but not specifically related to the Worksite; (h) fire; (i) Terrorism; (j) epidemics; (k) adverse governmental actions; (l) unavoidable accidents or circumstances; (m) adverse weather conditions not reasonably anticipated. The Constructor shall submit any requests for equitable extensions of Contract Time in accordance with ARTICLE 8. 
+
+6.3.2 In addition, if the Constructor incurs additional costs as a result of a delay that is caused by any of the items described in Section 6.3.1 above or any similar cause, the Constructor shall be entitled to be paid all costs incurred plus Constructor’s Fee. 
+
+6.3.3 NOTICE OF DELAYS If delays to the Work are encountered for any reason, the Constructor shall provide prompt written notice to the Owner of the cause of such delays after the Constructor first recognizes the delay. The Owner and the Constructor agree to take reasonable steps to mitigate the effect of such delays. 
+
+6.4 If the Constructor requests an equitable extension of the Contract Time and payment of additional costs plus Constructor’s Fee as a result of a delay described in the section above, the Constructor shall give the Owner written notice of the claim in accordance with section 8.4. If the Constructor causes delay in the completion of the Work, the Owner shall be entitled to recover its additional costs subject to section. 
+
+6.5 The Owner shall process any such claim against the Constructor in accordance with ARTICLE 8. 
+
+6.6 LIQUIDATED DAMAGES 
+
+6.6.1 SUBSTANTIAL COMPLETION The Owner and the Constructor agree that this Agreement shall not provide for the imposition of liquidated damages based on the Date of Substantial Completion. 
+
+6.6.2 FINAL COMPLETION The Owner and the Constructor agree that this Agreement shall not provide for the imposition of liquidated damages based on the Date of Final Completion. 
+
+6.7 LIMITED MUTUAL WAIVER OF CONSEQUENTIAL DAMAGES Excluding losses covered by insurance required by the Contract Documents, the Owner and the Constructor agree to waive all claims against each other for any consequential damages that may arise out of or relate to this Agreement. The Owner agrees to waive damages, including but not limited to the Owner’s loss of use of the Project, any rental expenses incurred, loss of income, profit, or financing related to the Project, as well as the loss of business, loss of financing, loss of profits not related to this Project, loss of reputation, or insolvency. The Constructor agrees to waive damages, including but not limited to loss of business, loss of financing, loss of profits not related to this Project, loss of bonding capacity, loss of reputation, or insolvency. The provisions of this section shall also apply to the termination of this Agreement and shall survive such termination. 
+
+6.7.1 The Owner and the Constructor shall require similar waivers in contracts with Subcontractors and Others retained for the Project. 
+
+ARTICLE 7 COST OF THE WORK 
+
+The Owner agrees to pay the Constructor for the Cost of the Work as defined in this Article. This payment shall be in addition to the Constructor’s Fee. The Constructor’s Fee consists of 4% for profit and 5% for Overhead. The Cost of the Work includes: 
+
+7.1 wages paid for labor in the direct employ of the Constructor in the performance of the Work; 
+
+ 
+
+18 
+
+
+
+
+7.2 salaries of the Constructor’s employees when stationed at the field office, in whatever capacity employed, employees engaged on the road expediting the production or transportation of material and equipment, and supervisory employees from the principal or branch office performing the functions listed below on the attached Exhibit C; 
+
+7.3 cost of all employee benefits and taxes including but not limited to workers’ compensation, unemployment compensation, social security, health, welfare, retirement, and other fringe benefits as required by law, labor agreements, or paid under the Constructor’s standard personnel policy, insofar as such costs are paid to employees of the Constructor who are included in the Cost of the Work in the two subsections immediately above shall be included in the rates schedule approved by the Owner (Exhibit C); 
+
+7.4 reasonable transportation, accommodation, travel, hotel, and moving expenses of the Constructor’s personnel incurred in connection with the Work; alternatively, the Constructor’s personnel shall be paid a per diem amount as indicated in the rates schedule approved by the Owner (Exhibit C); 
+
+7.5 cost of all materials, supplies, and equipment incorporated in the Work, including costs of inspection and testing if not provided by the Owner, transportation, storage, and handling; 
+
+7.6 payments made by the Constructor to subcontractors for Work performed under this Agreement; 
+
+7.7 cost, including transportation and maintenance of all materials, supplies, equipment, temporary facilities, and hand tools not owned by the workers that are used or consumed in the performance of the Work, less salvage value or residual value; and cost less salvage value on such items used, but not consumed, that remain the property of the Constructor; 
+
+7.8 rental charges of all necessary machinery and equipment, exclusive of hand tools owned by workers, used at the Worksite, whether rented from the Constructor or Others, including installation, repair and replacement, dismantling, removal, maintenance, transportation, and delivery costs. Rental from unrelated third parties shall be reimbursed at actual cost. Rentals from the Constructor or its affiliates, subsidiaries, or related parties shall be reimbursed at the prevailing rates in the locality of the Worksite up to eighty-five percent (85%) of the value of the piece of equipment; 
+
+7.9 cost of the premiums for all insurance and surety bonds which the Constructor is required to procure or deems necessary, and approved by the Owner, including any additional premium incurred as a result of any increase in the Cost of the Work; 
+
+7.10 sales, use, gross receipts, or other taxes, tariffs, or duties related to the Work for which the Constructor is liable; 
+
+7.11 permits, fees, licenses, tests, and royalties; 
+
+7.12 reproduction costs, photographs, facsimile transmissions, long-distance telephone calls, data processing services, postage, express delivery charges, data transmission, telephone service, and computer-related costs at the Worksite, to the extent such items are used and consumed in the performance of the Work or are not capable of use after completion of the Work; 
+
+7.13 all water, power, and fuel costs necessary for the Work; 
+
+7.14 cost of removal of all hazardous and non-hazardous substances, debris, and waste materials; 
+
+7.15 costs incurred due to an emergency affecting the safety of persons or property; 
+
+7.16 legal, mediation, and arbitration fees and costs, other than those arising from disputes between the Owner and the Constructor, reasonably and properly resulting from the Constructor’s performance of the Work; 
+
+ 
+
+19 
+
+
+
+
+7.17 all costs directly incurred in the performance of the Work or in connection with the Project, and not included in the Constructor’s Fee as set forth in Article 2, which are reasonably inferable from the Contract Documents. 
+
+7.18 Costs of onsite meals that Constructor determines to be reasonably necessary related to onsite meetings attended by any of management representatives of Constructor, Owner, Subcontractors and Material Suppliers. Only the overhead portion of Constructor’s Fee shall apply to these costs; 
+
+7.19 DISCOUNTS All discounts for prompt payment shall accrue to the Owner to the extent such payments are made directly by the Owner. To the extent payments are made with funds of the Constructor, all cash discounts shall accrue to the Constructor. All trade discounts, rebates, and refunds, and all returns from sale of surplus materials and equipment, shall be credited to the Cost of the Work. 
+
+7.20 FINANCIAL RECORDS Constructor shall keep such full and detailed accounts as are necessary for proper financial management under this Agreement. Constructor shall maintain a complete set of all books and records prepared or used by Constructor with respect to the Project. Owner shall be afforded access to all Constructor’s records, books, correspondence, instructions, drawings, receipts, vouchers, memoranda, and similar data relating to this Agreement. Constructor shall preserve all such records for a period of three years after the final payment. Constructor agrees to use reasonable skill and judgment in the preparation of cost estimates, but does not warrant or guarantee them. 
+
+ARTICLE 8 CHANGES 
+
+Changes in the Work that are within the general scope of this Agreement shall be accomplished, without invalidating this Agreement, by Change Order, and Interim Directed Change. 
+
+8.1 CHANGE ORDER 
+
+8.1.1 The Constructor may request or the Owner may order changes in the Work or the timing or sequencing of the Work that impacts the Constructor’s costs or the Contract Time. All such changes in the Work that affect Contract Time or Constructor’s costs shall be formalized in a Change Order and processed in accordance with this article. 
+
+8.1.2 For changes in the Work, the Owner and the Constructor shall negotiate an appropriate adjustment to the Contract Time and payment of the Constructor’s additional costs in good faith and conclude negotiations as expeditiously as possible. Acceptance of the Change Order and any adjustment in the Contract Time and payment of additional costs shall not be unreasonably withheld. Constructor shall be entitled to Constructor’s Fee on all additional costs. 
+
+8.1.3 NO OBLIGATION TO PERFORM The Constructor shall not be obligated to perform changes in the Work that impact its costs or Contract Time until a Change Order has been executed or a written Interim Directed Change has been issued. 
+
+8.2 INTERIM DIRECTED CHANGE 
+
+8.2.1 The Owner may issue a written Interim Directed Change directing a change in the Work prior to reaching agreement with the Constructor on the adjustment, if any, in the Contract Time and payment of additional costs and Constructor’s Fee. 
+
+8.2.2 The Owner and the Constructor shall negotiate expeditiously and in good faith for appropriate adjustments, as applicable, to the Contract Time and payment of additional costs and Constructor’s Fee arising out of an Interim Directed Change. As the changed Work is performed, the Constructor shall submit its costs on the same basis as the Costs of the Work described in Article 7 with its application for payment beginning with the next application for payment within thirty (30) Days of the issuance of the Interim Directed Change. If there is a dispute as to the cost to the Owner, the Owner shall pay the Constructor fifty percent (50%) of its estimated cost to perform such Work. In such event, the Parties reserve their rights as to the disputed amount, subject to the requirements of ARTICLE 12. 
+
+ 
+
+20 
+
+
+
+
+8.2.3 When the Owner and the Constructor agree upon the adjustment in the payments of additional costs and Constructor’s Fee or the Contract Time, for a change in the Work directed by an Interim Directed Change, such agreement shall be the subject of a Change Order. The Change Order shall include all outstanding Interim Directed Changes on which the Owner and Constructor have reached agreement on Contract Time and Constructor’s additional costs and Constructor’s Fee issued since the last Change Order. 
+
+8.3 DETERMINATION OF COST 
+
+8.3.1 Owner shall pay Constructor for all of Constructor’s additional costs resulting from a change in the Work based on the Costs of the Work defined in Article 7 plus Constructor’s Fee. 
+
+8.4 CLAIMS FOR ADDITIONAL COST OR TIME Except as provided in subsection 6.3.2 for any claim for an increase in the Contract Time and for additional costs and Constructor’s Fee, the Constructor shall give the Owner written notice of the claim within fourteen (14) Days after the occurrence giving rise to the claim or within fourteen (14) Days after the Constructor first recognizes the condition giving rise to the claim, whichever is later. Except in an emergency, notice shall be given before proceeding with the Work. Thereafter, the Constructor shall submit written documentation of its claim, including appropriate supporting documentation, within twenty-one (21) Days after giving notice, unless the Parties mutually agree upon a longer period of time. The Owner shall respond in writing denying or approving the Constructor’s claim no later than fourteen (14) Days after receipt of the Constructor’s claim. Owner’s failure to so respond shall be deemed a denial of the claim. Any change in the Contract Time and payment of additional costs resulting from such claim shall be authorized by Change Order. 
+
+ARTICLE 9 PAYMENT 
+
+9.1 PROGRESS PAYMENTS The Constructor shall submit to Owner a monthly application for payment no later than the 10th day of the calendar month for the preceding thirty (30) days. The application for payment shall consist of the Cost of the Work performed up to the 30th day of the month, including payments to Subcontractors and Material Suppliers, and including the cost of material brought to the Worksite or at other locations approved by Owner, along with a proportionate share of the Constructor’s Fee. Approval of payment applications for such stored materials stored off-site shall be conditioned upon submission by Constructor of bills of sale and applicable insurance or such other procedures satisfactory to Owner to establish Owner’s title to such materials, or otherwise to protect Owner’s interest, including transportation to the Worksite. Before submitting the next application for payment, Constructor shall furnish to Owner a statement accounting for the disbursement of funds received under the previous application. The extent of such statement shall be as agreed upon between the Parties. 
+
+9.2 Within seven (7) Days after receipt of each monthly application for payment, Owner shall give written notice to Constructor of Owner’s acceptance or rejection, in whole or in part, of such application for payment. Within seven (7) Days after accepting such application, Owner shall pay directly to Constructor the appropriate amount for which application for payment is made, less amounts previously paid by Owner. If such application is rejected in whole or in part, Owner shall indicate the reasons for its rejection. If the Parties cannot agree on a revised amount, then, within fifteen (15) Days after its initial rejection in part of such application, Owner shall pay directly to Constructor the appropriate amount for those items not rejected by Owner, for which application for payment is made, less amounts previously paid by Owner. Those items rejected by Owner shall be due and payable when the reasons for the rejection have been removed. Owner shall not retain any funds from an approved Application for Payment. 
+
+ 
+
+21 
+
+
+
+
+9.3 ADJUSTMENT OF CONSTRUCTOR’S PAYMENT APPLICATION The Owner may adjust or reject a payment application or nullify a previously approved payment application, in whole or in part, as may reasonably be necessary to protect Owner from loss or damage based upon the following, to the extent that Constructor is responsible for such under this Agreement: 
+
+9.3.1 the Constructor’s repeated failure to perform the Work as required by the Contract Documents; 
+
+9.3.2 the Constructor’s failure to properly pay subcontractors or materials suppliers in connection with the Work following receipt of such payment from the Owner; 
+
+9.3.3 reasonable evidence of delay in performance of the Work such that the Work will not be completed within the Contract Time; and 
+
+9.3.4 unless arising from Owner’s non-payment for the performance of the Work, uninsured third-party claims involving the Constructor or reasonable evidence demonstrating that third-party claims are likely to be filed unless and until the Constructor furnishes the Owner with adequate security in the form of a surety bond, letter of credit, or other collateral or commitment which is sufficient to discharge such claims if established. 
+
+9.3.5 No later than seven (7) Days after receipt of an application for payment, the Owner shall give written notice to the Constructor disapproving or nullifying it or a portion of it, specifying the reasons for the disapproval or nullification. When the above reasons for disapproving or nullifying an application for payment are removed, payment shall be made for the amounts previously withheld. 
+
+9.4 PAYMENT DELAY If for any reason not the fault of the Constructor, the Constructor does not receive a progress payment from the Owner within seven (7) Days after the time such payment is due, the Constructor, upon giving seven (7) Days’ written notice to the Owner, and without prejudice to and in addition to any other legal remedies, may stop Work until payment of the full amount owing to the Constructor has been received. 
+
+9.5 SUBSTANTIAL COMPLETION When Substantial Completion of the Work or a designated portion thereof is achieved, the Constructor shall prepare a Certificate of Substantial Completion that shall establish the date of Substantial Completion, and the respective responsibilities of the Owner and Constructor for interim items such as security, maintenance, utilities, insurance, and damage to the Work, and fixing the time for completion of all items on the list accompanying the Certificate. The Certificate of Substantial Completion shall be submitted by the Constructor to the Owner for written acceptance of responsibilities assigned in the Certificate. Unless otherwise provided in the Certificate of Substantial Completion, warranties required by the Contract Documents shall commence on the date of Substantial Completion of the Work or a designated portion. 
+
+9.6 FINAL COMPLETION When final completion has been achieved, the Constructor shall prepare for the Owner’s acceptance a final application for payment stating that to the best of Constructor’s knowledge, and based on the Owner’s inspections, the Work has reached final completion in accordance with the Contract Documents. 
+
+9.7 Final payment shall be made to the Constructor within twenty (20) Days after the Constructor has submitted a complete and accurate application for final payment and the following submissions: 
+
+9.7.1 an affidavit declaring any indebtedness connected with the Work, e.g. payrolls or invoices for materials or equipment, to have been paid, satisfied, or to be paid with the proceeds of final payment, so as not to encumber the Owner’s property; 
+
+9.7.2 as-built drawings, manuals, copies of warranties, and all other close-out documents required by the Contract Documents; 
+
+9.7.3 release of any liens, conditioned on final payment being received; 
+
+ 
+
+22 
+
+
+
+
+9.7.4 consent of any surety, if applicable; and 
+
+9.7.5 a report of any accidents or injuries experienced by the Constructor or its subcontractors at the Worksite. 
+
+9.8 Claims not reserved by the Owner in writing with the making of final payment shall be waived except for claims relating to liens or similar encumbrances, warranties, Defective Work, and latent defects. Unless the Constructor provides written identification of unsettled claims known to the Constructor at the time of making application for final payment, acceptance of final payment constitutes a waiver of such claims. 
+
+9.9 LATE PAYMENT Payments due but unpaid shall bear interest of 1.5% per month from the date payment is due. 
+
+9.10 OPTIONAL MOBILIZATION AND INITIAL PROCUREMENT PAYMENT Owner may in its sole discretion, including in the interest of accelerating the implementation of the Work, elect to make an initial mobilization payment to Constructor of up to twenty-five percent (25%) of the projected Cost of the Work (the “Mobilization Advance”), accompanied by a notice specifying the Work to be initiated and the Materials to be procured by Constructor utilizing the Mobilization Advance. Constructor shall amortize and credit the Mobilization Advance against subsequent invoices in a manner to be agreed by Owner. 
+
+ARTICLE 10 INDEMNITY, INSURANCE, AND BONDS 
+
+10.1 INDEMNITY 
+
+10.1.1 To the fullest extent permitted by law, the Constructor shall indemnify and hold harmless the Owner, the Owner’s officers, directors, members, consultants, agents, and employees, and Others (the Indemnitees) from all claims for bodily injury and property damage, other than to the Work itself and other property insured, including reasonable attorneys’ fees, costs and expenses, that may arise from the performance of the Work, but only to the extent caused by the negligent acts or omissions of the Constructor, Subcontractors, or anyone employed directly or indirectly by any of them or by anyone for whose acts any of them may be liable; provided however, that Constructor’s indemnity obligation for negligent acts and omissions of the Constructor and its Subcontractors Material Suppliers or anyone directly or indirectly employed by those Subcontractors and Material Suppliers shall be limited to the amounts actually recovered from those Subcontractors and Material Suppliers. The Constructor shall be entitled to reimbursement of any defense costs paid above the Constructor’s percentage of liability for the underlying claim to the extent provided for by the subsection below. 
+
+10.1.2 To the fullest extent permitted by law, the Owner shall indemnify and hold harmless the Constructor, its officers, directors, members, consultants, agents, and employees, Subcontractors, or anyone employed directly or indirectly by any of them or anyone for whose acts any of them may be liable from all claims for bodily injury and property damage, other than property insured, including reasonable attorneys’ fees, costs and expenses, that may arise from the performance of work by the Owner or Others but only to the extent caused by the negligent acts or omissions of the Owner or Others. The Owner shall be entitled to reimbursement of any defense costs paid above the Owner’s percentage of liability for the underlying claim to the extent provided for by the subsection above. 
+
+10.1.3 NO LIMITATION ON LIABILITY In any and all claims against the Indemnitees by any employee of any indemnitor, anyone directly or indirectly employed by the indemnitor or anyone for whose acts the indemntor may be liable, the indemnification obligation shall not be limited in any way by any limitation on the amount or type of damages, compensation or benefits payable by or for the indemnitor under workers’ compensation acts, disability benefit acts, or other employment benefit acts; provided however, the Constructor’s liability for such indemnities is limited to the actual recovery from and remedies provided by the applicable Subcontractor or Material Supplier. 
+
+ 
+
+23 
+
+
+
+
+10.2 INSURANCE 
+
+10.2.1 Insurance: Constructor shall procure and maintain in full force and effect, and shall require its subcontractors to procure and maintain, at all times during the term of this contract, the minimum coverages and minimum limits as set forth in this Contract. In the event that Constructor voluntarily obtains additional insurance, OCI Beaumont LLC shall be entitled to the benefits thereof (except to the extent mandated by applicable law). The insurance purchased by Constructor, and required of subcontractors by Constructor, for coverage of Constructor and OCI Beaumont LLC is the consolidated insurance program for the Work. The Parties intend that this consolidated insurance program be both Constructor controlled and Constructor sponsored, subject only to Constructor’s obligation to assure the purchase of insurance to comply with the coverages and limits specified in this Contract. Upon request Constructor shall immediately provide certified copies of policies. 
+
+In addition to any other insurance obligations or requirements set forth in this Contract, and without limiting the indemnity and insurance obligations of Constructor or and its insurers, at any and all times during the term of this Contract, Constructor shall, at Constructor’s sole cost and expense, procure and maintain in full force and effect, and shall require its subcontractors to procure and maintain, at all times during the term of this contract, sufficient insurance or OCI Beaumont LLC-approved self-insurance (i) as may be required by law, and (ii) to protect Constructor and OCI Beaumont LLC from third-party claims arising out of or connected with the performance of Work hereunder. 
+
+Constructor shall be paid on a cost reimbursable basis plus Constructor’s Fee as set forth in Section 7.9 for all Cost of the insurance coverages and minimum limits required in this Contract. 
+
+10.2.2 Insurers and Underwriters. Insurers and underwriters shall be satisfactory to Company, authorized to do business in the jurisdiction where the Services are to be performed, and have A.M. Best rating of at least A- and financial rating of at least VII. All policies shall have adequate territorial and navigation limits for the location of the Work, including operations over water, if applicable. 
+
+10.2.3 Primary and Noncontributory. Whether required or not required by this Contract, all insurance policies and coverage acquired by Constructor shall extend to and protect OCI Beaumont LLC to the fullest extent. The amount of such coverage, including excess and umbrella insurance, shall be primary to, and receive no contribution from, any other insurance or self-insurance programs maintained by or on behalf of or benefiting OCI Beaumont LLC. THE LIMITS AND COVERAGE OF THE INSURANCE OBTAINED BY Constructor SHALL IN NO WAY LIMIT THE LIABILITIES OR OBLIGATIONS ASSUMED BY Constructor. 
+
+10.2.4 Additional Insured. All of Constructor’s insurance policies, whether or not coverage is required by this Contract, and excluding Worker’s Compensation, shall be endorsed to name OCI Beaumont LLC as additional insureds. Endorsement shall be on a form substantially equivalent to ISO Form “20 10 11 85” covering both ongoing operations and products/completed operations and covering the sole, joint, concurrent, or contributory negligence of OCI Beaumont LLC. 
+
+10.2.5 Waiver of Subrogation. All of Constructor’s insurance policies, whether or not coverage is required by this Contract, shall be endorsed to contain a waiver on the part of the insurer, by subrogation or otherwise, of all rights against OCI Beaumont LLC. Endorsement shall be on a broad form basis substantially equivalent to ISO Form ‘CG 24 04 11 85”, covering with no limitations. 
+
+10.2.6 Cancellation or Alteration. All of Constructor’s insurance policies, whether or not coverage is required by this Contract, shall be endorsed to provide that they may not be materially altered or cancelled without at least thirty (30) days prior written notice to OCI Beaumont LLC. 
+
+10.2.7 Premiums, Deductibles and Self Insured Retentions. The cost for any and all premiums, deductibles and self-insured retentions shall be solely for the account of Constructor. Deductibles and self-insured retention amounts shall be disclosed on the certificate of insurance and subject to OCI Beaumont LLC’s approval. 
+
+ 
+
+24 
+
+
+
+
+10.2.8 Declarations Pages and Endorsements. Prior to the commencement of Services, Constructor shall furnish OCI Beaumont LLC with current Declarations Pages and Endorsements, on forms provided by or acceptable to OCI Beaumont LLC, evidencing the coverage and conditions required herein. 
+
+ 
+
+ 
+
+i)
+
+In the event that Constructor fails to provide OCI Beaumont LLC with such documents, OCI Beaumont LLC has the right, but not the obligation, after five (5) days written notice to Constructor, to obtain insurance on behalf of Constructor, and to charge the cost to Constructor or deduct the cost from payments to Constructor. 
+
+ 
+
+ 
+
+ii)
+
+Failure by Constructor to acquire and/or maintain the insurance coverage and limits set forth in this Contract shall not act, nor shall it be construed, as relieving Constructor from its obligations and responsibilities under this Contract, including without limitation, Constructor’s indemnification obligations hereunder. In the event Constructor fails to obtain any of the required insurance, Constructor shall itself be liable to OCI Beaumont LLC as an insurer to the same extent as if such insurance had been obtained. 
+
+ 
+
+ 
+
+iii)
+
+OCI Beaumont LLC shall not be obligated to make any payments to Constructor until properly and fully executed Declarations Pages and Endorsements have been provided to OCI Beaumont LLC; however, commencement of Services by Constructor or payment by OCI Beaumont LLC shall not constitute a waiver by OCI Beaumont LLC of any rights in this Contract. 
+
+10.2.9 Commercial General Liability Insurance. Occurrence form with minimum limits of liability for bodily injury, death, and property damage of $1,000,000 combined single limit per occurrence, and an aggregate annual minimum limit of $2,000,000. Coverage shall include: 
+
+ 
+
+ 
+
+i)
+
+Sudden and Accidental Pollution Liability, including cleanup costs; 
+
+ 
+
+ 
+
+ii)
+
+Broad Form Blanket Contractual Liability specifically covering all liabilities and indemnifications assumed under this Contract; 
+
+ 
+
+ 
+
+iii)
+
+Independent Constructors Coverage for work let or sublet, with no exclusions, restrictions or limitations; 
+
+ 
+
+ 
+
+iv)
+
+Premises/Operations; 
+
+ 
+
+ 
+
+v)
+
+“Action Over/Indemnity Buyback” and deletion of any provisions that limit or exclude coverage of claims made by Constructor’s employees against OCI Beaumont LLC on the basis of their employment relationship. 
+
+ 
+
+ 
+
+vi)
+
+Products/Completed Operations; 
+
+ 
+
+ 
+
+vii)
+
+Removal of any exclusions, restrictions, or limitation relating to explosion, collapse, or underground hazards; 
+
+ 
+
+ 
+
+viii)
+
+If Services performed are on, over, or in close proximity to navigable waters or vessels or in any way involves maritime workers, 
+
+ 
+
+ 
+
+a)
+
+In Rem Endorsement; 
+
+ 
+
+ 
+
+b)
+
+Deletion of the watercraft exclusion under both the General Liability and Contractual Liability coverage parts. 
+
+ 
+
+25 
+
+
+
+
+10.2.10 Commercial Automobile Liability Insurance. Minimum limits of liability for injury, death or property damage of $1,000,000 combined single limit per occurrence; Coverage shall include: 
+
+ 
+
+ 
+
+i)
+
+Owned, hired and non-owned vehicles; 
+
+ 
+
+ 
+
+ii)
+
+Contractor’s employees as Insureds. 
+
+10.2.11 Workers’ Compensation and Employer’s Liability Insurance. In accordance with statutory requirements of the states in which Services are being performed and complying with federal laws and requirements, with minimum Employer’s Liability limits of $1,000,000 per accident. No substitute policies shall be permitted. At minimum, Coverage shall include; 
+
+ 
+
+ 
+
+i)
+
+Occupational Disease; 
+
+ 
+
+ 
+
+ii)
+
+Other States Insurance; 
+
+ 
+
+ 
+
+iii)
+
+Voluntary Compensation; 
+
+ 
+
+ 
+
+iv)
+
+Alternate Employer and Borrowed Servant Endorsements in favor of OCI Beaumont LLC; 
+
+ 
+
+ 
+
+v)
+
+If Services performed are on, over, or in close proximity to navigable waters or vessels or in any way involve maritime workers: 
+
+ 
+
+ 
+
+a)
+
+In Rem Endorsement 
+
+ 
+
+ 
+
+b)
+
+Protection for liabilities under the United States Longshore and Harbor Worker’s Compensation Act, as amended, 1984, and extended by the Outer Continental Shelf Lands Act; protection for liability under the Jones Act, including transportation, wages, maintenance and cure. Admiralty Act, and Death on the High Seas Act; Gulf of Mexico Territorial Extension. 
+
+10.2.12 Watercraft Insurance. If the performance of this Agreement requires the use of watercraft, Constructor shall, at minimum, carry the following insurance: 
+
+ 
+
+ 
+
+i)
+
+Full Form Hull & Machinery Insurance (including Collision Liability) with the sistership clause unamended, and minimum limits of not less than the full value of vessels used in performing operations and with navigational limits adequate for Constructor to perform the work and services hereunder. Where the vessel(s) shall engage in towing operations, said insurance shall carry full Tower’s liability with the sistership clause unamended, Said policy shall be endorsed to provide that additional assureds may, but not be obligated to sue and labor. Such insurance shall apply to all watercraft owned, operated, leased or chartered by Constructor (or its subcontractors, if any). 
+
+ 
+
+ 
+
+ii)
+
+Full Form Protection & Indemnity Insurance (including Collision Liability and Tower’s Liability) with a limit of not less than $1,000,000 each accident or occurrence for all watercraft, owned, operated, leased or chartered by Constructor (or its subcontractors, if any). The Protection & Indemnity policy shall be endorsed as follows: 
+
+ 
+
+ 
+
+a)
+
+to Include voluntary removal of wreck/removal of debris coverage (with a minimum limit of liability of not less than $1,000,000); 
+
+ 
+
+ 
+
+b)
+
+to delete any language in any policy which reduces or limits coverage for OCI Beaumont LLC (as herein defined) in the event of the Limitation of Liability statute; and 
+
+ 
+
+ 
+
+c)
+
+to provide full coverage for OCI Beaumont LLC without regard to liability “as owner” of the vessel and to delete any “as owner” clause and any other language which limits, or purports to limit, the coverage afforded to an insured or an additional insured who is not a ship owner, and to include coverage for all additional insureds in any capacity in which they may be held liable. 
+
+ 
+
+26 
+
+
+
+
+10.2.13 Umbrella / Excess Liability Insurance. Umbrella/Excess Liability Insurance with minimum combined single limits of $10,000,000.00. Coverage shall include: 
+
+ 
+
+ 
+
+i)
+
+Coverage at least as broad and on a following form basis in excess of the underlying minimum coverages required in Section I, J, K, L, M, N, and O of this Agreement; 
+
+ 
+
+ 
+
+ii)
+
+Specifically include Constructor’s contractual liability; 
+
+ 
+
+ 
+
+iii)
+
+Aggregate limits, if any, shall apply separately to each annual policy period. 
+
+10.2.14 Equipment/Property Insurance. Limits shall be in an amount of not less than the full replacement cost thereof. Coverage shall be on an “All Risk” form and replacement cost basis. Coverage shall include: 
+
+ 
+
+ 
+
+i)
+
+‘All-risks’ of physical loss of or damage to property and equipment owned, leased or rented by, or otherwise in the care, custody or control of, Constructor or its subcontractors, including employees of either, including but not limited to equipment, rigs, specialty tools and property used in the course of construction, including transit; 
+
+ 
+
+ 
+
+ii)
+
+Where applicable, such insurance shall be amended to include coverage for the perils of flood, earthquake (including subsidence) and exceeding the lifting capacity of machinery in operation; 
+
+ 
+
+ 
+
+iii)
+
+Any co-insurance requirements shall be waived. 
+
+10.2.15 Professional Liability Insurance. If Work shall ever involve design, engineering, consulting or other professional services, Professional Liability Insurance with minimum limits of $2,000,000 combined single limit. 
+
+10.3 PROPERTY INSURANCE 
+
+10.3.1 Before commencing the Work, the Owner shall obtain and maintain a Builder’s Risk Policy upon the entire Project for the full cost of replacement at the time of loss. This insurance shall also name the Constructor, Subcontractors, Sub-subcontractors, and Material Suppliers as insureds. This insurance shall be written as a Builder’s Risk Policy or equivalent form to cover all risks of physical loss except those specifically excluded by the policy, and shall insure (a) at least against the perils of fire, lightning, explosion, windstorm, hail, smoke, aircraft (except aircraft, including helicopter, operated by or on behalf of the Constructor) and vehicles, riot and civil commotion, theft, vandalism, malicious mischief, debris removal, flood, earthquake, earth movement, water damage, wind damage, testing if applicable, collapse however caused, and (b) damage resulting from defective design, workmanship, or material. The Owner shall be solely responsible for any deductible amounts or coinsurance penalties. This policy shall provide for a waiver of subrogation in favor of the Constructor, Subcontractors, Lower Tier Subcontractors, and Material Suppliers. This insurance shall remain in effect until final payment has been made or until no person or entity other than the Owner has an insurable interest in the property to be covered by this insurance, whichever is sooner. Partial occupancy or use of the Work shall not commence until the Owner has secured the consent of the insurance company or companies providing the coverage required in this subsection. Before commencing the Work, the Owner shall provide a copy of the property policy or policies obtained in compliance with this subsection. 
+
+10.3.2 If the Owner does not intend to purchase the property insurance required by this Agreement, including all of the coverages and deductibles described herein, the Owner shall give written notice to the Constructor before the Work is commenced. The Constructor may then provide insurance to protect its interests and the interests of the Subcontractors and Lower Tier Subcontractors, including the coverage of deductibles. The cost of this insurance shall be charged to the Owner in a Change Order. The Owner shall be responsible for all of Constructor’s costs reasonably attributed to the Owner’s failure or neglect in purchasing or maintaining the coverage described above. 
+
+ 
+
+27 
+
+
+
+
+10.3.2.1 If the Owner does not obtain insurance to cover the risk of physical loss resulting from Terrorism, the Owner shall give written notice to the Constructor before the Work commences. The Constructor may then provide insurance to protect its interests and the interests of the Subcontractors and Lower Tier Subcontractors against such risk of loss, including the coverage of deductibles. The cost of this insurance shall be charged to the Owner in a Change Order. 
+
+10.3.3 The Owner and the Constructor waive all rights against each other and their respective employees, agents, Constructors, subcontractors and subsubcontractors, and design professionals for damages caused by risks covered by the property insurance except such rights as they may have to the proceeds of the insurance and such rights as the Constructor may have for the failure of the Owner to obtain and maintain property insurance in compliance with subsection 10.3. 
+
+10.3.4 To the extent of the limits of the Constructor’s CGL specified in subsection 10.2.9 or 10 million dollars (whichever is more, the Constructor shall indemnify and hold harmless the Owner against any and all liability, claims, demands, damages, losses, and expenses, including attorneys’ fees, in connection with or arising out of any damage or alleged damage to any of the Owner’s existing adjacent property that may arise from the performance of the Work, to the extent caused by the negligent acts or omissions of the Constructor, Subcontractor, or anyone employed directly or indirectly by any of them or by anyone for whose acts any of them may be liable. 
+
+10.3.5 RISK OF LOSS Except to the extent a loss is covered by applicable insurance, risk of loss or damage to the Work shall be upon the Constructor until the Date of Substantial Completion, unless otherwise agreed to by the Parties. 
+
+10.4 OWNER’S INSURANCE 
+
+10.4.1 BUSINESS INCOME INSURANCE The Owner may procure and maintain insurance against loss of use of the Owner’s property caused by fire or other casualty loss. 
+
+10.4.2 OWNER’S LIABILITY INSURANCE The Owner shall either self-insure or obtain and maintain its own liability insurance for protection against claims arising out of the performance of this Agreement, including, without limitation, loss of use and claims, losses, and expenses arising out of the Owner’s acts or omissions. 
+
+10.5 ADDITIONAL GENERAL LIABILITY COVERAGE 
+
+10.5.1 The Owner shall not require the Constructor to purchase and maintain additional liability coverage, primary to the Owner’s coverage under subsection 10.5. 
+
+10.5.2 If required by the above subsection, the additional liability coverage required of the Constructor shall be: 
+
+ 
+
+ 
+
+i)
+
+Additional Insured. The Owner shall be named as an additional insured on the Constructor’s CGL specified for operations and completed operations, but only with respect to liability for bodily injury, property damage, or personal and advertising injury to the extent caused by the negligent acts or omissions of the Constructor, or those acting on the Constructor’s behalf, in the performance of the Constructor’s Work for the Owner at the Worksite. 
+
+ 
+
+28 
+
+
+
+
+Any documented additional cost in the form of a surcharge associated with procuring the additional general liability coverage in accordance with this subsection shall be paid by the Owner directly or the costs may be reimbursed by the Owner to the Constructor by increasing the Contract Price to correspond to the actual cost required to purchase and maintain the coverage. Before commencing the Work, the Constructor shall provide a certificate and endorsement evidencing that the Owner has been named as an additional insured, as applicable. 
+
+10.6 ROYALTIES, PATENTS, AND COPYRIGHTS The Owner shall pay all royalties and license fees which may be due on the inclusion of any patented or copyrighted materials, methods, or systems incorporated in the Work. The Owner agrees to defend, indemnify, and hold the Constructor harmless from any suits or claims of infringement of any patent rights or copyrights arising out of any patented or copyrighted materials, methods, or systems specified by the Owner. 
+
+10.7 BONDS 
+
+10.7.1 Performance and Payment Bonds shall not be required of the Constructor. 
+
+ARTICLE 11 SUSPENSION, NOTICE TO CURE, AND TERMINATION 
+
+11.1 SUSPENSION BY OWNER FOR CONVENIENCE 
+
+11.1.1 OWNER SUSPENSION Should the Owner order the Constructor in writing to suspend, delay, or interrupt the performance of the Work for the convenience of the Owner and not due to any act or omission of the Constructor or any person or entity for whose acts or omissions the Constructor may be liable, then the Constructor shall immediately suspend, delay or interrupt that portion of the Work for the time period ordered by the Owner. The Contract Time shall be equitably adjusted by Change Order for the delay resulting from any such suspension, and Constructor shall be paid all of its costs related to the suspension and plus Constructor’s Fee. 
+
+11.1.2 Any action taken by the Owner that is permitted by any other provision of the Contract Documents and that result in a suspension of part or all of the Work does not constitute a suspension of Work under this section. 
+
+11.2 NOTICE TO CURE A DEFAULT If the Constructor persistently fails to supply enough qualified workers, proper Materials to maintain the approved Schedule of the Work, or fails to make prompt payment to its workers, Subcontractors, or Material Suppliers, disregards Laws or orders of any public authority having jurisdiction, or is otherwise guilty of a material breach of a provision of this Agreement, the Constructor may be deemed in default. If the Constructor fails within twenty one (21) Days after receipt of written notice to commence and continue satisfactory correction of such default with diligence and promptness, then the Owner shall give the Constructor a second notice to correct the default within a three (3) Day period. 
+
+11.2.1 If the Constructor fails to promptly commence and continue satisfactory correction of the default following receipt of such second notice, the Owner without prejudice to any other rights or remedies may: (a) take possession of the Worksite; (b) complete the Work utilizing reasonable means. Constructor shall not be responsible for the Owner’s costs to complete the Work. 
+
+11.2.2 In the event of an emergency affecting the safety of persons or property, the Owner may immediately commence and continue satisfactory correction of such default without first giving written notice to the Constructor, but shall give prompt written notice of such action to the Constructor following commencement of the action. 
+
+11.3 OWNER’S RIGHT TO TERMINATE FOR DEFAULT 
+
+11.3.1 TERMINATION BY OWNER FOR DEFAULT If, within fourteen (14) Days of receipt of a notice to cure pursuant to Section 11.2, the Constructor fails to commence and satisfactorily continue correction of the default set forth in the notice to cure, the Owner may notify the 
+
+ 
+
+29 
+
+
+
+
+Constructor and, if applicable, the surety, that it intends to terminate this Agreement for default absent appropriate corrective action within twenty-eight (28) additional Days. After the expiration of the additional twenty-eight (28) Day period, the Owner may terminate this Agreement by written notice absent appropriate corrective action. Termination for default is in addition to any other remedies available to the Owner under Section 11.2. The Owner shall pay Constructor all of its costs incurred to date plus Constructor’s Fee. Constructor shall not be liable to Owner for the costs to complete the Work. 
+
+11.3.2 USE OF CONSTRUCTOR’S MATERIALS, SUPPLIES, AND EQUIPMENT If the Owner or Others perform work under this section, the Owner shall have the right to take and use any Materials belonging to the Constructor or Subcontractors and located at the Worksite for the purpose of completing any remaining Work. Immediately upon completion of the Work, any remaining materials, supplies, or equipment not consumed or incorporated in the Work shall be returned to the Constructor in substantially the same condition as when they were taken, reasonable wear and tear excepted. Owner shall pay Constructor’s costs plus Constructor’s Fee for all Materials, supplies or equipment belonging to the Constructor or Subcontractors and used to complete the Work. 
+
+11.3.3 If the Constructor files a petition under the Bankruptcy Code, this Agreement shall terminate if the Constructor or the Constructor’s trustee rejects the Agreement, or if there has been a default and the Constructor is unable to give adequate assurance that the Constructor will perform as required by this Agreement or otherwise is unable to comply with the requirements for assuming this Agreement under the applicable provisions of the Bankruptcy Code. 
+
+11.3.4 The Owner shall make reasonable efforts to mitigate damages arising from Constructor default. 
+
+11.3.5 If the Owner terminates this Agreement for default, and it is later determined that the Constructor was not in default, or that the default was excusable under the terms of the Contract Documents, then, in such event, the termination shall be deemed a termination for convenience, and the rights of the Parties shall be as set forth in Section 11.4. 
+
+11.4 TERMINATION BY OWNER FOR CONVENIENCE 
+
+11.4.1 Upon written notice to the Constructor, the Owner may, without cause, terminate this Agreement. The Constructor shall immediately stop the Work, follow the Owner’s instructions regarding shutdown and termination procedures, and strive to minimize any further costs. 
+
+11.4.2 If the Owner terminates this Agreement for Convenience, the Constructor shall be paid: (a) for the costs of the Work performed to date including Constructor’s Fee; (b) for all demobilization costs and costs incurred as a result of the termination and Constructor’s Fee, but not including Constructor’s Fee on Work not performed; and (c) a premium set forth in 
+Exhibit         . 
+
+11.4.3 If the Owner terminates this Agreement, the Constructor shall: 
+
+(a) execute and deliver to the Owner all papers and take all action required to assign, transfer, and vest in the Owner the rights of the Constructor to all materials, supplies and equipment for which payment has been or will be made in accordance with the Contract Documents and all subcontracts, orders and commitments which have been made in accordance with the Contract Documents; 
+
+(b) exert reasonable effort to reduce to a minimum the Owner’s liability for subcontracts, orders, and commitments that have not been fulfilled at the time of the termination; 
+
+(c) cancel any subcontracts, orders, and commitments as the Owner directs; and 
+
+ 
+
+30 
+
+
+
+
+(d) sell at prices approved by the Owner any materials, supplies, and equipment as the Owner directs, with all proceeds paid or credited to the Owner. 
+
+11.5 CONSTRUCTOR’S RIGHT TO TERMINATE 
+
+11.5.1 Upon seven (7) Days’ written notice to the Owner, the Constructor may terminate this Agreement if the Work has been stopped for a thirty (30) Day period through no fault of the Constructor for any of the following reasons: 
+
+ 
+
+ 
+
+a)
+
+under court order or order of other governmental authorities having jurisdiction; 
+
+ 
+
+ 
+
+b)
+
+as a result of the declaration of a national emergency or other governmental act during which, through no act or fault of the Constructor, materials are not available; or 
+
+ 
+
+ 
+
+c)
+
+suspension by the Owner for convenience pursuant to Section 11.1. 
+
+ 
+
+ 
+
+11.5.2
+
+In addition, upon seven (7) Days’ written notice to the Owner, the Constructor may terminate this Agreement if the Owner: 
+
+ 
+
+ 
+
+a)
+
+fails to furnish reasonable evidence pursuant to section 4.2 that sufficient funds are available and committed for Project financing; or 
+
+ 
+
+ 
+
+b)
+
+assigns this Agreement over the Constructor’s reasonable objection; or 
+
+ 
+
+ 
+
+c)
+
+fails to pay the Constructor in accordance with this Agreement and the Constructor has complied with Section 11.5.1; or 
+
+ 
+
+ 
+
+d)
+
+otherwise materially breaches this Agreement. 
+
+ 
+
+ 
+
+11.5.3
+
+Upon termination by the Constructor in accordance with Section 11.5, the Constructor shall be entitled to recover from the Owner payment of all of the costs of the Work incurred plus Constructor’s Fee for all Work executed and for any proven loss, cost, or expense in connection with the Work, including all demobilization costs plus reasonable Overhead and profit on Work not performed. 
+
+11.6 OBLIGATIONS ARISING BEFORE TERMINATION Even after termination, the provisions of this Agreement still apply to any Work performed, payments made, events occurring, costs charged or incurred or obligations arising before the termination date. 
+
+ARTICLE 12 DISPUTE MITIGATION AND RESOLUTION 
+
+12.1 WORK CONTINUANCE AND PAYMENT Unless otherwise agreed in writing, the Constructor shall continue the Work and maintain the Schedule of the Work during any dispute mitigation or resolution proceedings. If the Constructor continues to perform, the Owner shall continue to make payments in accordance with this Agreement. 
+
+12.2 DIRECT DISCUSSIONS If the Parties cannot reach resolution on a matter relating to or arising out of this Agreement, the Parties shall endeavor to reach resolution through good faith direct discussions between the Parties’ representatives, who shall possess the necessary authority to resolve such matter and who shall record the date of first discussions. If the Parties’ representatives are not able to resolve such matter within five (5) Business Days from the date of first discussion, the Parties’ representatives shall immediately inform senior executives of the Parties in writing that resolution was not affected. Upon receipt of such notice, the senior executives of the Parties shall meet within five (5) Business Days to endeavor to reach resolution. If the dispute remains unresolved after fifteen (15) Days from the date of first discussion, the Parties shall submit such matter to the dispute mitigation and dispute resolution procedures selected herein. 
+
+ 
+
+31 
+
+
+
+
+12.3 MITIGATION If the Parties select one of the dispute mitigation procedures below, disputes remaining unresolved after direct discussions shall be directed to the selected mitigation procedure. The dispute mitigation procedure shall result in a nonbinding finding on the matter, which may be introduced as evidence at a subsequent binding adjudication of the matter, as designated in section 12.5. The Parties agree that the dispute mitigation procedure shall be: 
+
+                  Project Neutral; 
+
+Or, 
+
+                  Dispute Review Board. 
+
+ 
+
+ 
+
+12.3.1
+
+MITIGATION PROCEDURES The Project Neutral/Dispute Review Board (“Neutral/Board”) shall be mutually selected and appointed by the Parties and shall execute a retainer agreement with the Parties establishing the scope of the Neutral/Board’s responsibilities. The costs and expenses of the Neutral/Board shall be shared equally by the Parties. The Neutral/Board shall be available to either Party, upon request, throughout the course of the Project, and shall make regular visits to the Project so as to maintain an up-to-date understanding of the Project progress and issues and to enable the Neutral/Board to address matters in dispute between the Parties promptly and knowledgeably. The Neutral/Board shall issue nonbinding findings within five (5) Business Days of referral of the matter to the Neutral/Board, unless good cause is shown. 
+
+ 
+
+ 
+
+12.3.2
+
+If the matter remains unresolved following the issuance of the nonbinding finding by the mitigation procedure or if the Neutral/Board fails to issue nonbinding findings within five (5) Business Days of the referral, the Parties shall submit the matter to the binding dispute resolution procedure designated in section 12.5. 
+
+12.4 MEDIATION If direct discussions pursuant to section 12.2 do not result in resolution of the matter and no dispute mitigation procedure is selected under section 12.3, the Parties shall endeavor to resolve the matter by mediation through the current Construction Industry Mediation Rules of the American Arbitration Association (AAA), or the Parties may mutually agree to select another set of mediation rules. The administration of the mediation shall be as mutually agreed by the Parties. The mediation shall be convened within thirty (30) Business Days of the matter first being discussed and shall conclude within forty-five (45) Business Days of the matter first being discussed. Either Party may terminate the mediation at any time after the first session by written notice to the non-terminating Party and mediator. The costs of the mediation shall be shared equally by the Parties. 
+
+12.5 BINDING DISPUTE RESOLUTION If the matter is unresolved after submission of the matter to a mitigation procedure or to mediation, the Parties shall submit the matter to the binding dispute resolution procedure selected below: 
+
+12.5.1 Arbitration using the current Construction Industry Arbitration Rules of the AAA with a panel of three arbitrators. Each party shall select one arbitrator and the two appointed arbitrators shall select a third. 
+
+12.5.2 The costs of any binding dispute resolution procedures and reasonable attorneys’ fees shall be borne by the non-prevailing Party, as determined by the adjudicator of the dispute. 
+
+12.5.3 VENUE The venue of any binding dispute resolution procedure shall be Houston, Texas. 
+
+ 
+
+32 
+
+
+
+
+12.6 MULTIPARTY PROCEEDING All parties necessary to resolve a matter agree to be parties to the same dispute resolution proceeding. Appropriate provisions shall be included in all other contracts relating to the Work to provide for the joinder or consolidation of such dispute resolution procedures. 
+
+12.7 LIEN RIGHTS Nothing in this article shall limit any rights or remedies not expressly waived by the Constructor that the Constructor may have under lien laws. 
+
+ARTICLE 13 MISCELLANEOUS 
+
+13.1 EXTENT OF AGREEMENT Except as expressly provided, this Agreement is for the exclusive benefit of the Parties, and not for the benefit of any third party. This Agreement represents the entire and integrated agreement between the Parties, and supersedes all prior negotiations, representations, or agreements, either written or oral. 
+
+13.2 ASSIGNMENT Except as to the assignment of proceeds, the Parties shall not assign their interest in this Agreement without the written consent of the other. The terms and conditions of this Agreement shall be binding upon both Parties, their partners, successors, assigns, and legal representatives. Neither Party shall assign the Agreement as a whole without written consent of the other except that the Owner may assign the Agreement to a wholly owned subsidiary of the Owner when the Owner has fully indemnified the Constructor or to an institutional lender providing construction financing for the Project as long as the assignment is no less favorable to the Constructor than this Agreement. If such assignment occurs, the Constructor shall execute any consent reasonably required. In such event, the wholly owned subsidiary or lender shall assume the Owner’s rights and obligations under the Contract Documents. If either Party attempts to make such an assignment, that Party shall nevertheless remain legally responsible for all obligations under this Agreement, unless otherwise agreed by the other Party. 
+
+13.3 GOVERNING LAW This Agreement shall be governed by the laws in effect in the State of Texas. 
+
+13.4 SEVERABILITY The partial or complete invalidity of any one or more provisions of this Agreement shall not affect the validity or continuing force and effect of any other provision. 
+
+13.5 NO WAIVER OF PERFORMANCE The failure of either Party to insist, in any one or more instances, on the performance of any of the terms, covenants, or conditions of this Agreement, or to exercise any of its rights, shall not be construed as a waiver or relinquishment of such term, covenant, condition, or right with respect to further performance or any other term, covenant, condition, or right. 
+
+13.6 TITLES The titles given to the articles are for ease of reference only and shall not be relied upon or cited for any other purpose. 
+
+13.7 JOINT DRAFTING The Parties expressly agree that this Agreement was jointly drafted, and that both had opportunity to negotiate its terms and to obtain the assistance of counsel in reviewing its terms prior to execution. Therefore, this Agreement shall be construed neither against nor in favor of either Party, but shall be construed in a neutral manner. 
+
+13.8 RIGHTS AND REMEDIES The Parties’ rights, liabilities, responsibilities and remedies with respect to this Agreement, whether in contract, tort, negligence or otherwise, shall be exclusively those expressly set forth in this Agreement. The Owner’s exclusive remedy and Constructor’s sole liability for any breach of this Contract, or any other cause of action arising in contract, tort, negligence, indemnity or otherwise in any way related to or arising out of the performance of the Work and this Contract shall be strictly limited to the remedies stated in the Subcontracts with the Subcontractors and Material Suppliers. 
+
+ 
+
+33 
+
+
+
+
+ARTICLE 14 CONTRACT DOCUMENTS 
+
+14.1 EXISTING CONTRACT DOCUMENTS 
+
+14.2 The Contract Documents in existence at the time of execution of this Agreement are as follows: 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+ 
+
+ 
+
+  
+
+Drawings:
+
+(b)
+
+ 
+
+ 
+
+  
+
+Specifications:
+
+(c)
+
+ 
+
+ 
+
+  
+
+Addenda:
+
+(d)
+
+ 
+
+ 
+
+  
+
+Owner Provided information:
+
+(e)
+
+ 
+
+ 
+
+  
+
+Other:
+
+14.3 INTERPRETATION OF CONTRACT DOCUMENTS 
+
+14.4 The drawings and specifications are complementary. If Work is shown only on one but not on the other, the Constructor shall perform the Work as though fully described on both, consistent with the Contract Documents and reasonably inferable from them. 
+
+14.5 In case of conflicts between the drawings and specifications, the specifications shall govern. In any case of omissions or errors in figures, drawings, or specifications, the Constructor shall immediately submit the matter to the Owner for clarification. The Owner’s clarifications are final and binding on all Parties, subject to an equitable adjustment in Contract Time and payment of Constructor’s cost and Constructor’s Fee or dispute mitigation and resolution. 
+
+14.6 Where figures are given, they shall be preferred to scaled dimensions. 
+
+14.7 Unless otherwise specifically defined in this Agreement, any terms that have well-known technical or trade meanings shall be interpreted in accordance with their well-known meanings. 
+
+14.8 ORDER OF PRECEDENCE In case of any inconsistency, conflict, or ambiguity among the Contract Documents, the documents shall govern in the following order: (a) Change Orders and written amendments to this Agreement; (b) this Agreement; (c) subject to subsection 14.5 the drawings (large scale governing over small scale), specifications and addenda issued prior to the execution of this Agreement or signed by both Parties; (d) information furnished by the Owner pursuant to subsection 3.13.4 or designated as a Contract Document in ARTICLE 14 (e) other documents listed in this Agreement. Among categories of documents having the same order of precedence, the term or provision that includes the latest date shall control. Information identified in one Contract Document and not identified in another shall not be considered a conflict or inconsistency. 
+
+ 
+
+
+
+
+
+
+
+OWNER:
+
+ 
+
+/s/ Frank Bakker
+
+
+
+BY: Frank Bakker – President
+
+WITNESS: /s/ Monique Shepherd                         NAME: Monique Shepherd     TITLE: Contracts Manager 
+
+CONSTRUCTOR: Orascom E&C USA Inc. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+BY: /s/ Ihab Demian
+
+  
+
+NAME: Ihab Demian
+
+  
+
+TITLE: Project Director
+
+END OF DOCUMENT 
+
+ 
+
+34

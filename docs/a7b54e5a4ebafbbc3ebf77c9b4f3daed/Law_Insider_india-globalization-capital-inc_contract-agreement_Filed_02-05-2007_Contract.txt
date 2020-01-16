@@ -1,0 +1,1654 @@
+Exhibit 10.3
+
+
+
+
+ 
+
+Contract Agreement
+
+
+
+This Agreement is between India Globalization Capital Inc., Chiranjjeevi Wind Energy Limited, Arul Mariamman Textiles Limited and Marudhavel Industries Limited (the Parties).
+
+
+
+Whereas:
+
+ 
+
+M/s. INDIA GLOBALIZATION CAPITAL, INC. a company registered in The United States of America, having its registered office at 4336, Montgomery Ave., Bethesda Maryland 20814, (hereinafter called “the Employer’) represented by its Chief Executive Officer and President Mr. Ram Mukunda of the first part, 
+
+
+
+M/s. CHIRANJJEEVI WIND ENERGY LIMITED, a company registered under Indian Companies Act 1956, having its administrative office at 26-A, Kamaraj Road, Mahalingapuram, Pollachi - 642 002 Tamil Nadu (hereinafter called “the Contractor”) represented by its Chairman & Managing Director Mr. R. V. S.MARIMUTHU of the second part,
+
+
+
+M/s ARUL MARIAMMAN TEXTILES LIMITED, a company registered under Indian Companies Act 1956, having its registered office at 26, Kamaraj Road, Mahalingapuram, Pollachi - 642 002, Coimbatore District, Tamil Nadu, (hereinafter called “AMTL”) represented by its Director Mr.M.A.Kanagaraj of the third part; and
+
+
+
+M/S MARUDHAVEL INDUSTRIES LIMITED, a company registered under Indian Companies Act 1956, having its registered office at 16, Imamkhan Street, Ramalakshmi Complex, Pollachi - 642 001, Coimbatore District, Tamil Nadu (hereinafter called “MAIL”) represented by its Director Mr.K.Kumaravel of the fourth part. 
+
+
+
+The Contractor has represented that it is in the business of manufacturing, supplying, installing and commissioning wind energy projects on a turnkey basis, and has the expertise, know-how, facilities and resources for undertaking total responsibility for setting up wind farms from concept to commissioning as well as providing arrangements for operation, maintenance and management on an on-going basis. The Employer has evinced an interest to develop a 24 MW wind farm project in the state of Karnataka in India. 
+
+ 
+
+After mutual discussions and negotiations the Parties have come to an agreement for the manufacturing, installation, commissioning, operation and maintenance of 24 MW (96 x 250 Kw WEGs) wind farm project on a turnkey basis by the Contractor at Karnataka, India (hereinafter referred to as “the Project”).
+
+
+
+The Employer and the Contractor agree as follows:
+
+
+
+
+
+1. 
+
+In this agreement words and expressions shall have the same meanings as are respectively assigned to them in the conditions of the contract herein referred to.
+
+
+
+
+
+2. 
+
+Section headings appearing in this Agreement are inserted for convenience of reference only, and shall in no way be construed to be interpretations of the provisions hereof. 
+
+
+
+
+
+3. 
+
+The following documents shall be deemed to form and be read and construed as part of this Agreement:
+
+(a)  Conditions of Contract (Exhibit A)
+
+(b)  The Specifications
+
+(c)  The Drawings, and
+
+(d)  The Schedules.
+
+
+
+
+
+4. 
+
+In consideration of the payments to be made by the Employer to the Contractor as hereinafter mentioned, the Contractor hereby covenants with the Employer to execute and complete the Works and remedy any defects therein, in conformity with the provisions of the Agreement. 
+
+
+
+
+
+5. 
+
+The Employer hereby covenants to pay the Contractor, in consideration of the execution and completion of the Works and the remedying of defects therein, the Contract Price at the time and in the manner prescribed in Schedule 1 of this Agreement.
+
+
+
+
+
+6. 
+
+AMTL and MAIL agree that they shall transfer their capacity Allotment to CWEL or as per the advise of CWEL at the time of commissioning. 
+
+
+
+
+
+7. 
+
+It is agreed between the Parties that the capacity of the wind farm shall be 24 MW consisting of 96 (ninety six) 250KW WEGs and the wind energy farm will be set up in the State of Karnataka in the land and capacity allotted to the Contractor or their associate companies. The technical specifications of the Contractor 250 KW wind electrical generator shall be: 
+
+
+
+Tower  - Lattice 50. mtr. Hub Height
+
+Rotor  - 3 FRP blades, 29.20 m diameter and 670 sq. mtrs. swept area.
+
+Generator  - Asynchronous, 250 / 60 Kw, 3 Phase, 400 V 50 Hz, 1500/1000 rpm
+
+Gear Box  - Helical, 3 Stage.
+
+Regulation  - Stall
+
+Controls  - Micro processor based
+
+Transformer - 33 kV.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+8.  SCOPE OF WORK
+
+ 
+
+The scope of work of the Contractor includes:
+
+ 
+
+
+
+ 
+
+8.1.1 
+
+Design, manufacture and supply of WEGs including Tower, Nacelle, Rotor, Cables and Control Panels and including providing all spares at cost during the life of the WEGs, being 20 (twenty) years..
+
+
+
+
+
+ 
+
+8.1.2 
+
+Packing, handling, loading and unloading and transportation of all equipment to the Site.
+
+
+
+
+
+ 
+
+8.1.3
+
+Formation of roads suitable for transporting all the machines and materials through heavy vehicles like cranes, trucks, trailers, etc. 
+
+
+
+
+
+ 
+
+8.1.4
+
+Site clearance and Platform construction.
+
+ 
+
+
+
+ 
+
+8.1.5 
+
+Liaison and obtaining all the clearances from Karnataka Renewable Energy Development Limited (KREDL), Karnataka Power Transmission Corporation Limited (KPTCL), Karnataka Electricity Regulatory Commission (KERC) and other government and private agencies, including, without limitation, those referenced in Schedules 2 and 4, in order for the Employer to own and operate (or have operated on its behalf) the Project.
+
+
+
+
+
+ 
+
+8.1.6
+
+Foundation work for the WEGs.
+
+  
+
+
+
+ 
+
+8.1.7
+
+Supply and erection of all high-tension electrical works including transformer, Meter, Metering Set, etc., including the Yard. 
+
+
+
+
+
+ 
+
+8.1.8
+
+Obtaining Grid Tie up and evacuation and Synchronization Clearances.
+
+
+
+
+
+ 
+
+8.1.9
+
+Over Head Line work from Meter point to the tapping point/SS of KPTCL.
+
+ 
+
+
+
+ 
+
+8.1.10
+
+Assembly and erection of WEGs at site.
+
+
+
+
+
+ 
+
+8.1.11
+
+Test run of all the WEGs after grid is provided.
+
+
+
+
+
+ 
+
+8.1.12
+
+Commissioning of the WEGs after providing the grid.
+
+ 
+
+
+
+ 
+
+8.1.13
+
+Doing all acts necessary to ensure that the Project is completed and operated and maintained in accordance with the Agreement.
+
+
+
+
+
+ 
+
+8.1.14
+
+The Contractor shall be deemed to have satisfied himself as to the sufficiency of and all conditions and circumstances affecting the Contract Price, the Site and its surroundings, climatic conditions, the extent and nature of the Works, the labour, Plant and the Contractor’s Equipment required for the Works and generally as to all other circumstances, risks and contingencies which may be relevant to the performance of the Contractor’s Obligations under the Agreement and/or to the payments to be made in respect thereof. The Contractor therefore accepts total responsibility for having foreseen all difficulties and costs and expenses for successfully executing the Works and that subject to Clause 9 hereof, no increase in the Agreement Price and no extension of the Time other than provided under Clause 13.2 for Completion shall be made, based in whole or in part upon any discrepancy between actual circumstances encountered by the Contractor and those anticipated or considered. 
+
+
+
+
+
+ 
+
+8.1.15
+
+The Contractor acknowledges that the Employer has made available to the Contractor, certain data and information solely for the convenience of the Contractor, the verification and interpretation of which is the sole risk and responsibility of the Contractor. The Contractor agrees that the Employer shall have no liability to the Contractor for the adequacy, accuracy or completeness of such data and information and shall protect, indemnify and hold the Employer harmless from and against any and all losses arising directly or indirectly from or incurred by reason of the use of any such data and information or any part thereof. Further, the Contractor hereby waives any claims it may otherwise have against persons who may have prepared, compiled, provided or prepared any such data and information and by other persons to whom the Contractor has supplied such data and information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+9.  PRICE
+
+
+
+The Contractor will design, supply, assemble, erect and commission each WEG of C2920/250 KW wind turbines covering the entire range of work as mentioned in Clause 8 at a total price of Rs.118.75 lakhs (Rupees One Crore Eighteen Lakhs and Seventy Five Thousand Only) each for the 96 (ninety-six) WEGs totaling to Rs.114.00 crores (Rupees One Hundred and Fourteen Crores). The Contractor shall commence the design, supply, assembly and erection of the WEGs within 1 (one) day of Effective Date. The Effective Date is the date of receipt of the first down payment by the Contractor. The above price is fixed as a package for the Project.
+
+ 
+
+Both the parties agree that the above price is valid upto 30.04.2007 only and the price will be revised depending upon the escalation of the price of the components and all other activities related to this project after 30.04.2007.
+
+
+
+10.  TAXES & LEVIES
+
+
+
+The Price above does not include any statutory levies and taxes (being indirect taxes such as Service Tax, but does not include any direct tax such as income tax), which shall be borne by the Employer at the prevailing rate at the time of raising the invoice by the Contractor. The Contractor is required to use its best endeavors to structure all procurement in such a manner that will minimize taxes and levies on the Project
+
+ 
+
+11.  PAYMENT TERMS
+
+ 
+
+
+
+ 
+
+11.1 
+
+The Price in Clause 9 above, shall be paid to the Contractor as per Schedule 1 and subject to Clause 11.2 
+
+
+
+
+
+ 
+
+11.2
+
+The Parties agree that the Employer will have a right to make payments directly to the major vendors and contractors specified in Schedule 3 as per the instructions from the contractor and in accordance with the contract with such vendors from time to time such payment being part of the down payment mentioned in Schedule 1.
+
+
+
+
+
+ 
+
+11.3 
+
+The employer shall pay a sum of Rs.100 Lakhs ( Rupees One Hundred Lakhs Only ) on or before 15th May 2007 to the Contractor as interest free deposit to facilitate implementation of the project. Only 75% ( Seventy Five percentage) of this amount will be refunded by the Contractor to the Employer in case, the Employer fails to perform their obligations by 30.09.2007.
+
+
+
+
+
+ 
+
+11.4
+
+The Parties further agree that the Contractor shall create at the cost of the Employer security interest in favour of the Employer over all major goods and components purchased by the Contractor for the purpose of the Project. The Contractor shall create at the cost of the Employer a security interest in favour of the Employer over all major goods and components imported by the Contractor immediately after the goods and components have cleared customs in India.
+
+
+
+
+
+ 
+
+11.5 
+
+The security interest created by the Contractor under Clause 11.4 shall be released at the cost of the employer once the ownership of the secured goods and components passes to the Employer in accordance with this contract.
+
+ 
+
+
+
+11.6        
+
+The Contractor shall assign all its rights under all agreements entered into between the Contractor and any vendor for the goods and components purchased for the purpose of the Project to the Employer.
+
+
+
+
+
+11.7        
+
+The Contractor shall submit a Corporate Guarantee in the agreed form to the Employer for the amount received till completion of the project on pro-rata basis. The said Guarantee will automatically get diminished depending upon the implementation of the project.
+
+
+
+12.  CONDITIONS 
+
+
+
+ 
+
+  
+
+12.1 
+
+  
+
+The Employer’s obligations are conditional upon the satisfaction or waiver (if applicable) of all of the following conditions:
+
+
+
+
+
+ 
+
+12.1.1
+
+A resolution being passed at a duly constituted meeting of the board of directors of the Employer and a resolution being passed at duly constituted meeting of the shareholders of the Employer, approving the development of a wind energy farm in Karnataka and the satisfaction of all other conditions for the Employer to effect a Business Combination as set forth in the Employer’s Prospectus dated March 3, 2006 as filed with the US Securities and Exchange Commission.
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+12.1.2
+
+The Contractor obtaining the necessary capacity allotment through its associate companies AMTL and MAIL, as per schedule 4 from the Government of Karnataka.
+
+
+
+
+
+ 
+
+12.1.3
+
+The Contractor providing IGC with documentary proof that AMTL and MAIL have entered into a valid agreement as per Government Order No. DE 26 NCE 99, Bangalore dated 3 May 1999, EN 259 NCE 2004 Bangalore dated 18.03.2005 and EN 260 NCE 2004 Bangalore dated 26.08.2004 with the Government of Karnataka through KREDL for 24 MW and that both AMTL and MAIL have fulfilled all the conditions under their respective agreements and are not in breach of their respective agreements; 
+
+
+
+
+
+ 
+
+12.1.4
+
+AMTL and MAIL transferring their capacity allotment and all rights there under to the Contractor concurrent with the required down payment. The Contractor will provide Employer documentary proof of the same.
+
+
+
+
+
+ 
+
+12.1.5
+
+The Parties entering into an agreement for the operation and maintenance of the wind energy farm;
+
+
+
+12.1.6     The Parties agreeing to the Schedules and Exhibits .
+
+
+
+
+
+ 
+
+12.1.7
+
+The Contractor shall obtain all necessary consents, approvals and licenses for the Employer to generate and sell the power generated as permissible under applicable laws and including but not limited to those specified in Schedules 2 and 4 in the form and content as per statutory requirements;
+
+
+
+13.  PROJECT COMPLETION
+
+ 
+
+
+
+ 
+
+13.1 
+
+All the WEGs shall be supplied, installed and commissioned within 12 (twelve) months from the Effective Date (“Time for Completion”). The employer should make the down payment on or before 30.09.2007 so as to enable the contractor to implement the project successfully in time.
+
+
+
+
+
+ 
+
+13.2 
+
+The Employer will extend the Time for Completion for a further period of 3 (three) months (“Extended Time for Completion”) if the Contractor completes Milestone VI of the Project as specified in Schedule 1
+
+
+
+
+
+ 
+
+13.3 
+
+In the event the commissioning of all the 96 WEG’s is not completed within the Extended Time for Completion, the Contractor will refund the excess amount received after deducting the value of completed WEGs and also the expenses incurred by the Contractor in connection with the implementation of the project.
+
+
+
+
+
+ 
+
+13.4 
+
+The Project shall be completed as per the milestones provided in Schedule 1.
+
+
+
+
+
+ 
+
+13.5 
+
+The Employer shall take-over each WEG on the day of commissioning of that WEG. The Parties agree that on the day of commissioning of the WEG or earlier if permitted under applicable law, the Contractor shall procure that the Parties shall enter into a sub-lease agreement with the Government of Karnataka in form and content as per the statutory requirement, under which the land relating to that WEG shall be subleased to the Employer.
+
+
+
+
+
+ 
+
+13.6 
+
+The Contractor shall begin the operation and maintenance of each WEG from the date of its commissioning as per the terms and conditions of the operations and maintenance contract between the Parties.
+
+
+
+
+
+ 
+
+13.7 
+
+The Contractor shall ensure that there is in place a power purchase agreement between the Employer and BESCOM for all the power generated by a WEG as on the date of commissioning of that WEG unless modified in writing by the Employer prior to completion either to the electricity board or as a sale to a third party if so decided by the Employer, in accordance with prevailing Govt. rules.
+
+
+
+14.  STANDARD OF PERFORMANCE
+
+ 
+
+
+
+ 
+
+14.1 
+
+Without limiting any other provisions of the Agreement, the Contractor shall perform the Work with due care and in a professional manner, using sound engineering and design principles and project management and supervisory and warrant procedures, in accordance with and consistent with industry standards and all applicable Laws. The Works done by the Contractor shall be fit for purpose. The Contractor represents and warrants that it has the requisite skills, experience, expertise and capacity to perform the Work in the foregoing manner and to satisfy and fulfill all of its obligations and responsibilities under the Agreement.
+
+
+
+
+
+ 
+
+14.2 
+
+The time is of an essence of the Agreement. This condition will apply to both Parties relating to payments and project implementation.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15.    LIQUIDATED DAMAGES 
+
+ 
+
+15.1 Liquidated Damages for Delay 
+
+ 
+
+If the Contractor fails to complete commissioning of the WEGs in accordance with the Agreement, then the Contractor shall without prejudice to the Employer’s right at law pay to the Employer the maximum liquidated damages equivalent to 5% (five percent) of the value of each WEG (“Liquidated Damages”). 
+
+ 
+
+15.2 Payment of Liquidated Damages 
+
+ 
+
+15.2.1   The payment of Liquidated Damages does not in any way relieve the Contractor from any of its obligations to complete the Works or from any other obligations and liabilities of the Contractor under the Agreement. 
+
+ 
+
+15.2.2   For the avoidance of doubt and without prejudice to any continuing obligations of the Contractor under the Contract or otherwise, the issue of any Taking Over Certificate does not relieve the Contractor in respect of Liquidated Damages which have accrued up to the date of such Taking Over Certificate, but which have not yet been paid by the Contractor. 
+
+ 
+
+15.3  Calculation of the Rate of Liquidated Damages 
+
+ 
+
+15.3.1   The Parties recognize the expense and inconvenience likely to be incurred from any need to prove the loss and damage that will be suffered by the employer only in the event of failure by the Contractor to achieve completion of the Works by the relevant Time for Completion. The Parties acknowledge that the Liquidated Damages is a genuine pre-estimation of and reasonable compensation for the loss and damage that will be suffered by the Employer in the event of any such failure on the part of the Contractor and the Contractor irrevocably undertakes that it will not, whether by legal proceedings or otherwise, contend that the levels of Liquidated Damages are not reasonable nor will it put the Employer to the proof thereof, nor further contend that its agreement to such sum and undertaking as aforesaid were arrived at by force, duress, coercion, mistake or misrepresentation on the part of the Employer. If the payment of Liquidated Damages is unenforceable by the Employer for any reason the Contractor shall be liable to pay the Employer actual losses and costs caused or to the extent contributed to by the delay to the Time for Completion for which the Contractor is responsible. The maximum liability of the Contractor to the Employer, under this Clause 15 shall not exceed the amount of Rs.5.7 Crores.
+
+ 
+
+16.  REPRESENTATIONS & WARRANTIES
+
+ 
+
+
+
+ 
+
+16.1 
+
+Each Party represents, severally and not jointly, to the other Party hereto that:
+
+ 
+
+
+
+ 
+
+16.1.1
+
+Such Party has the full power and authority to enter into, execute and deliver the Agreement and to perform the transactions contemplated hereby and such Party is duly incorporated or organized with limited liability and existing under the laws of the jurisdiction of its incorporation or organization;
+
+
+
+
+
+ 
+
+16.1.2
+
+The execution and delivery by such Party of the Agreement and the performance by such Party of the transactions contemplated hereby have been duly authorized by all necessary corporate or other action of such Party;
+
+
+
+
+
+ 
+
+16.1.3
+
+Assuming the due authorization, execution and delivery hereof by the other Parties, the Agreement constitutes the legal, valid and binding obligation of such Party, enforceable against such Party in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors' rights generally; and 
+
+
+
+
+
+ 
+
+16.1.4
+
+The execution, delivery and performance of the Agreement by such Party and the consummation of the transactions contemplated hereby will not (i) violate any provision of the organizational or governance documents of such Party; (ii) require such Party to obtain any consent, approval or action of, or make any filing with or give any notice to, any Government Authority in India or any other person pursuant to any instrument, Agreement or other agreement to which such Party is a party or by which such Party is bound save for those provided in Schedule 2; (iii) conflict with or result in any material breach or violation of any of the terms and conditions of, or constitute (with notice or lapse of time or both constitute) a default under, any instrument, Agreement or other agreement to which such Party is a party or by which such Party is bound; (iv) violate any order, judgment or decree against, or binding upon, such Party or upon its respective securities, properties or businesses; or (v) subject to the novation of the Agreement, violate any Laws of India or the Laws of its place of incorporation or organization any other country in which it maintains its principal office.
+
+ 
+
+
+
+ 
+
+16.2
+
+The Contractor represents and warrants to the Employer that:
+
+ 
+
+
+
+ 
+
+16.2.1
+
+It is fully experienced in the planning, programming, design and execution and co-ordination of construction activities wind energy farms of the scope, complexity, size and technical sophistication of the Works and that it possesses the level of skill and expertise commensurate with such experience, upon which the Employer is reliant;
+
+
+
+
+
+ 
+
+16.2.2
+
+It shall be responsible for the design and execution of the Works and the said design and execution of the Works will meet in all respects the requirements of the Agreement;
+
+
+
+
+
+ 
+
+16.2.3
+
+It shall undertake and develop the design of the Works so as to procure a complete detailed design which both as a whole and as individual parts will be adequate, accurate and sufficient and will meet and comply in all respects with the Specifications, applicable Laws and industry practice and that such detailed design will be such that the Works as a whole and as each individual part will be in all respects fit for its purpose in accordance with the Specifications, applicable Laws and industry practice;
+
+
+
+
+
+ 
+
+16.2.4
+
+The Works will be designed and executed and defects remedied in accordance with industry practice and all applicable Laws and the functional and other requirements of the Agreement and when completed the Works shall be fit for the purpose for which the Works are intended, as specified or as may be inferred from the Agreement;
+
+
+
+
+
+ 
+
+16.2.5
+
+The Works have a rate of deterioration reasonably to be expected of a high quality, reliable and well-designed, engineered and constructed wind energy farm with minimal lifecycle costs and shall be free of structural defects and deficiencies;
+
+
+
+
+
+ 
+
+16.2.6
+
+The personnel to be employed by the Contractor in or about the design and execution of the Works will be properly skilled, competent and experienced having regard to the nature and extent of the Works;
+
+
+
+
+
+ 
+
+16.2.7
+
+The Contractor has not and will not use substances or materials generally known at the time of their use to be deleterious to health or safety during the execution or the design life of the Works or to be likely adversely to affect the operation or design life of the Permanent Works or persons using or employed or engaged on the same or to be likely to cause the Contractor or the Employer to be in breach of any applicable Laws;
+
+ 
+
+
+
+ 
+
+16.2.8
+
+It will ensure that the Works will comprise only equipment which is new and/or unused and complies with the Agreement and which is manufactured and prepared in accordance with the applicable Laws and with industry practice; and 
+
+
+
+
+
+ 
+
+16.2.9
+
+It will obtain all the necessary approvals and permits under applicable law for the successful completion and operation of the Project including without limitation approvals and permits as detailed in Schedule 2 during the execution of the Project.
+
+ 
+
+
+
+ 
+
+16.2.10
+
+The Contractor shall undertake the Operations, Maintenance and Security Services Agreement (OMS Agreement) as detailed in Schedule 5 
+
+ 
+
+
+
+ 
+
+(a)
+
+Understanding that it constitutes a legal, valid and binding obligation of the Contractor, enforceable in accordance with its term, except as such enforceability may be limited by bankruptcy, insolvency, or similar events which may arise in future. 
+
+
+
+ 
+
+(b) 
+
+Confirming that it is not a party to any legal, administrative, arbitral, investigation or other proceeding or controversy which is pending, or, to the best of the Contractor’s knowledge, threatened, which would adversely affect the Contractor’s ability to perform under the OMS Agreement
+
+
+
+ 
+
+(c)
+
+The Contractor has examined the requirements of OMS Agreement in depth and is familiar with
+
+ 
+
+
+
+ 
+
+(i)
+
+its terms
+
+
+
+ 
+
+(ii)
+
+the necessary experience and proper qualifications to perform the service contemplated hereunder
+
+
+
+ 
+
+(iii)
+
+reviewed and examined all applicable laws, codes and standards (including safety, environmental and security requirements of the Project); and
+
+
+
+ 
+
+(iv)
+
+carefully reviewed all documents, plans, drawings and other information that it deems necessary regarding the Project and its performance of the services hereunder that are available as of the date hereof.
+
+ 
+
+17.  EXCLUSIVITY
+
+ 
+
+
+
+ 
+
+17.1 
+
+Commencing from the date of this Agreement, and on receipt of the first down payment the Contractor shall ensure that neither it nor any of its employees, officers or advisers or representatives directly or indirectly solicit, encourage or initiate any expression of interest, offer or proposal by any person other than the Employer for the matter and wind energy farm contemplated under this Agreement, provided all the terms & conditions including the payment terms are fulfilled in accordance with this contract 
+
+
+
+18.  WARRANTY
+
+ 
+
+
+
+ 
+
+18.1
+
+The equipment relating to each WEG is warranted by the Contractor for a period of 12 months from the date of commissioning of each WEG against any defects owing to faulty design or manufacture, excluding normal wear and tear of components, consumables and electronic components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19.  GENERATION GUARANTEE
+
+ 
+
+
+
+ 
+
+19.1
+
+During the warranty period and during the term of the operation and maintenance contract, the Contractor will provide an annual generation guarantee of 5.50 lakhs units per WEG per year (“Assured Generation”) with a permitted variation of up to 10% due to wind pattern variations from the data published by MNES/IITM/KREDL. 
+
+
+
+
+
+ 
+
+19.2
+
+If the average of the aggregate actual generation is below the Assured Generation during the warranty period and during the term of the operation and maintenance contract, the Contractor undertakes to reimburse the shortfall at Rs.3.40 (prevailing KPTCL Power Purchase Agreement rate or any higher rate as stipulated in the power purchase agreement) per unit to the Employer. 
+
+
+
+
+
+ 
+
+19.3 
+
+To substantiate the above, the Contractor will provide a personal guarantee of CMD & ED, being Mr. Marimuthu of the Contractor to the Employer in a form and content acceptable to Employer.
+
+
+
+20.  CONFIDENTIAL DETAILS
+
+ 
+
+
+
+ 
+
+20.1
+
+The Contractor shall disclose all such required or necessary confidential and other information as the Employers representative may reasonably require in order to verify the Contractor’s compliance with the Agreement. 
+
+
+
+
+
+ 
+
+20.2 
+
+The Parties shall treat the details of the Agreement as private and confidential, except to the extent necessary to carry out obligations under it or to comply with applicable Laws. The Parties shall not publish, permit to be published, or disclose any particulars of the Works in any trade or technical paper or elsewhere without the previous agreement of the other Party. Provided however that the Employer may publish or permit to be published or disclose the Agreement, without the consent of the Contractor, to comply with U.S Securities and Exchange Commission rules and regulations.
+
+
+
+21.  INDEMNITIES
+
+ 
+
+
+
+ 
+
+21.1 
+
+Only during the period of continuous Operation and Maintenance services by the Contractor, the Contractor shall indemnify and hold harmless the Employer, any of its directors, officers, employees, agents or assignees, against and from all claims, damages, losses and expenses (including legal fees and expenses) in respect of
+
+
+
+
+
+ 
+
+21.1.1
+
+bodily injury, sickness, disease or death, of any person whatsoever arising out of or in the course of or by reason of the Contractor’s design (if any), the execution and completion of the Works and the remedying of any defects, unless directly and solely attributable to any negligence, willful act or willful breach of the Agreement by the Employer, and
+
+
+
+
+
+ 
+
+21.1.2
+
+damage to or loss of any property, real or personal, to the extent that such damage or loss: 
+
+
+
+
+
+ 
+
+(a)
+
+arises out of or in the course of or by reason of the Contractor’s design, the execution and completion of the Works and the remedying of any defects, and
+
+
+
+
+
+ 
+
+(b) 
+
+is attributable to any negligence, willful act or breach of the Agreement by the Contractor, any of its directors, officers, employees, agents or assignees.
+
+
+
+
+
+ 
+
+21.2 
+
+Contractor shall, indemnify and hold harmless Employer, its partner, its officers, employees, agents, affiliates and representative from and against any and all direct actual and indirect damages, liabilities, fines, penalties, as maybe payable under applicable law arising out of, resulting from, or relating to the operation of the wind farm or negligence or misconduct of the Contractor in performing or failing to perform its obligations under this Operations, Maintenance and Security Services Agreement detailed in Schedule 5. 
+
+
+
+
+
+ 
+
+21.3 
+
+Employer agrees that in case of any loss or damage to the WEGs arising due to reasons outside the scope of the Operations, Maintenance and Services Agreement , Contractor will not be made liable to make good such losses provided that Contractor has not contributed in any respect to such loss or damage. Contractor shall not be liable in case of any loss or damage caused to WEGs by reason of natural calamities, act of God and Force Majeure. Contractor will be held liable for loss/damages due to its negligence, omissions and failure to perform its contractual obligations
+
+
+
+
+
+ 
+
+21.4 
+
+The Employer shall indemnify and hold harmless the Contractor, any of its directors, officers, employees, agents or assignees, against and from all claims, damages, losses and expenses (including legal fees and expenses) in respect of bodily injury, sickness, disease or death, which is directly and solely attributable to any negligence, willful act or willful breach of the Agreement by the Employer, any of its directors, officers, employees, agents or assignees.
+
+
+
+
+
+22.  OPERATION, MAINTENANCE AND TRAINING
+
+ 
+
+
+
+ 
+
+22.1 
+
+The Contractor shall undertake per Schedule 5 the Operation Services, Maintenance Services and Security Services of the 24 MW Wind Farm to be installed at Chitradurga District, Karnataka at the rate of Rs1,12,500 per WEG per year from the date of commissioning of that WEG with an annual escalation of 5 % on the above amount after the expiration of two years from the date of commissioning of that WEG.
+
+
+
+
+
+ 
+
+22.2
+
+The Contractor will impart training to nominated persons of the Employer, as and when required.
+
+
+
+23.  ASSIGNMENT / NOVATION
+
+ 
+
+
+
+ 
+
+23.1 
+
+The Employer may assign/ Novate the entire benefit and obligations of the Agreement to its subsidiaries only without prior written consent of the Contractor but with prior notice and subject to the rights of the contractor for continuously implementing the project till completion without hindrance. Upon completion of the entire project by the contractor, the employer has the right to novate /assign the WEGs to any parties subject to the settlement of dues payable to the contractor, if any.
+
+
+
+
+
+ 
+
+23.2
+
+The Contractor shall not assign or purport to assign the benefit of the Agreement without the prior written consent of the Employer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+24.  MISCELLANEOUS
+
+ 
+
+24.1  Notice
+
+ 
+
+
+
+ 
+
+24.1.1
+
+Any notice or other communication to be given under the Agreement shall be in writing and may be delivered in person or sent by fax or by recognized international mail delivery such as DHL registered or certified mail addressed to the relevant Party as follows to the Contractor at:
+
+
+
+26A Kamaraj Road
+
+Mahalingapuram, Pollachi 642 002 Tamil Nadu
+
+to the Employer at:
+
+4336 Montgomery Avenue
+
+Bethesda MD 20814
+
+  or at such other address or fax number as it may notify to the other Party under this Clause.
+
+
+
+24.1.2 Any notice or document shall be deemed to be given:
+
+ 
+
+
+
+ 
+
+(a) 
+
+if delivered in person, at the time of delivery; or
+
+ 
+
+
+
+ 
+
+(b) 
+
+if sent by fax, at the expiration of two hours after the time of dispatch, if dispatched before 3.00 p.m. Indian Standard Time on any business day, and in any other case at 10.00 a.m. Indian Standard Time on the next business day following the date of dispatch.
+
+
+
+
+
+ 
+
+24.1.3
+
+In proving service of a notice or document it shall be sufficient to prove that delivery was made or that the fax was properly addressed and sent.
+
+
+
+
+
+ 
+
+24.2 
+
+Governing Law: This Agreement shall be governed in accordance with the laws of India;
+
+
+
+
+
+
+
+ 
+
+24.3
+
+Integration:  This Agreement and the documents referenced in Clause 3 is the entire agreement between the parties and supersedes any other agreement or understanding between the parties, whether oral or written.
+
+ 
+
+
+
+ 
+
+24.4. 
+
+Costs: Save as otherwise provided in the Agreement, each Party shall pay the costs and expenses incurred by it in connection with the entering into and completion of the Agreement. 
+
+
+
+
+
+ 
+
+24.5. 
+
+Severability: The provisions contained in the Agreement shall be enforceable independent of each of the others and its validity shall not be affected if any of the other provisions are invalid. If any of those provisions are void but would be valid if some part of the provision were deleted, the provision in question shall apply with such modification as may be necessary to make it valid.
+
+
+
+
+
+ 
+
+24.6
+
+Survival: In the event of termination of the Agreement notwithstanding anything mentioned herein, Clauses which by their nature survive termination shall survive the termination of the Agreement.
+
+
+
+
+
+ 
+
+24.7.
+
+Amendment: No variation, waiver, amendment or modification of any of the terms of the Agreement shall be valid, unless it is made in writing and mutually agreed upon by the Parties. Provided however, the Parties may mutually decide in writing to extend the scope of the Agreement . 
+
+
+
+
+
+ 
+
+24.8. 
+
+Partnership: Nothing in the Agreement shall be deemed to constitute a partnership between the Parties or constitute either Party as the agent of the other Party for any purpose. 
+
+
+
+
+
+ 
+
+24.9. 
+
+Independent Contractor: CWEL shall perform its duties under this Agreement as an independent contractor, and not as an agent of IGC. 
+
+
+
+
+
+ 
+
+24.10
+
+Waiver: No failure or delay by either Party in exercising any right, power or remedy under the Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of the same preclude any further exercise thereof or the exercise of any other right, power or remedy. Without limiting the foregoing, no waiver by either Party of any breach of any provision of the Agreement shall be deemed to be a waiver of any subsequent breach of that or any other provision of the Agreement .
+
+
+
+
+
+ 
+
+24.11
+
+Covenants Reasonable: The Parties agree that, having regard to all the circumstances, the covenants contained herein are reasonable and necessary for the protection of the Parties. If any such covenant is held to be void as going beyond what is reasonable in all the circumstances, but would be valid if amended as to scope or duration or both, the covenant will apply with such minimum modifications regarding its scope and duration as may be necessary to make it valid and effective.
+
+
+
+
+
+ 
+
+24.12
+
+Counter-Parts: Each Party shall execute one copy of the Agreement in original.
+
+
+
+
+
+ 
+
+24.13
+
+Whole Agreement: As on the date of the Agreement, the Agreement contains the whole agreement between the Parties relating to the transactions contemplated by the Agreement and supersedes all previous agreements between the Parties relating to these transactions.
+
+
+
+
+
+ 
+
+24.14
+
+No Implied Representation: Each of the Parties acknowledges that, in agreeing to enter into the Agreement , it has not relied on any representation, warranty, collateral contract or other assurance except those set out in the Agreement and the documents referred to in made by or on behalf of the other Party before the execution of the Agreement.
+
+
+
+
+
+ 
+
+24.15
+
+Without Prejudice: The Parties agree that the rights and remedies of the Parties hereunder are in addition to their rights at law or equity. 
+
+
+
+
+
+ 
+
+24.16
+
+Further Assurance: Each Party agrees to do all such actions, including execution of all such deeds and documents, as may be reasonable required by the other Party to give effect to the transaction contemplated in the Agreement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+25. FORCE MAJEURE
+
+ 
+
+
+
+ 
+
+25.1.
+
+The Contractor will not be responsible, if during the continuance of this Agreement , the performance in whole or part of any obligation under the Agreement shall be prevented or delayed by any of the following conditions:
+
+ 
+
+25.1.1 Fire, floods, epidemic, earthquake, storms, heavy winds, untimely rains, quarantine restrictions, etc.
+
+
+
+25.1.2. War, embargo, invasion, hostility, riots, acts of public enmity, sabotages, explosions, strikes, lockouts, revolution, act of god, acts of civil commotion etc.
+
+
+
+25.1.3.  Government orders and / or restrictions, changes in the government's policy etc.
+
+ 
+
+25.1.4. In such a case neither party shall be entitled to cancel the Agreement nor shall any claims be made for such damages against the other party in respect of such delay or non-performance and the performance and delivery of the Agreement will be resumed as soon as practicable after such eventuality has come to an end or ceased to exist.
+
+ 
+
+ 
+
+26.  ARBITRATION
+
+ 
+
+
+
+ 
+
+26.1. 
+
+In the event of any dispute or difference between the Parties arising out of relating to this Agreement (“Dispute”), the Parties shall make endeavors to settle the “Dispute” amicably.
+
+
+
+
+
+ 
+
+26.2.
+
+If within 30 days of the Dispute, there is no amicable settlement, the Dispute shall, at the request of either Party, be referred to arbitration under the rules (“Rules”) of the International Arbitration Association before an arbitrator who shall be appointed by the Parties by mutual consent. In the event that the Parties are unable to mutually agree to the appointment of an arbitrator within fifteen (15) days of one of the Party to the Dispute notifying its intention to refer the Dispute to arbitration (“Arbitration Notice”), each Party to the dispute shall appoint one person as the proposed arbitrator, who has the relevant expertise given the nature of the Dispute, within fifteen (15) days of the issuance of the Arbitration Notice and the appointed arbitrators shall appoint the final arbitrator who shall act as the presiding arbitrator. The place of the arbitration shall be Bangalore/Coimbatore /Singapore and the language of the arbitration shall be English.
+
+
+
+
+
+
+
+ 
+
+26.3.
+
+ 
+
+Notwithstanding the foregoing, the Parties agree that any of them may seek interim measures including injunctive relief in relation to the provisions of this agreement or the Parties' performance of it from any court of competent jurisdiction. Each Party shall co-operate in good faith to expedite (to the maximum extent practicable) the conduct of any arbitral proceedings commenced under this Agreement. 
+
+ 
+
+
+
+ 
+
+26.4.
+
+The costs and expenses of the arbitration, including, without limitation, the fees of the arbitration and the Arbitrator, shall be borne equally by each Party to the dispute or claim and each Party shall pay its own fees, disbursements and other charges of its counsel, except as may be otherwise determined by the arbitrators. The arbitrators would have the power to award interest on any sum awarded pursuant to the arbitration proceedings and such sum would carry interest, if awarded, until the actual payment of such amounts.
+
+ 
+
+
+
+ 
+
+26.5
+
+Any award made by the arbitrators shall be final and binding on ach of the Parties that were parties to the dispute subject to the rights of appeal. The Parties expressly agree to waive the applicability of any Laws and regulations that would otherwise give the right to appeal the decisions of the arbitrators so that there shall be no appeal to any court of Law for the award of the arbitrators, except a Party shall not challenge or resist any enforcement action taken by any other Party in any court of Law in whose favour an award of the arbitrators was given.
+
+
+
+27.  ATTORNEY’S FEES
+
+
+
+
+
+ 
+
+27.1.
+
+In the event of litigation to enforce the provisions of this Agreement, the prevailing party in such litigation shall be entitled to reasonable attorney’s fees as fixed by the Court from the opposite party. 
+
+
+
+ 
+
+In Witness whereof the parties hereto have caused this Agreement to be executed in accordance with their respective laws. 
+
+
+
+
+
+ 
+
+SIGNED by: 
+
+SIGNED by: 
+
+ 
+
+For INDIA GLOBALIZATION CAPITAL INC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RAM MUKUNDA
+
+CHIEF EXECUTIVE OFFICER & PRESIDENT
+
+ 
+
+For CHIRANJJEEVI WIND ENERGY LIMITED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R.V.S.MARIMUTHU
+
+CHAIRMAN & MANAGING DIRECOTR
+
+ 
+
+ 
+
+For ARUL MARIAMMAN TEXTILES LIMITED
+
+ 
+
+ 
+
+ 
+
+ 
+
+M.A.KANAGARAJ
+
+DIRECTOR
+
+ 
+
+ 
+
+FOR MARUDHAVEL INDUSTRIES LIMITED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+K.KUMARAVEL
+
+DIRECTOR
+
+ 
+
+Witness: 
+
+ 
+
+Witness: 
+
+ 
+
+Name: 
+
+ 
+
+Name:
+
+ 
+
+Address:
+
+ 
+
+Address:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: 
+
+ 
+
+Date:

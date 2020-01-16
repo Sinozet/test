@@ -1,0 +1,1519 @@
+SUB-CONTRACT AGREEMENT
+
+                                     Between
+
+                              Hyundai Syscomm Corp.
+
+                                       And
+
+                        Electronic Control Security, Inc
+
+
+
+                         Dated as of: December 22, 2006
+
+
+
+
+
+
+
+THIS AGREEMENT is dated as of December 22, 2006.
+
+
+
+PARTIES
+
+
+
+(1)   Hyundai Syscomm Corp. a California corporation with a place of business at
+
+      8805 Pagoda Way, San Diego CA 92126 ("Contractor").
+
+
+
+(2)   Electronic  Control Security,  Inc., a New Jersey corporation with a place
+
+      of business at 790 Bloomfield Avenue, Bldg C1, Clifton NJ 07012 ("ECSI").
+
+
+
+
+
+BACKGROUND
+
+
+
+A.    Contractor and its Affiliates,  amongst other things, design, manufacture,
+
+      supply,   market,   sell,  install  and  maintain  wireless  networks  and
+
+      components  and  security  systems  throughout  the  world  ("Contractor's
+
+      Primary Business").
+
+
+
+B.    ECSI and its  Affiliates,  amongst other  things,  supply,  market,  sell,
+
+      install and maintain  surveillance  and security  systems ("ECSI's Primary
+
+      Business").
+
+
+
+C.    Contractor  and  its  Affiliates,  on the  one  hand,  and  ECSI  and  its
+
+      Affiliates, on the other hand, believe that:
+
+
+
+      (i)   ECSI  and its  Affiliates  have  the  knowledge  and  capability  to
+
+            integrate ECSI's Primary Business with Contractor's Primary Business
+
+            by retrofitting  surveillance  and security systems into established
+
+            wireless  networks and by integrating  such systems into pending and
+
+            future  wireless  infrastructure  projects  around  the  world  that
+
+            Contractor and its Affiliates procure;
+
+
+
+      (ii)  the integration of ECSI's Primary Business into Contractor's present
+
+            and future  projects in Contractor's  Primary  Business will enhance
+
+            Contractor's  ability to maximize its profits and make its offerings
+
+            to present and potential clients more attractive; and
+
+
+
+      (iii) ECSI's  relationship  with Contractor and its Affiliates will enable
+
+            ECSI  to  greatly  expand  its  worldwide  exposure,   revenues  and
+
+            enterprise value.
+
+
+
+
+
+
+
+D.    Contractor  represents  that it will  have the  right to hire ECSI on each
+
+      project on which it requests ECSI's involvement.
+
+
+
+E.    ECSI represents that it will have the right to work for Contractor on each
+
+      project on which it agrees to participate with Contractor.
+
+
+
+F.    Contractor  desires to  participate  in ECSI's growth in market value as a
+
+      result of the benefits ECSI will receive under this Agreement, and ECSI is
+
+      willing to encourage Contractor to maximize its collaboration with ECSI by
+
+      making  available to Contractor  its shares of Common Stock that will have
+
+      the potential to appreciate in value as ECSI's revenues from collaborating
+
+      with Contractor increase.
+
+
+
+NOW THEREFORE,  in  consideration  of the promises and the mutual  covenants set
+
+forth herein, the Parties agree as follows:
+
+
+
+1.     DEFINITIONS
+
+
+
+Capitalized  terms  used in the  Agreement,  unless  defined  in the text of the
+
+Agreement, shall have the meanings specified in this Section 1.
+
+
+
+
+
+      1.1.  Affiliate  means any company,  which is under common  control  with,
+
+            controls,  or is  controlled  by,  either one of the  Parties to the
+
+            Agreement.
+
+
+
+      1.2.  Agreement  means  this  document,  Annexes  and all  amendments  and
+
+            changes signed by the Parties.
+
+
+
+      1.2.  Attachment  means a document agreed between the Parties and attached
+
+            to this Agreement forming an integral part hereto.
+
+
+
+      1.4.  Common Stock means the common stock,  par value $.001 per share,  of
+
+            ECSI.
+
+
+
+      1.5.  Cost of Goods  Sold  means the sum of the  direct  cost of good sold
+
+            plus  such  other  related  manufacturing  costs as may be  mutually
+
+            agreed by the Parties.
+
+
+
+      1.6.  Escrow  Shares  means  the  four  million  eight  hundred   thousand
+
+            (4,800,000)  shares of Common  Stock  being  sold to the  Contractor
+
+            pursuant to the Stock Purchase Agreement.
+
+
+
+
+
+
+
+      1.7.  Gross Profit means the excess of the gross revenues received by ECSI
+
+            in  connection  with this  Agreement  over the Cost of Goods Sold in
+
+            connection with such gross revenues.
+
+
+
+      1.8.  Registration means the registration under the Securities Act of 1933
+
+            of the resale of all shares of Common Shares owned by Contractor.
+
+
+
+      1.9.  Registration   Rights  Agreement  means  the   Registration   Rights
+
+            Agreement dated the date hereof between Contractor and ECSI.
+
+
+
+      1.10. Section 2.2 Update means a quarterly  update  provided by Contractor
+
+            pursuant to Section 2.2.
+
+
+
+      1.11. Stock Purchase Agreement means the Stock Purchase Agreement dated as
+
+            of the date hereof between Contractor and ECSI.
+
+
+
+      1.12. Term means the term of this  Agreement  as  determined  pursuant  to
+
+            Section 4.
+
+
+
+      1.13. Warrant means the warrant dated the date hereof issued and delivered
+
+            by ECSI to Contractor pursuant to the Stock Purchase Agreement.  The
+
+            Warrant  shall become  exercisable  as Contractor is credited with a
+
+            share of ECSI's Gross Profit under this Agreement.
+
+
+
+      1.14. Warrant  Shares  means the shares of Common Stock that may be issued
+
+            by ECSI to Contractor upon the exercise of the Warrant.
+
+
+
+2.    RESPONSIBILITIES OF CONTRACTOR
+
+
+
+Contractor's responsibilities during the Term shall include the following:
+
+
+
+
+
+      2.1.  Contractor will provide ECSI with  sub-contract  payments during the
+
+            Term against  deliverables to be mutually agreed between the Parties
+
+            as quickly as  possible  after the  execution  and  delivery of this
+
+            Agreement. Unless otherwise specified in the relevant purchase order
+
+            entered  into  by  ECSI  and  Contractor  prior  to a  project,  all
+
+            sub-contract  payments  to ECSI by  Contractor  shall be  subject to
+
+            Contractor's  prior  receipt of contract  revenues from the contract
+
+            counterparty with respect to the work performed or products supplied
+
+            by ECSI. ECSI acknowledges that contract payments to Contractor with
+
+            respect to work required to have been performed or products required
+
+            to have been supplied by ECSI ("ECSI  Deliverables")  may be reduced
+
+            or  delayed  by a  Contractor  counterparty  due to the  quality  or
+
+            timeliness  of the  ECSI  Deliverables.  ECSI  agrees  to  take  all
+
+            comer-cially  reasonable  actions  to  correct  the  reason for such
+
+            reduction or delay,  and Contractor  agrees to take all commercially
+
+            reasonable actions to encourage Contractor  counterparties to accept
+
+            and pay for all corrected ECSI Deliverables.
+
+
+
+
+
+
+
+      2.2.  On or  prior to the last day of each  calendar  quarter  during  the
+
+            Term,  Contractor  shall  deliver to ECSI a Section  2.2 Update that
+
+            sets forth a minimum in  contract  revenues  based on US GAAP during
+
+            the  subsequent  12-month  period.  By  way of  illustration  of the
+
+            foregoing,  on or prior  to  December  31,  2006,  Contractor  shall
+
+            provide  ECSI with a Section  2.2 Update that sets forth the minimum
+
+            Dollar  amount of  sub-contract  US GAAP  revenues to be provided to
+
+            ECSI during the 12-month  period ending December 31, 2007, and on or
+
+            prior to March 31, 2007,  Contractor shall deliver to ECSI a Section
+
+            2.2 Update that sets forth the  minimum  Dollar of  sub-contract  US
+
+            GAAP  revenues to be provided  to ECSI  during the  12-month  period
+
+            ending March 31, 2008. The aggregate amount of minimum revenue to be
+
+            guaranteed  pursuant  to the  Section  2.2  Updates  delivered  with
+
+            respect to  calendar  quarters up to an  including  June 30, 2008 is
+
+            subject  to the  aggregate  gross  revenue  guarantee  set  forth in
+
+            Section 2.4 hereof.
+
+
+
+      2.3.  Contractor  will provide ECSI with the  opportunity  to  participate
+
+            with Contractor in contracts  Contractor and its Affiliates now have
+
+            or hereafter  seek to obtain  during the Term  ("Contracts"),  where
+
+            ECSI's  participation  would  enhance  the value of the  Contract to
+
+            Contractor by adding a  surveillance  and security  component to the
+
+            scope of work of such Contract.
+
+
+
+
+
+
+
+      2.4.  Contractor  hereby agrees to provide under this Agreement to ECSI on
+
+            or prior  to June 30,  2008 at least  twenty  five  million  dollars
+
+            ($25,000,000) of gross revenues from security worthy assets on terms
+
+            beneficial  to HYUNDAI as well as ECSI,  provided that ECSI performs
+
+            its  obligations  under this  Agreement  in a timely  and  efficient
+
+            manner.  It is  reasonable  to  assume  that  ECSI will have a gross
+
+            profit margin under this Agreement of at least  thirty-five  percent
+
+            (35%)  provided  that ECSI is  efficient in  discharging  its duties
+
+            under this Agreement.
+
+
+
+
+
+
+
+4.    RESPONSIBILITIES OF ECSI
+
+
+
+ECSI's responsibilities during the Term shall include the following:
+
+
+
+
+
+      3.1.  ECSI shall continue  sub-contracting  work for Contractor as long as
+
+            Contractor procures the approvals deemed necessary by Contractor for
+
+            ECSI's participation under all relevant contracts.
+
+
+
+      3.2.  ECSI shall provide  Contractor  and its Affiliates on a timely basis
+
+            with all  assistance  needed to integrate  ECSI's  surveillance  and
+
+            security components into Contractor's plan of work for each contract
+
+            under which ECSI is a sub-contractor.
+
+
+
+      3.3.  ECSI will  design a technical  solution to address the  surveillance
+
+            and security  needs of Contractor  and its  Affiliates.  The Parties
+
+            will mutually agree in advance upon the acceptance  criteria for the
+
+            solution. Upon acceptance, ECSI will proceed with the implementation
+
+            of the  solution.  This will include the  assembly of the  necessary
+
+            hardware and software components and features,  the delivery of same
+
+            to Contractor for deployment at the site of  Contractor's  projects,
+
+            and  appropriate   guarantees  of  performance  by  ECSI  to  assure
+
+            Contractor that ECSI will perform its responsibilities  according to
+
+            contract specifications and on a timely basis.
+
+
+
+      3.4.  ECSI shall maintain the  confidentiality of the counterparty to each
+
+            Contract but may make known that  Contractor is the  counterparty to
+
+            this Agreement.
+
+
+
+
+
+
+
+      3.5.  ECSI shall permit  Contractor  to become and remain a fifty  percent
+
+            (50%) holder of ECSI Common  Stock by  compensating  Contractor  for
+
+            Gross  Profit  recognized  by ECSI  from this  Agreement  on a basis
+
+            designed  to share the benefit  between  ECSI and  Contractor.  ECSI
+
+            shall be credited  with  seventy  percent  (70%) of Gross Profit and
+
+            Contractor shall be credited with will thirty percent (30%) of Gross
+
+            Profit. Contractor may at its election take its thirty percent (30%)
+
+            of Gross Profit in the form of cash or in the form of Warrant Shares
+
+            becoming  exercisable  under the Warrant,  with each  Warrant  Share
+
+            becoming  exercisable  with fifty eight cents  ($.58)  Gross  Profit
+
+            credited to Contractor  until the average price of Escrow Shares and
+
+            the Warrant Shares then exercisable or exercised becomes forty cents
+
+            ($.40) per share. By way of example, if revenues provided to ECSI by
+
+            Contractor  and or one or  more  Contractor  Affiliates  under  this
+
+            Agreement  produce a Gross  Profit to ECSI of  thirty  five  percent
+
+            (35%) on aggregate  gross  revenues of Twenty Five  Million  Dollars
+
+            ($25,000,000)  and Contractor  elects to take its share of the Gross
+
+            Profit by making the  Warrant  exercisable  with  respect to Warrant
+
+            Shares,  the Warrant would become  exercisable  with respect to four
+
+            million five hundred  twenty five  thousand  eight hundred sixty two
+
+            (4,525,862) Warrant Shares calculated as follows: ($25,000,000 x .35
+
+            x .30)/$.58 = 4,525,862;  provided,  however, that the Warrant shall
+
+            be  exercisable  for a maximum number of Warrant  Shares,  that when
+
+            added to the Escrow Shares would make  Contractor  own fifty percent
+
+            (50%) or less of the  outstanding  shares of ECSI Common Stock.  Any
+
+            Warrant Shares  becoming  exercisable  but not issued because of the
+
+            fifty percent (50%)  limitation set forth in the preceding  proviso,
+
+            shall be  promptly  issuable  to  Contractor  upon  exercise  of the
+
+            Warrant as ECSI's  outstanding  shares of Common  Stock  increase so
+
+            that,  to  the  extent  the  Warrant  is  exercised  by  Contractor,
+
+            Contractor  shall retain its fifty percent (50%) ownership  interest
+
+            of ECSI Common Stock.
+
+
+
+
+
+      3.6.  Once the average  cost to  Contractor  of the Escrow  Shares and all
+
+            Warrant  Shares then  exercisable  or exercised  becomes forty cents
+
+            ($.40) per share,  any further Warrant Shares  becoming  exercisable
+
+            under the Warrant  shall be valued at forty cents (.40)  rather than
+
+            fifty eight cent ($.58) per share.
+
+
+
+
+
+
+
+4.    TERM OF AGREEMENT
+
+
+
+This Agreement shall be valid for a period of three (3) years from its date (the
+
+"Period").  The Period shall be renewed for additional  one-year  periods unless
+
+the Agreement is terminated by either Party  pursuant to Section 25. Even if the
+
+Period isn't renewed, the responsibilities of the Parties,  which started during
+
+the Period  and which  stays to a duration  after the end of the  Period,  shall
+
+continue in accordance with the Agreement.
+
+
+
+5.    CONSULTATION
+
+
+
+      5.1.  The  Parties  shall  have  periodic  review  meetings,  where  their
+
+            authorized  representatives  shall  consult  with  each  other  with
+
+            respect  to  existing  and  prospective  projects  on which  ECSI is
+
+            sub-contracting or may be expected to sub-contract to Contractor.
+
+
+
+      5.2.  The  Parties  shall  exchange   information  on  design  changes  or
+
+            improvements  to  their  respective   products  and  services,   new
+
+            products,  market,  demographic  and  similar  matters  as  mutually
+
+            agreed.  All such  information  shall be  subject  to the  terms and
+
+            conditions  of the  Mutual  Confidentiality,  Non-Circumvention  and
+
+            Invention Transfer Agreement between the Parties, dated November 28,
+
+            2006.
+
+
+
+6.    THE COMMON STOCK
+
+
+
+ECSI  represents  and  warrants  that its Board of  Directors  has  ratified the
+
+execution  and delivery of this  Agreement,  the Warrant and the issuance of the
+
+Warrant Shares pursuant to the Warrant.
+
+
+
+7.    PRODUCT WARRANTY
+
+
+
+
+
+      7.1.  ECSI warrants to  Contractor  that, as of the date title to products
+
+            supplied by ECSI passes to Contractor or the contract  counterparty,
+
+            ECSI will have the right to sell, transfer, and assign such products
+
+            and the title conveyed by ECSI shall be good.
+
+
+
+
+
+
+
+      7.2.  ECSI  guarantees  to  Contractor  that the ECSI products and product
+
+            components  supplied to  Contractor  for each  project on which ECSI
+
+            sub-contracts   shall  be   provided   without  any   material   and
+
+            craftsmanship  defects and that the  products or product  components
+
+            shall  be in  compliance  in all  material  respect  with  all  ECSI
+
+            Technical Specifications.  In case a defect or lack of conformity is
+
+            detected  during  the  guarantee  period  in a  product  or  product
+
+            component  supplied  by ECSI  during the normal and  correct  usage,
+
+            Contractor  shall inform ECSI about the incident  promptly and shall
+
+            follow  the  instructions  of  ECSI  concerning  the  return  of the
+
+            defective of non-conforming product or product component. ECSI shall
+
+            decide whether to repair or change the product or product  component
+
+            returned to ECSI,  without  requesting any material or craftsmanship
+
+            expenses. In case technical operational defects due to manufacturing
+
+            defects  are  detected,  the changed  product or product  components
+
+            shall be changed by ECSI with new  products  or product  components.
+
+            The  guarantee  periods  for the  products  and  product  components
+
+            provided  by ECSI shall be defined on a product by product  basis at
+
+            time of P.O. and shall become  effective  immediately  following the
+
+            assembly of the  products  and  product  components  by  Contractor.
+
+            Expenses caused by the defects of the products shall be met by ECSI.
+
+
+
+      7.3.  Warranty  replacement product components are warranted to be in good
+
+            working  order  for the  unexpired  warranty  period.  The  costs of
+
+            transportation,  risk of loss  and  customs  duties  related  to the
+
+            shipment  of  product  and/or  product   components  for  repair  or
+
+            replacement  from  Contractor  to ECSI  shall be for the  account of
+
+            Contractor.  The costs of  transportation,  risk of loss and customs
+
+            duties related to the shipment of repaired or  replacement  products
+
+            and/or  product parts from ECSI to Contractor are for the account of
+
+            ECSI.
+
+
+
+      7.4.  The  foregoing  warranty  does not  extend to  products  or  product
+
+            components  that have (a) been subjected to misuse,  neglect,  power
+
+            failures or surges, lightning, fire, flood, pest damage or accident,
+
+            (b) been repaired or altered  contrary to ECSI's  instructions,  (c)
+
+            been improperly handled, installed,  stored, or maintained, (d) been
+
+            used contrary to ECSI instructions.
+
+
+
+
+
+
+
+8.    SOFTWARE WARRANTY
+
+
+
+
+
+      8.1.  ECSI guarantees  Contractor  that, for the warranty period set forth
+
+            below, all software  supplied by ECSI to Contractor and installed in
+
+            accordance with ECSI's  instructions  will perform  substantially as
+
+            described in the technical specifications for such software.  During
+
+            the  warranty  period,  in case a failure  to  perform  as set forth
+
+            above, after the instructions of ECSI are followed and the defective
+
+            software  is  returned  to  ECSI,  ECSI  shall  fix  or  change  the
+
+            aforementioned  software without any additional charges.  ECSI shall
+
+            do its best to fix or change the software.
+
+
+
+      8.2.  The warranty period for software  provided by ECSI will be 12 months
+
+            from the date of installation of the software by Contractor.
+
+
+
+      8.3.  When it  discovers  a defect  subject to this  warranty,  Contractor
+
+            shall  contact  ECSI  and  based  on  the  nature  of  the  request,
+
+            Contractor  will be advised  as to the  estimated  time for  trouble
+
+            clearance or provided with the information  requested.  ECSI will be
+
+            responsible for resolution of all troubles reported.
+
+
+
+            ECSI makes no warranty as to the following: defects other than those
+
+            which  result  in  performance   not  in  conformance   with  ECSI's
+
+            specifications  and which have a significant impact on the user of a
+
+            product;  defects  related to Contractor's or its End Users' misuse,
+
+            neglect,  accident or abuse;  defects related to Contractor's or its
+
+            End Users' alteration of software.
+
+
+
+9.    WARRANTY DISCLAIMER
+
+
+
+THE  WARRANTIES  FOR  PRODUCTS  AND  SOFTWARE  SET FORTH IN SECTIONS 7 AND 8 ARE
+
+EXCLUSIVE AND ARE IN LIEU OF ALL OTHER EXPRESS AND IMPLIED WARRANTIES, INCLUDING
+
+BUT NOT LIMITED TO  WARRANTIES OF  MERCHANTABILITY  AND FITNESS FOR A PARTICULAR
+
+PURPOSE.  CONTRACTOR'S  SOLE AND EXCLUSIVE REMEDY SHALL BE ECSI'S  OBLIGATION TO
+
+CORRECT OR REPLACE, AS SET FORTH IN SECTIONS 7 AND 8.
+
+
+
+
+
+
+
+10.   REPAIRS NOT COVERED UNDER WARRANTY
+
+
+
+
+
+      10.1. In addition to repairs provided for in the warranty  sections,  ECSI
+
+            will,  during  the  Term  and for a  period  of 5 years  thereafter,
+
+            provide repair services for such reasonable charges as may from time
+
+            to time be  specified  by ECSI.  Products to be repaired  under this
+
+            Section must be returned by Contractor  to a location  designated by
+
+            ECSI. The repaired  product or product  component will be shipped to
+
+            Contractor.
+
+
+
+      10.2. It is  understood  that,  to  facilitate  the  process of product or
+
+            product  components  returned to ECSI for non-warranty  repair,  new
+
+            factory reconditioned,  refurbished, remanufactured, or functionally
+
+            equivalent replacement product component may be shipped. Replacement
+
+            and repaired product or product  components shall be warranted for a
+
+            period of three (3) months from the date of installation.
+
+
+
+      10.3. All transportation  costs, custom duties, risk of loss and damage to
+
+            product or product components returned for repair under this section
+
+            will be borne by Contractor,  and all transportation  costs,  custom
+
+            duties,  and in-transit  risk of loss and damage to such repaired or
+
+            replacement  product or product  components  returned to  Contractor
+
+            will be borne by Contractor.
+
+
+
+11.   TRAINING
+
+
+
+ECSI shall provide training for the assembly,  maintenance and usage of the test
+
+equipment,  and shall  charge its most  favored  prices to  Contractor,  in case
+
+another  agreement  concerning  the topic isn't agreed upon by the Parties.  The
+
+Parties shall jointly decide on the location of these aforementioned  trainings.
+
+In case  another  agreement  isn't  agreed  upon by the  Parties,  the  provided
+
+trainings and all the printed  literature shall be English.  The initial product
+
+trainings shall be provided by ECSI as part of the initial system offering.
+
+
+
+
+
+
+
+12.   PRICE
+
+
+
+ECSI shall provide such bid  information  as Contractor  reasonably  requires in
+
+order for Contractor to bid on contracts in which ECSI acts as a sub-contractor.
+
+
+
+13.   INVOICING AND PAYMENTS
+
+
+
+      13.1. Unless otherwise agreed,  the provisions in this Section shall apply
+
+            to invoicing and payments.
+
+
+
+      13.2. Contractor  shall  effect all payments due to ECSI net in US Dollars
+
+            (USD) to the ECSI bank account indicated in the applicable  invoice.
+
+            All price  information on invoices and related documents shall be in
+
+            US Dollars.
+
+
+
+      13.3. The whole of the order  price  (100%)  shall be paid by  Contractor,
+
+            without any interest,  within ten (10) days of Contractor's  receipt
+
+            of contract payments for items supplied by ECSI.
+
+
+
+      13.4. Letter of Credit - To be determined and mutually agreed.
+
+
+
+14.   DELIVERY AND TITLE
+
+
+
+
+
+      14.1. All deliveries by ECSI to Contractor shall be made to Contractor FOB
+
+            ECSI factory.
+
+
+
+      14.2. Title  and  risk of loss to the  products  (except  as  provided  in
+
+            Section 17 with  regard to  Firmware)  shall pass to  Contractor  on
+
+            shipment,  without  thereby in any way waiving  ECSI's  right to any
+
+            payment not yet received at that time.
+
+
+
+15.   IMPORTATION EXPENSES AND TAXES
+
+
+
+Contractor  shall be responsible  for payment for all taxes,  customs duties and
+
+other governmental charges,  however designated,  associated with importation of
+
+the products into the country where the contract is to be performed.  Contractor
+
+shall  reimburse ECSI for any such taxes,  duties and charges that ECSI advances
+
+or pays.
+
+
+
+
+
+
+
+16.   NOTICES
+
+
+
+All  notices,  which  shall or should  be made in  compliance  with this  hereby
+
+Agreement,  shall be made in written form and to the addresses set forth herein,
+
+or to the addresses notified to the other Party in written form afterwards;  and
+
+when these  notices are  received  then they shall be accepted as made.  Notices
+
+made with faxes or e-mails  shall only be  accepted,  in case the sending may be
+
+proved.
+
+
+
+17.   FIRMWARE
+
+
+
+No title or other ownership rights in Firmware or any copy thereof shall pass to
+
+Contractor under this Agreement.  Contractor  agrees that it shall not alter any
+
+notices on,  prepare  derivative  works based on, or reproduce,  disassemble  or
+
+decompile any Software embodied in Firmware recorded in the products.
+
+
+
+18.   INTENTIONALLY OMITTED
+
+
+
+19.   INTENTIONALLY OMITTED
+
+
+
+20.   TRADEMARKS AND MARKINGS
+
+
+
+ECSI hereby  consents and grants  Contractor  permission to utilize certain ECSI
+
+designated trademarks,  insignia and symbols ("Marks") solely in connection with
+
+Contractor'S  advertising  and  promotion  of the  contracts  on which ECSI is a
+
+sub-contractor.  Contractor's  rights  under this Section 20 shall be subject to
+
+Contractor's  agreement  to  comply  with any  reasonable  written  instructions
+
+provided by ECSI from time to time with respect to usage of the Marks.
+
+
+
+21.   MUTUAL LIMITATION OF LIABILITY
+
+
+
+      21.1. No action or proceeding against a Party or its Affiliates under this
+
+            Agreement  may be  commenced  more than twelve (12) months after the
+
+            cause of action accrues.
+
+
+
+
+
+
+
+      21.2. This Article shall apply and remain  operative  notwithstanding  the
+
+            failure of an exclusive remedy.
+
+
+
+22.   INDEMNITY
+
+
+
+
+
+      22.1. General  Litigation:  -  Either  Party  (for  the  purpose  of  this
+
+            paragraph,  an  "Indemnifying  Party") will defend and indemnify the
+
+            other Party (an  "Indemnified  Party") for any  settlement  or final
+
+            judgment  that arises out of a claim or suit by third parties to the
+
+            extent  that such claim or suit is based on an action for  negligent
+
+            acts or omissions of the Indemnifying Party. An Indemnifying Party's
+
+            obligation  to  indemnify  will be reduced  to the  extent  that the
+
+            settlement  or  judgment  is  attributable  to  the  actions  of the
+
+            Indemnified  Party. The Indemnified Party will give the Indemnifying
+
+            Party prompt  notification  of any claim or suit and will co-operate
+
+            in the defence or settlement thereof. The Indemnifying Party will be
+
+            responsible  for all attorney's fees and costs incurred in defending
+
+            or settling any claim or suit.  In no event will the liability of an
+
+            Indemnifying  Party  under this  Article  (inclusive  of legal fees)
+
+            exceed  the  Gross  Profits  credited  to  such  Indemnifying  Party
+
+            pursuant to Section 3.5 of this Agreement.
+
+
+
+      22.2. Patent, Trademark and Copyright Litigation: - ECSI shall, subject to
+
+            the conditions and exceptions  stated in this  paragraph,  defend or
+
+            settle  all  suits  against   Contractor  or  any  of   Contractor's
+
+            contractual  counter  parties  alleging  that any product or product
+
+            component  including  Firmware  provided by ECSI (for the purpose of
+
+            this paragraph the term "Product"  shall be read to mean product and
+
+            product component, including Firmware) furnished hereunder infringes
+
+            any U.S. patent, U.S. trademark or U.S. copyright,  by reason of its
+
+            use, in  accordance  with ECSI's  specifications,  and shall pay all
+
+            damages and costs which by final  judgement  of a court of competent
+
+            jurisdiction   may  be  assessed  against  or  on  account  of  such
+
+            infringement;  provided that ECSI (i) shall have had prompt  written
+
+            notice from  Contractor of the claim of such  infringement  and full
+
+            opportunity  and  authority  to assume  the sole  defence  of and to
+
+            settle  such  claims or suits,  and (ii) shall have been  furnished,
+
+            upon  ECSI's  request,   by  Contractor  with  all  information  and
+
+            assistance  available to Contractor  for such defence or settlement.
+
+            If the use of the product shall be or is likely to be enjoined, ECSI
+
+            at its sole  discretion  will either (a) procure  for  Contractor  a
+
+            license or other right to continue use and sale of the  product;  or
+
+            (b) replace the enjoined product with a suitable  substitute free of
+
+            any infringement;  or (c) modify them so they become non-infringing.
+
+            Contractor  agrees  to  indemnify  and  save  harmless  ECSI and its
+
+            suppliers and Affiliates from all costs,  expenses,  liabilities and
+
+            claims for (a)  infringement  of any  intellectual  property  rights
+
+            arising from adherence to instructions,  specifications  or drawings
+
+            which ECSI is directed by Contractor to follow;  or (b) infringement
+
+            of any  intellectual  property rights related to Contractor's use of
+
+            the product in  combination  with any item or items not furnished by
+
+            ECSI.
+
+
+
+
+
+
+
+23.   TERMINATION OF AGREEMENT
+
+
+
+
+
+This Agreement may be terminated by either Party, in its sole  discretion,  upon
+
+sixty (60) days' prior written notice if the other Party has materially breached
+
+this  Agreement  and such  breach  (provided  it is capable  of remedy)  remains
+
+uncured  for a period of thirty  (30) days  following  receipt of notice of such
+
+failure,  default or breach; or if any material written  representation  made by
+
+the other  Party shall not be true and  correct as of the  relevant  publication
+
+date.
+
+
+
+24.   FORCE MAJEURE
+
+
+
+Neither Party shall be held  responsible for any delay or failure in performance
+
+of any part of the  Agreement  to the extent such delay or failure is caused by:
+
+fire; flood; explosion;  war or the engagement of hostilities;  strike; embargo;
+
+labor  dispute;  government  requirement;  acts or  failure  to act of  civil or
+
+military  authority;  acts  of God or the  public  enemy;  inability  to  secure
+
+materials  or  transportation  facilities;  acts or  omissions  of  carriers  or
+
+suppliers; or any other causes beyond its control, whether or not similar to the
+
+foregoing (hereafter, a "Force Majeure Condition").
+
+
+
+
+
+
+
+25.   CHOICE OF LAW AND SETTLEMENT OF DISPUTES
+
+
+
+      25.1. This Agreement shall be  administered  and interpreted in accordance
+
+            with  California  laws other than laws which  would make the laws of
+
+            another jurisdiction applicable.
+
+
+
+      25.2. All  conflicts  arising  about or in  connection  with  this  hereby
+
+            Agreement  shall be  settled by 3 arbiters  in  accordance  with the
+
+            commercial  rules  and  regulations  of  the  American   Arbitration
+
+            Association International Chamber of Commerce. The arbitration shall
+
+            be  conducted  in San  Francisco,  California  and  the  arbitration
+
+            language shall be English.
+
+
+
+26.   ASSIGNMENT
+
+
+
+This  Agreement  shall  not be  assigned  by  either  Party in whole or in part,
+
+without the prior  written  consent of the other Party,  (such consent not to be
+
+unreasonably withheld). Any such "assignment" shall include, without limitation,
+
+a merger, sale, or transfer of control, by operation of law or otherwise.
+
+
+
+27.   SUBCONTRACTING
+
+
+
+Each Party may  subcontract any or all of the work to be performed by them under
+
+the terms and conditions of the Agreement,  but ECSI and Contractor shall retain
+
+the responsibility for the work subcontracted.
+
+
+
+28.   EXPORT CONTROL REGULATIONS
+
+
+
+
+
+      28.1. ECSI and its Affiliates shall: (i) procure the necessary exportation
+
+            licenses  from the United  States  Chamber of  Commerce  or from the
+
+            country of origin;  and (ii) shall  export the  products and product
+
+            components.
+
+
+
+
+
+
+
+      28.2. Contractor  shall be  responsible  for  importing  the  products and
+
+            product  components  into each  country  where a  contract  is to be
+
+            performed and where ECSI is a sub-contractor.
+
+
+
+      28.3. Contractor  agrees  to  provide  to  ECSI,  upon  its  request,  all
+
+            necessary  assistance to facilitate the procurement of such required
+
+            export licenses.
+
+
+
+      28.4. In case  Contractor has signed an agreement  with its customer,  and
+
+            has placed an order to ECSI,  then ECSI is responsible for providing
+
+            the mentioned  products on time,  and in case a delay occurs or ECSI
+
+            isn't able to obtain the necessary exportation  licenses,  then ECSI
+
+            shall be held  responsible  and  Contractor  shall have the right to
+
+            demand a compensation.
+
+
+
+      28.5. Contractor  acknowledges  that the  commodities  transmitted or sold
+
+            under the  Agreement  may in fact be subject to export and re-export
+
+            restrictions  under the United States  Department of Commerce Export
+
+            Control Regulations (the "Regulations") and may require the specific
+
+            written  permission of the United  States  Department of Commerce to
+
+            export  or  re-export  the   commodities   outside  the  country  of
+
+            destination of such commodities listed in ECSI's bill of lading (the
+
+            "Destination  Country").  Contractor  further  acknowledges that any
+
+            product  manufactured by Contractor or its agents  incorporating any
+
+            item(s)  furnished  hereunder may also require the specific  written
+
+            permission  of the United  States  Department of Commerce for export
+
+            for the  Destination  Country,  as  described  in Part 776.12 of the
+
+            Regulations.
+
+
+
+      28.6. Contractor  hereby  assures ECSI that it does not intend to and will
+
+            not knowingly,  without the prior written consent,  if required,  of
+
+            the Office of Export  Administration of the United States Department
+
+            of  Commerce,   Washington,   D.C.  20230,   transmit   directly  or
+
+            indirectly,  sell,  transfer,  or,  convey (i) any of the  technical
+
+            information  (including  technology and information  included in the
+
+            product  components)  or  software  furnished  by ECSI;  or (ii) any
+
+            immediate  product  (including  materials,  processed  and services)
+
+            produced  directly by the use of any such  technical  information to
+
+            (1) Afghanistan,  the People's  Republic of China, Iraq or any Group
+
+            Q, S, W, Y or Z country as specified in Supplement No. 1 to Part 770
+
+            of  the  Regulations;   or  (2)  any  citizen  or  resident  of  the
+
+            aforementioned  countries;  or (3) any individual,  person or entity
+
+            appearing on the Table of Denial orders as published in  Supplements
+
+            Nos. 1 and 2 to Part 788 of the Regulations.  Current copies of such
+
+            lists  and  tables  will be  provided  by ECSI  to  Contractor  upon
+
+            request.
+
+
+
+
+
+
+
+      28.7. Contractor  agrees to inform  ECSI  promptly  in writing of any such
+
+            written  consent  issued  by the  United  States  Office  of  Export
+
+            Administration.
+
+
+
+      28.8. Contractor  agrees  that it will  not,  without  the  prior  written
+
+            consent of ECSI and the prior  written  authorization  of the United
+
+            States  Department of Commerce,  export directly or indirectly,  any
+
+            information or product components  including any associated Firmware
+
+            covered by the  Agreement  to any country  outside of the country in
+
+            which the  contract  on which  ECSI  supplied  such  information  or
+
+            product components is to be performed.
+
+
+
+      28.9. Contractor  acknowledges  that its  obligations  under this  Article
+
+            shall survive the termination of the Agreement.
+
+
+
+29.   U.S. FOREIGN CORRUPT PRACTICES ACT
+
+
+
+Contractor  acknowledges  that it is  familiar  with and fully  understands  the
+
+provisions of the U.S. Foreign Corrupt  Practices Act of 1977 and its subsequent
+
+amendment  of 1988  ("the  Act"),  and  that  with  respect  to the Act  neither
+
+Contractor nor any officer,  director,  employee or agent of Contractor shall do
+
+or be instructed to do any of the following:  (a) pay or give anything of value,
+
+either directly or indirectly, to an official of any government or any political
+
+party  for  the  purpose  of  influencing  an act or  decision  in his  official
+
+capacity,  or inducing him to use his influence  with the government in order to
+
+assist  Contractor in obtaining or retaining  business for or with, or directing
+
+business to, any person,  or for any other purpose  whatsoever;  or (b) take any
+
+act or use any  compensation  received for any purpose which would  constitute a
+
+violation  of any  law of the  U.S.  or any  political  subdivision  within  the
+
+Territory, including the Act.
+
+
+
+
+
+
+
+30.   WAIVER
+
+
+
+No failure to  exercise  and no delay or  partial  exercise  of a right or power
+
+conferred  upon a Party  under the terms of the  Agreement  shall  operate  as a
+
+waiver of such right or power.
+
+
+
+31.   SURVIVAL OF OBLIGATIONS
+
+
+
+The obligations of the Parties under Sections 6-10,  13-17,  21, 22 and 25-34 of
+
+this Agreement shall survive any termination of this Agreement.
+
+
+
+32.   SEVERABILITY
+
+
+
+If any  section,  paragraph  or  Article  in the  Agreement  shall be held to be
+
+invalid or unenforceable, then the meaning of such section, paragraph or Article
+
+(the "Element") shall be construed so as to render it enforceable, to the extent
+
+feasible; and if no feasible  interpretation would save such section,  paragraph
+
+or Article,  it shall be severed  from the  Agreement  and the  remainder of the
+
+Agreement  shall  remain in full  force and  effect.  However,  in the event any
+
+Element is considered an essential  commercial or legal element of the Agreement
+
+by either ECSI or Contractor, the Parties shall promptly negotiate and implement
+
+a replacement therefor.
+
+
+
+33.   GOVERNING LANGUAGE
+
+
+
+This  Agreement has been made and executed in the English  language.  In case of
+
+conflict  between the Agreement and any translation  thereof from English,  this
+
+English counterpart of this Agreement shall control.
+
+
+
+34.   ENTIRE AGREEMENT
+
+
+
+The terms and conditions  contained in the Agreement supersede all prior oral or
+
+written  understandings  between the Parties with respect to the subject  matter
+
+hereof,  shall  constitute  the entire  agreement  between them  concerning  the
+
+subject  matter of the  Agreement  and shall not be  contradicted,  explained or
+
+supplemented  by any course of dealing or course of performance  between ECSI or
+
+any  of  its  Affiliates  and  Contractor.   There  are  no   understandings  or
+
+representations,   expressed  or  implied,  not  expressly  set  forth  in  this
+
+Agreement.  This Agreement  shall not be modified or amended except by a written
+
+document signed by the Parties hereto; provided,  however, that Contractor shall
+
+be able to  unilaterally  supplement  Section 2.1 by the delivery of Section 2.1
+
+Updates pursuant to Section 2.2.
+
+
+
+
+
+
+
+IN WITNESS  WHEREOF the Parties have caused the  Agreement to be signed by their
+
+duly authorized representatives effective as of the date written above.
+
+
+
+                                         HYUNDAI SYSCOMM CORP.
+
+
+
+
+
+                                         By:/s/Samuel Lee
+
+                                            --------------------------------
+
+                                            Name:  Samuel Lee
+
+                                            Title: Chairman of the Board
+
+
+
+
+
+
+
+                                         ELECTRONIC CONTROL SECURITY, INC.
+
+
+
+
+
+                                         By:/s/Arthur Barchenko
+
+                                            --------------------------------
+
+                                            Name:  Arthur Barchenko
+
+                                            Title: Chief Executive Officer
